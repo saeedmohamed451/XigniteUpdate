@@ -1,0 +1,24 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">testimonial_position</custom-field>
+        <custom-field action="translate">testimonial_company</custom-field>
+        <custom-field action="translate">Department</custom-field>
+        <custom-field action="translate">location</custom-field>
+        <custom-field action="translate">education</custom-field>
+        <custom-field action="translate">compensation</custom-field>
+        <custom-field action="translate">contact_link</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">stm_service</custom-type>
+        <custom-type translate="1">stm_careers</custom-type>
+        <custom-type translate="1">stm_staff</custom-type>
+        <custom-type translate="1">stm_works</custom-type>
+        <custom-type translate="1">stm_testimonials</custom-type>
+        <custom-type translate="1">stm_vc_sidebar</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">stm_testimonials_category</taxonomy>
+        <taxonomy translate="1">stm_service_category</taxonomy>
+        <taxonomy translate="1">stm_works_category</taxonomy>
+    </taxonomies>
+</wpml-config>

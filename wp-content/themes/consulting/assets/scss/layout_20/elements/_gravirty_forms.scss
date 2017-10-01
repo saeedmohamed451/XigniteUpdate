@@ -1,0 +1,106 @@
+body .gform_wrapper {
+  input[type=email],
+  input[type=number],
+  input[type=password],
+  input[type=tel],
+  input[type=text],
+  input[type=url],
+  textarea{
+    font-size: 14px;
+    line-height: 18px;
+    color: #222222;
+    background: #cacaca;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    padding: 16px 30px 15px;
+    @include border-radius(0);
+    @include transition();
+    box-sizing: border-box !important;
+    width: 100%;
+    display: block;
+    height: 49px;
+    &:active, &:focus {
+      background: #fff;
+      @include border-radius(2px);
+      @include box-shadow(0, 0, 0, 2px, $stm_third_color);
+    }
+  }
+
+  .ginput_complex.ginput_container {
+    overflow: inherit;
+  }
+
+  .recaptcha_input_area {
+    input[type=text] {
+      height: auto;
+      display: inline-block;
+    }
+  }
+}
+
+.select2-container--default .select2-selection--multiple {
+  outline: none !important;
+}
+
+.select2-container {
+  .selection{
+    display: block;
+    @include cleaner();
+  }
+  &.select2-container--default .select2-selection--multiple {
+    @include border-radius(0);
+    border: 1px solid #cacaca;
+    height: 49px;
+    line-height: 1;
+    background: #cacaca;
+    font-size: 14px;
+    .select2-selection__rendered {
+      line-height: 48px;
+      padding-left: 29px;
+      padding-right: 50px;
+      color: #222222;
+    }
+    .select2-selection__arrow {
+      width: 50px;
+      height: 49px;
+      top: 0;
+      right: 0;
+      b {
+        border-width: 6px 6px 0 6px;
+        border-color: #777777 transparent transparent transparent;
+        margin-left: -6px;
+        margin-top: -3px;
+      }
+    }
+  }
+  &.select2-container--default.select2-container--open .select2-selection--multiple {
+    border-color: #cacaca;
+    background-color: #fff;
+    .select2-selection__arrow {
+      b {
+        border-color: transparent transparent #777777 transparent;
+        border-width: 0 6px 6px 6px;
+      }
+    }
+  }
+  .select2-dropdown {
+    border: 1px solid #cacaca;
+    color: #222;
+    @include border-radius(0);
+    .select2-results__option--highlighted[aria-selected] {
+      background: $stm_secondary_color;
+    }
+    .select2-results__option {
+      padding: 10px 29px;
+    }
+  }
+}
+
+.select2-container--default {
+  .select2-selection--multiple {
+    .select2-selection__choice {
+      line-height: 35px;
+    }
+  }
+}

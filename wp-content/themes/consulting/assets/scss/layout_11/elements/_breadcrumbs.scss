@@ -1,0 +1,48 @@
+.breadcrumbs {
+  position: relative;
+  font-size: 12px;
+  line-height: 22px;
+  color: inherit;
+  margin: 0 0 6px;
+  text-transform: capitalize;
+  & > span{
+    margin: 0 12px 10px 0;
+    i.fa{
+      font-weight: 600;
+    }
+    a {
+      color: inherit;
+      &:hover {
+        color: #ffffff;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.page_title{
+  &.transparent{
+    margin-bottom: 10px;
+    .breadcrumbs{
+      margin-bottom: 16px;
+      color: #808080;
+      span{
+        i.fa{
+          color: $stm_secondary_color;
+        }
+        a{
+          color: #808080;
+          &:hover {
+            color: $stm_base_color;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
+  &.disable_title{
+    .breadcrumbs{
+      margin-bottom: 6px;
+    }
+  }
+}

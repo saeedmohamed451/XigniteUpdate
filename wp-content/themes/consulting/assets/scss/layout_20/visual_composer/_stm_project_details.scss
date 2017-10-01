@@ -1,0 +1,109 @@
+.project_info {
+  position: relative;
+  .project_info_wr {
+    position: relative;
+    background-size: 8px 4px;
+    padding: 30px 34px;
+    &:before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background: url("../../images/pattern_4.png") no-repeat 0 0;
+    }
+    &:after {
+      content: '';
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      width: 100%;
+      height: 100%;
+      background: url("../../images/pattern_4.png") no-repeat 100% 100%;
+    }
+    table {
+      width: 100%;
+      font-size: 14px;
+      td {
+        padding: 3px 0;
+      }
+      th {
+        font-weight: 700;
+        color: #333;
+      }
+    }
+  }
+  &.style_2 .project_info_wr {
+    td, th, tr, table {
+      display: block;
+      padding: 0;
+    }
+    &:before, &:after {
+      display: none;
+    }
+  }
+  &.style_3 .project_info_wr {
+    &:before, &:after {
+      display: none;
+    }
+  }
+  &.style_2 .project_info_wr {
+    padding: 0;
+  }
+  &.style_3 {
+    .project_info_wr {
+      padding: 0;
+    }
+    h4 {
+      margin: 0 0 27px;
+    }
+  }
+  &.style_2 {
+    .project_info_wr {
+      td {
+        font-size: 11px;
+        text-transform: uppercase;
+        color: #aaaaaa;
+      }
+      tr {
+        margin: 0 0 14px 0;
+        &:last-child {
+          margin: 0;
+        }
+      }
+      th {
+        font-size: 15px;
+        font-weight: 400;
+      }
+    }
+    h4 {
+      margin: 0 0 35px 0;
+    }
+    border: 3px solid $stm_base_color;
+    padding: 34px 34px 43px;
+  }
+  &.style_3 .project_info_wr {
+    th {
+      text-align: right;
+      font-weight: 400;
+      font-size: 15px;
+      color: inherit;
+    }
+    td {
+      color: inherit;
+      font-weight: 900;
+      background: #f2f2f2;
+      padding: 7px 14px 6px 17px;
+    }
+    th {
+      background: #f2f2f2;
+      padding: 7px 14px 6px 17px;
+    }
+    tr:nth-child(even) {
+      td, th {
+        background: #ffffff;
+      }
+    }
+  }
+}

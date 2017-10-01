@@ -1,0 +1,88 @@
+.countdown_box {
+  .stm_countdown {
+    float: right;
+    width: 100%;
+    margin-bottom: 40px;
+    .count-box {
+      float: right;
+      min-width: 90px;
+      text-align: center;
+      border: 1px solid #e6e6e6;
+      margin-left: 20px;
+      margin-bottom: 20px;
+      .position {
+        display: inline-block;
+        vertical-align: middle;
+        position: relative;
+        padding: 13px 0 12px;
+        width: 25px;
+        height: 93px;
+        line-height: 93px;
+        font-size: 48px;
+        color: $stm_secondary_color;
+        .digit {
+          position: absolute;
+          top: 0;
+          left: 0;
+        }
+      }
+    }
+    .countdown_label {
+      display: block;
+      padding: 7px 0;
+      border-top: 1px solid #e6e6e6;
+      text-transform: lowercase;
+      color: #a6a6a6;
+    }
+  }
+
+  .countdown_description {
+    margin-bottom: 41px;
+    line-height: 30px;
+    font-size: 18px;
+    color: #777777;
+  }
+
+  .stm-register-form {
+    .user_validated_field {
+      outline: none !important;
+      padding: 16px 20px;
+      margin-bottom: 15px;
+      @include border-radius(25px);
+      border: 1px solid #fafafa;
+      font-family: 'Rubik', sans-serif;
+      color: #222222;
+      background-color: #fafafa;
+      &::-webkit-input-placeholder {color:#adadad;}
+      &::-moz-placeholder          {color:#adadad;}
+      &:-moz-placeholder           {color:#adadad;}
+      &:-ms-input-placeholder      {color:#adadad;}
+    }
+  }
+
+}
+
+@media only screen and (min-width: 1480px) {
+  .stm-register-form {
+    .user_validated_field {
+      min-width: 308px;
+    }
+  }
+}
+
+@media only screen and (max-width: 469px) {
+  .countdown_box {
+    .stm_countdown {
+      .count-box {
+        float: none;
+
+      }
+    }
+  }
+
+  .stm-register-form {
+    .user_validated_field {
+      width: 100%;
+    }
+  }
+}

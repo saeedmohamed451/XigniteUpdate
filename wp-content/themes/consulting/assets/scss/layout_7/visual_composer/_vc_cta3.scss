@@ -1,0 +1,24 @@
+body{
+  .vc_cta3{
+    .vc_cta3-container{
+      margin-bottom: auto;
+    }
+    &.vc_general{
+      padding: 17px 0 15px;
+      border: none;
+      h2{
+        padding-top: 0;
+        margin: 0;
+        &:after{
+          display: none;
+        }
+      }
+    }
+    &.vc_cta3-actions-right{
+      .vc_cta3-content{
+        width: 1000px;
+        vertical-align: middle;
+      }
+    }
+  }
+}

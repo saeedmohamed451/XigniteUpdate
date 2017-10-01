@@ -1,0 +1,82 @@
+.company_history {
+  position: relative;
+  > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    > li {
+      margin: 0;
+      &:last-child {
+        margin: 0;
+      }
+      .year{
+        font-size: 20px;
+        font-weight: 700;
+        font-family: "Montserrat", sans-serif;
+        color: $stm_base_color;
+        line-height: 28px;
+        letter-spacing: -0.04em;
+        display: table-cell;
+      }
+      .sep{
+        position: relative;
+        display: table-cell;
+        width: 80px;
+        &:after{
+          content: '';
+          position: absolute;
+          left: 50%;
+          top: 8px;
+          width: 9px;
+          height: 9px;
+          background: $stm_third_color;
+          @include border-radius(100%);
+          -webkit-transform: translateX(-50%);
+          -moz-transform: translateX(-50%);
+          -ms-transform: translateX(-50%);
+          -o-transform: translateX(-50%);
+          transform: translateX(-50%);
+        }
+        &:before{
+          content: '';
+          position: absolute;
+          left: 50%;
+          top: 20px;
+          bottom: -5px;
+          width: 1px;
+          background: #e6e6e6;
+          @include border-radius(100%);
+          -webkit-transform: translateX(-50%);
+          -moz-transform: translateX(-50%);
+          -ms-transform: translateX(-50%);
+          -o-transform: translateX(-50%);
+          transform: translateX(-50%);
+        }
+      }
+      &:last-child{
+        .sep{
+          &:before{
+            display: none;
+          }
+        }
+        .company_history_text{
+          padding: 0;
+        }
+      }
+      .company_history_text{
+        display: table-cell;
+        padding: 0 0 50px;
+        h4{
+          margin: 0 0 16px;
+          padding: 0;
+          font-weight: 700;
+        }
+        p{
+          font-size: 13px;
+          line-height: 18px;
+          margin: 0;
+        }
+      }
+    }
+  }
+}

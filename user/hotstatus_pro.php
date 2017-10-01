@@ -1,0 +1,16 @@
+<?php
+include("isvalid.php");
+$status=$_GET['status'];
+$id=$_GET['id'];
+$row=$obj->hotstatus_pro($status,$id);
+if($row)
+{
+$_SESSION['msg']="Updated";
+header("location:productlist.php");
+}
+else
+{
+$_SESSION['msg']="Error";
+header("location:productlist.php");
+}
+?>

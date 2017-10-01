@@ -1,0 +1,20 @@
+#header {
+  position: relative;
+  z-index: 99999;
+}
+
+@import "header_top";
+@import "top_bar";
+@import "top_nav";
+@import "title_box";
+
+body{
+  &.header_transparent{
+    #header{
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+    }
+  }
+}

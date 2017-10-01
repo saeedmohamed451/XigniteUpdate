@@ -1,0 +1,91 @@
+.vc_custom_heading {
+  &.text_align_center{
+    *:after{
+      margin-left: auto;
+      margin-right: auto;
+    }
+    text-align: center;
+  }
+  &.text_align_right{
+    *:after{
+      margin-left: auto;
+    }
+  }
+  &.has_icon{
+    h1, .h1,
+    h2, .h2,
+    h3, .h3,
+    h4, .h4,
+    h5, .h5,
+    h6, .h6{
+      padding-top: 4px;
+    }
+  }
+  mark{
+    color: $stm_third_color;
+  }
+  .icon{
+    float: left;
+    margin-right: 30px;
+    color: $stm_third_color;
+  }
+  &.icon_pos_top {
+    .icon {
+      float: none;
+      margin-right: 0;
+      margin-bottom: 19px;
+      text-align: center;
+    }
+  }
+  &.icon_pos_bottom {
+    .icon {
+      float: none;
+      margin: 19px 0;
+      text-align: center;
+    }
+  }
+  &.icon_pos_right {
+    .icon {
+      float: right;
+      margin-right: 30px;
+      margin-left: 0;
+    }
+  }
+  .subtitle{
+    display: block;
+    font-size: 16px;
+    line-height: 24px;
+    color: #898989;
+    font-weight: 400;
+    letter-spacing: -.009em;
+  }
+  h2 {
+    .subtitle {
+      margin-top: 15px;
+    }
+  }
+  &.title_no_stripe {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      &:after {
+        content: none;
+      }
+    }
+  }
+  &.stripe_between {
+    margin-bottom: 23px;
+
+    h1, .h1,
+    h2, .h2,
+    h3, .h3,
+    h4, .h4,
+    h5, .h5,
+    h6, .h6 {
+      margin-bottom: 30px;
+    }
+  }
+}

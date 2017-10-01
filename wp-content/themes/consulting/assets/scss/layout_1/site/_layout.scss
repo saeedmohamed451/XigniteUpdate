@@ -1,0 +1,119 @@
+html {
+  font-size: 100%;
+}
+
+body {
+  color: #777777;
+  &.error404 {
+    background: url('../../images/page_404.jpg') no-repeat 50% 0 !important;
+    background-size: cover !important;
+  }
+  &.error404 {
+    #main {
+      background-color: transparent;
+    }
+    .content_wrapper {
+      background: none;
+    }
+  }
+  &.boxed_layout {
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    &.boxed_bg_image_pattern {
+      background-attachment: fixed;
+      background-repeat: repeat;
+      background-position: 50% 50%;
+      background-size: auto;
+    }
+    &.bg_img_1{
+      background-image: url("../../images/bg/img_1.jpg");
+    }
+    &.bg_img_2{
+      background-image: url("../../images/bg/img_2.jpg");
+    }
+    &.bg_img_3{
+      background-image: url("../../images/bg/img_3.png");
+      background-attachment: fixed;
+      background-repeat: repeat;
+      background-position: 50% 50%;
+      background-size: auto;
+    }
+    &.bg_img_4{
+      background-image: url("../../images/bg/img_4.png");
+      background-attachment: fixed;
+      background-repeat: repeat;
+      background-position: 50% 50%;
+      background-size: auto;
+    }
+    &.custom_bg_image{
+      background-attachment: fixed;
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    #wrapper {
+      max-width: 1230px;
+      margin: 39px auto 0;
+      overflow: hidden;
+      background: #fff;
+      box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+    }
+    &.sticky_header #wrapper {
+      margin-top: 0;
+    }
+    #footer {
+      max-width: 1230px;
+    }
+  }
+}
+
+#main {
+  position: relative;
+  padding: 0 0 60px;
+  z-index: 10;
+}
+
+#wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.content_wrapper {
+  position: relative;
+  background: #fff;
+  z-index: 10;
+}
+
+.mobile_header {
+  display: none;
+}
+
+.stm_viewport {
+  opacity: 0;
+  -webkit-transition: opacity 900ms linear;
+  -moz-transition: opacity 900ms linear;
+  transition: opacity 900ms linear;
+}
+
+.overflow_hidden {
+  overflow: hidden;
+}
+
+#frontend_customizer_button{
+  background: $stm_base_color;
+}
+
+.customizer-demo_list,
+.header_styles_list {
+  ul {
+    li {
+      a {
+        &.active,
+        &:hover {
+          background: $stm_secondary_color;
+          color: #ffffff;
+        }
+      }
+    }
+  }
+}

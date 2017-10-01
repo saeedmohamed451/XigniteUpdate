@@ -1,0 +1,52 @@
+.stats_counter {
+  position: relative;
+  .icon {
+    float: left;
+    color: $stm_base_color;
+    margin: 0 12px 0 0;
+  }
+  h3:after {
+    display: none;
+  }
+  h3 {
+    color: #fff;
+    margin: 0 0 14px;
+    font-size: 50px;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  .counter_title {
+    clear: both;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+  }
+  &.style_2 {
+    .inner {
+      display: table;
+      width: 100%;
+      .no_stripe {
+        display: table-cell;
+        vertical-align: middle;
+        padding: 20px 0;
+        width: 70px;
+        padding-right: 14px;
+        letter-spacing: -0.50px;
+        font-weight: 400;
+        font-size: 48px;
+        color: $stm_base_color;
+      }
+      .counter_description {
+        display: table-cell;
+        vertical-align: middle;
+        padding: 20px 0;
+        p {
+          text-align: left;
+          line-height: 18px;
+          margin-bottom: 0;
+          color: #1a1a1a;
+        }
+      }
+    }
+  }
+}

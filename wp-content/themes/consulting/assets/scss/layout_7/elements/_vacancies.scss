@@ -1,0 +1,74 @@
+.about_vacantion{
+  position: relative;
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  background: $stm_third_color;
+  padding: 23px 32px;
+  margin: 0 0 80px;
+  color: #404040;
+  .info{
+    display: table-cell;
+    line-height: 26px;
+    padding: 0 10px;
+    font-size: 13px;
+    &:first-child{
+      padding-left: 0;
+    }
+    &:last-child{
+      padding-right: 0;
+    }
+    .icon{
+      float: left;
+      width: 30px;
+    }
+    .text{
+      overflow: hidden;
+      strong{
+        display: block;
+        color: #222222;
+        font-soze: 14px;
+        font-weight: 700;
+      }
+    }
+  }
+}
+
+.vacancy_bottom{
+  position: relative;
+  margin: 0 0 60px;
+  padding-top: 40px;
+  border-top: 1px solid #dddddd;
+  .share_buttons{
+    white-space: nowrap;
+    padding: 5px 0 0;
+    .addtoany_header{
+      display: inline-block;
+      vertical-align: middle;
+      margin: 0 15px 0 0;
+      font-size: 11px;
+      line-height: 1;
+    }
+    label{
+      font-size: 11px;
+      color: #aaaaaa;
+      font-weight: 600;
+      text-transform: uppercase;
+      vertical-align: middle;
+      display: inline-block;
+      margin: 0 15px 0 0;
+    }
+    .addtoany_list{
+      display: inline-block;
+      vertical-align: middle;
+      margin: 0 -4px;
+      line-height: 1 !important;
+      a{
+        line-height: 1;
+        span{
+          vertical-align: middle;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2533 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-07 10:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:11
+msgid "The page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:15
+msgid "homepage"
+msgstr ""
+
+#: functions.php:55
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:56
+msgid "Sidebar Menu 1"
+msgstr ""
+
+#: functions.php:57
+msgid "Sidebar Menu 2"
+msgstr ""
+
+#: functions.php:58
+msgid "Sidebar Menu 3"
+msgstr ""
+
+#: functions.php:70
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:79
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:89
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:101
+msgid "Footer "
+msgstr ""
+
+#: comments.php:27
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:30
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:21 inc/customizer/registration.php:941
+#: inc/customizer/registration.php:942
+msgid ""
+"Copyright &copy; 2012-2016 Consulting Theme by <a href='http:"
+"//stylemixthemes.com/' target='_blank'>Stylemix Themes</a>. All rights "
+"reserved"
+msgstr ""
+
+#: footer.php:73
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst. "
+msgstr ""
+
+#: header.php:60 header.php:123 inc/customizer/registration.php:286
+msgid "1010 Avenue of the Moon New York, NY 10018 US."
+msgstr ""
+
+#: header.php:64 header.php:127 inc/customizer/registration.php:312
+msgid "Call free: <strong>212 386 5575</strong>"
+msgstr ""
+
+#: header.php:165 inc/customizer/registration.php:239
+msgid "Mon - Sat 8.00 - 18.00. Sunday CLOSED"
+msgstr ""
+
+#: header.php:286 inc/customizer/registration.php:511
+msgid ""
+"1010 Avenue of the Moon\n"
+"<span>New York, NY 10018 US.</span>"
+msgstr ""
+
+#: header.php:294 inc/customizer/registration.php:524
+msgid "Write us <a href=\"mailto:info@consulting.com\">info@consulting.com"
+msgstr ""
+
+#: header.php:302
+msgid ""
+"<strong>212 386 5575</strong><span data-scroll-to=\"request-call-back>"
+"Request call back</span>>Request call back</span>"
+msgstr ""
+
+#: header.php:309 header.php:346 header.php:424 header.php:678
+#: inc/customizer/registration.php:446
+msgid ""
+"<strong>212 714 0177</strong>\n"
+"<span>Free call</span>"
+msgstr ""
+
+#: header.php:315 header.php:679 inc/customizer/registration.php:433
+#: partials/headers/l14-hs5.php:135
+msgid ""
+"<strong>Mon - Sat 8.00 - 18.00</strong>\n"
+"<span>Sunday CLOSED</span>"
+msgstr ""
+
+#: header.php:323
+msgid ""
+"<strong>1010 Avenue of the Moon</strong><br/><span>New York, NY 10018 US."
+"</span>"
+msgstr ""
+
+#: header.php:358 searchform.php:2
+msgid "Search..."
+msgstr ""
+
+#: header.php:584 header.php:640 inc/customizer/registration.php:461
+#: inc/customizer/registration.php:462 inc/customizer/registration.php:554
+#: inc/customizer/registration.php:555
+msgid ""
+"Theme by <a href='http://stylemixthemes.com/' target='_blank'>Stylemix "
+"Themes</a> <br>2016 &copy; All rights reserved."
+msgstr ""
+
+#: header.php:680 inc/customizer/registration.php:420
+#: partials/headers/l14-hs5.php:152
+msgid ""
+"<strong>1010 Avenue of the Moon</strong>\n"
+"<span>New York, NY 10018 US.</span>"
+msgstr ""
+
+#: inc/extras.php:85
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/extras.php:89
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: inc/extras.php:91
+msgid "out of 5"
+msgstr ""
+
+#: inc/extras.php:95
+msgid "<i class=\"fa fa-reply\"></i> Reply"
+msgstr ""
+
+#: inc/extras.php:100
+msgid "Edit"
+msgstr ""
+
+#: inc/extras.php:107
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:130 inc/post_types-config.php:400
+msgid "Name"
+msgstr ""
+
+#: inc/extras.php:135
+msgid "E-mail"
+msgstr ""
+
+#: inc/extras.php:140 vc_templates/stm_portfolio_information.php:43
+msgid "Website"
+msgstr ""
+
+#: inc/extras.php:154
+msgctxt "noun"
+msgid "Message"
+msgstr ""
+
+#: inc/extras.php:157
+msgid "post a comment"
+msgstr ""
+
+#. 1: separator, 2: search phrase
+#: inc/extras.php:369
+msgid "Search Results"
+msgstr ""
+
+#: inc/extras.php:374
+msgid "Page not found"
+msgstr ""
+
+#: inc/extras.php:390 partials/mini-cart.php:3
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:1103
+msgid "New request for event - "
+msgstr ""
+
+#: inc/extras.php:1117
+msgid "Your request was sent"
+msgstr ""
+
+#: inc/extras.php:1121
+msgid "Please fill all fields"
+msgstr ""
+
+#: inc/extras.php:1129
+msgid "Please prove you're not a robot"
+msgstr ""
+
+#: inc/extras.php:1136
+msgid "New Event Member"
+msgstr ""
+
+#: inc/extras.php:1137
+msgid "Name: "
+msgstr ""
+
+#: inc/extras.php:1138 vc_templates/stm_contact.php:48
+msgid "Email: "
+msgstr ""
+
+#: inc/extras.php:1139
+msgid "Phone: "
+msgstr ""
+
+#: inc/extras.php:1140
+msgid "Company: "
+msgstr ""
+
+#: inc/extras.php:1232 inc/extras.php:1250
+msgid "Please, check yor email"
+msgstr ""
+
+#: inc/extras.php:1235
+msgid "Registration completed successfully"
+msgstr ""
+
+#: inc/extras.php:1236
+msgid "Your login: "
+msgstr ""
+
+#: inc/extras.php:1236
+msgid "Your password: "
+msgstr ""
+
+#: inc/extras.php:1236
+msgid "Website: "
+msgstr ""
+
+#: inc/extras.php:1242 inc/extras.php:1253
+msgid "Your download is available"
+msgstr ""
+
+#: inc/extras.php:1243 inc/extras.php:1254
+msgid "Download link: "
+msgstr ""
+
+#: inc/post_types-config.php:5
+msgid "Event"
+msgstr ""
+
+#: inc/post_types-config.php:6 inc/customizer/registration.php:723
+#: inc/customizer/registration.php:729 inc/customizer/registration.php:734
+msgid "Events"
+msgstr ""
+
+#: inc/post_types-config.php:7 inc/customizer/registration.php:739
+msgid "All Events"
+msgstr ""
+
+#: inc/post_types-config.php:13
+msgid "Member"
+msgstr ""
+
+#: inc/post_types-config.php:20 inc/customizer/registration.php:569
+msgid "Service"
+msgstr ""
+
+#: inc/post_types-config.php:21 vc_templates/stm_portfolio_information.php:37
+#: inc/customizer/registration.php:563 inc/customizer/registration.php:574
+msgid "Services"
+msgstr ""
+
+#: inc/post_types-config.php:22 inc/customizer/registration.php:579
+msgid "All Services"
+msgstr ""
+
+#: inc/post_types-config.php:28 inc/customizer/registration.php:601
+msgid "Vacancy"
+msgstr ""
+
+#: inc/post_types-config.php:29 inc/customizer/registration.php:595
+#: inc/customizer/registration.php:606
+msgid "Vacancies"
+msgstr ""
+
+#: inc/post_types-config.php:30 inc/customizer/registration.php:611
+msgid "All Vacancies"
+msgstr ""
+
+#: inc/post_types-config.php:36 inc/post_types-config.php:37
+#: inc/customizer/registration.php:627 inc/customizer/registration.php:633
+#: inc/customizer/registration.php:638
+msgid "Staff"
+msgstr ""
+
+#: inc/post_types-config.php:38 inc/customizer/registration.php:643
+msgid "All Staff"
+msgstr ""
+
+#: inc/post_types-config.php:44 inc/customizer/registration.php:665
+msgid "Work"
+msgstr ""
+
+#: inc/post_types-config.php:45 inc/customizer/registration.php:659
+#: inc/customizer/registration.php:670
+msgid "Works"
+msgstr ""
+
+#: inc/post_types-config.php:46 inc/customizer/registration.php:675
+msgid "All Works"
+msgstr ""
+
+#: inc/post_types-config.php:52 inc/customizer/registration.php:697
+msgid "Testimonial"
+msgstr ""
+
+#: inc/post_types-config.php:53 inc/customizer/registration.php:691
+#: inc/customizer/registration.php:702
+msgid "Testimonials"
+msgstr ""
+
+#: inc/post_types-config.php:54 inc/customizer/registration.php:707
+msgid "All Testimonials"
+msgstr ""
+
+#: inc/post_types-config.php:62 inc/customizer/registration.php:1286
+#: inc/customizer/registration.php:1331 inc/customizer/registration.php:1372
+msgid "VC Sidebar"
+msgstr ""
+
+#: inc/post_types-config.php:63 inc/customizer/registration.php:1270
+#: inc/customizer/registration.php:1315 inc/customizer/registration.php:1356
+msgid "VC Sidebars"
+msgstr ""
+
+#: inc/post_types-config.php:64
+msgid "All Sidebars"
+msgstr ""
+
+#: inc/post_types-config.php:72 inc/post_types-config.php:73
+#: inc/customizer/registration.php:755 inc/customizer/registration.php:761
+#: inc/customizer/registration.php:766
+msgid "Portfolio"
+msgstr ""
+
+#: inc/post_types-config.php:74 inc/customizer/registration.php:771
+msgid "All Portfolio"
+msgstr ""
+
+#: inc/post_types-config.php:111 inc/post_types-config.php:112
+#: inc/post_types-config.php:113 inc/post_types-config.php:114
+#: inc/post_types-config.php:115 inc/post_types-config.php:116
+msgid "Categories"
+msgstr ""
+
+#: inc/post_types-config.php:138 inc/customizer/registration.php:787
+msgid "Page Setup"
+msgstr ""
+
+#: inc/post_types-config.php:141
+msgid "Header Options"
+msgstr ""
+
+#: inc/post_types-config.php:145 inc/customizer/registration.php:791
+msgid "Style - Inverse"
+msgstr ""
+
+#: inc/post_types-config.php:150
+msgid "Title Box Options"
+msgstr ""
+
+#: inc/post_types-config.php:154 inc/customizer/registration.php:799
+msgid "Disable Title Box"
+msgstr ""
+
+#: inc/post_types-config.php:159 inc/customizer/registration.php:804
+msgid "Enable Transparent"
+msgstr ""
+
+#: inc/post_types-config.php:164 inc/customizer/registration.php:809
+msgid "Title Color"
+msgstr ""
+
+#: inc/post_types-config.php:169 inc/customizer/registration.php:813
+msgid "Title Line Color"
+msgstr ""
+
+#: inc/post_types-config.php:174
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/post_types-config.php:179 inc/post_types-config.php:250
+#: partials/frontend_customizer.php:260 inc/customizer/registration.php:180
+#: inc/customizer/registration.php:817
+msgid "Background Image"
+msgstr ""
+
+#: inc/post_types-config.php:184 inc/customizer/registration.php:821
+msgid "Background Position"
+msgstr ""
+
+#: inc/post_types-config.php:189 inc/customizer/registration.php:825
+msgid "Background Size"
+msgstr ""
+
+#: inc/post_types-config.php:194 inc/customizer/registration.php:829
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/post_types-config.php:197 inc/customizer/registration.php:833
+msgid "Repeat"
+msgstr ""
+
+#: inc/post_types-config.php:198 inc/customizer/registration.php:834
+msgid "No Repeat"
+msgstr ""
+
+#: inc/post_types-config.php:199 inc/customizer/registration.php:835
+msgid "Repeat-X"
+msgstr ""
+
+#: inc/post_types-config.php:200 inc/customizer/registration.php:836
+msgid "Repeat-Y"
+msgstr ""
+
+#: inc/post_types-config.php:205 inc/customizer/registration.php:840
+msgid "Disable Title"
+msgstr ""
+
+#: inc/post_types-config.php:210 inc/customizer/registration.php:845
+msgid "Disable Breadcrumbs"
+msgstr ""
+
+#: inc/post_types-config.php:215 inc/customizer/registration.php:850
+msgid "Enable Header Transparent"
+msgstr ""
+
+#: inc/post_types-config.php:220
+msgid "Content Options"
+msgstr ""
+
+#: inc/post_types-config.php:224
+msgid "Background - Transparent (Work only with \"Boxed Mode\")"
+msgstr ""
+
+#: inc/post_types-config.php:229
+msgid "Footer Options"
+msgstr ""
+
+#: inc/post_types-config.php:233 inc/customizer/registration.php:860
+msgid "Border Top - Hide"
+msgstr ""
+
+#: inc/post_types-config.php:242
+msgid "Position"
+msgstr ""
+
+#: inc/post_types-config.php:246 inc/post_types-config.php:412
+msgid "Company"
+msgstr ""
+
+#: inc/post_types-config.php:257
+msgid "Video url"
+msgstr ""
+
+#: inc/post_types-config.php:262 inc/post_types-config.php:266
+#: inc/post_types-config.php:291 inc/post_types-config.php:347
+#: inc/post_types-config.php:436 inc/customizer/registration.php:499
+#: inc/customizer/registration.php:505
+msgid "Information"
+msgstr ""
+
+#: inc/post_types-config.php:269 inc/post_types-config.php:294
+#: vc_templates/stm_vacancies.php:21
+msgid "Department"
+msgstr ""
+
+#: inc/post_types-config.php:273 vc_templates/stm_vacancies.php:20
+msgid "Location"
+msgstr ""
+
+#: inc/post_types-config.php:277
+msgid "Education"
+msgstr ""
+
+#: inc/post_types-config.php:281
+msgid "Compensation"
+msgstr ""
+
+#: inc/post_types-config.php:285
+msgid "Contact Us Link"
+msgstr ""
+
+#: inc/post_types-config.php:298 inc/customizer/registration.php:284
+#: inc/customizer/registration.php:331 inc/customizer/registration.php:418
+#: inc/customizer/registration.php:509
+msgid "Address"
+msgstr ""
+
+#: inc/post_types-config.php:302 inc/post_types-config.php:408
+msgid "Phone"
+msgstr ""
+
+#: inc/post_types-config.php:306 inc/customizer/registration.php:32
+msgid "Skype"
+msgstr ""
+
+#: inc/post_types-config.php:310 inc/post_types-config.php:404
+#: inc/customizer/registration.php:297
+msgid "Email"
+msgstr ""
+
+#: inc/post_types-config.php:314 inc/customizer/registration.php:15
+msgid "Facebook"
+msgstr ""
+
+#: inc/post_types-config.php:318 inc/customizer/registration.php:16
+msgid "Twitter"
+msgstr ""
+
+#: inc/post_types-config.php:322 inc/customizer/registration.php:18
+msgid "Google+"
+msgstr ""
+
+#: inc/post_types-config.php:326 inc/customizer/registration.php:20
+msgid "Linkedin"
+msgstr ""
+
+#: inc/post_types-config.php:338
+msgid "None"
+msgstr ""
+
+#: inc/post_types-config.php:350
+msgid "Speaker"
+msgstr ""
+
+#: inc/post_types-config.php:355
+msgid "Max Participants:"
+msgstr ""
+
+#: inc/post_types-config.php:359
+msgid "Date - Start:"
+msgstr ""
+
+#: inc/post_types-config.php:363
+msgid "Date - End:"
+msgstr ""
+
+#: inc/post_types-config.php:367
+msgid "Time - Text:"
+msgstr ""
+
+#: inc/post_types-config.php:371
+msgid "Time - Start:"
+msgstr ""
+
+#: inc/post_types-config.php:375
+msgid "Time - End:"
+msgstr ""
+
+#: inc/post_types-config.php:379
+msgid "Venue:"
+msgstr ""
+
+#: inc/post_types-config.php:383
+msgid "Latitude:"
+msgstr ""
+
+#: inc/post_types-config.php:387
+msgid "Longitude:"
+msgstr ""
+
+#: inc/post_types-config.php:391
+msgid "Telephone:"
+msgstr ""
+
+#: inc/post_types-config.php:397
+msgid "Contact Info"
+msgstr ""
+
+#: inc/post_types-config.php:416
+msgid "Member ID"
+msgstr ""
+
+#: inc/post_types-config.php:422
+msgid "Portfolio image size"
+msgstr ""
+
+#: inc/post_types-config.php:425
+msgid "Size"
+msgstr ""
+
+#: inc/post_types-config.php:428 inc/customizer/registration.php:130
+#: inc/customizer/registration.php:138
+msgid "Default"
+msgstr ""
+
+#: inc/post_types-config.php:429 partials/frontend_customizer.php:253
+msgid "Wide"
+msgstr ""
+
+#: inc/post_types-config.php:430
+msgid "High"
+msgstr ""
+
+#: inc/post_types-config.php:439
+msgid "Label"
+msgstr ""
+
+#: inc/post_types-config.php:443
+msgid "Cost"
+msgstr ""
+
+#: inc/woocommerce_configuration.php:9
+msgid "by"
+msgstr ""
+
+#: partials/content-post_bottom.php:10 partials/content-vacancy_bottom.php:13
+msgid "Share"
+msgstr ""
+
+#: partials/content-event-form.php:12
+msgid "SHARE"
+msgstr ""
+
+#: partials/content-event-form.php:74
+msgid "Europe/London"
+msgstr ""
+
+#: partials/content-event-form.php:77
+msgid "Not indicated"
+msgstr ""
+
+#: partials/content-event-form.php:79
+msgid "save event to calendar"
+msgstr ""
+
+#: partials/content-event-form.php:90 partials/content-event-classic.php:93
+msgid "past event"
+msgstr ""
+
+#: partials/content-event-form.php:96 partials/content-event-classic.php:99
+msgid "i am going"
+msgstr ""
+
+#: partials/content-event-form.php:102 partials/content-event-classic.php:105
+msgid "fully booked"
+msgstr ""
+
+#: partials/content-event-form.php:118 partials/content-event-list-form.php:13
+#: woocommerce/myaccount/form-login.php:78
+msgid "register"
+msgstr ""
+
+#: partials/content-event-form.php:121 partials/content-event-list-form.php:16
+msgid "* All fields are required"
+msgstr ""
+
+#: partials/content-event-form.php:129
+#: woocommerce/single-product-reviews.php:73
+msgid "Name *"
+msgstr ""
+
+#: partials/content-event-form.php:134
+msgid "Email *"
+msgstr ""
+
+#: partials/content-event-form.php:141
+msgid "Phone *"
+msgstr ""
+
+#: partials/content-event-form.php:146
+msgid "Company Name *"
+msgstr ""
+
+#: partials/content-event-form.php:157 partials/content-event-form.php:186
+#: partials/content-event-list-form.php:53
+#: partials/content-event-list-form.php:82
+msgid ""
+"I agree with the all additional <a href='http://stylemixthemes.com/' "
+"target='_blank'>Terms and Conditions</a>"
+msgstr ""
+
+#: partials/content-event-form.php:174 partials/content-event-list-form.php:70
+msgid "join"
+msgstr ""
+
+#: partials/content-event-form.php:180 partials/content-event-list-form.php:76
+msgid "You already has been joined the event."
+msgstr ""
+
+#: partials/content-event-info.php:70 partials/content-event-widgets.php:29
+#: partials/content-event-classic.php:43 partials/content-event-grid.php:47
+msgid "to"
+msgstr ""
+
+#: partials/content-event-info.php:100
+msgid "join now"
+msgstr ""
+
+#: partials/content-none.php:3
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: partials/content-none.php:7
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: partials/content-none.php:11
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: partials/frontend_customizer.php:185
+msgid "Demos"
+msgstr ""
+
+#: partials/frontend_customizer.php:188
+msgid "New York"
+msgstr ""
+
+#: partials/frontend_customizer.php:212
+msgid "Color Skin"
+msgstr ""
+
+#: partials/frontend_customizer.php:222 inc/customizer/registration.php:380
+msgid "Header Style"
+msgstr ""
+
+#: partials/frontend_customizer.php:225 inc/customizer/registration.php:232
+#: inc/customizer/registration.php:385 inc/customizer/registration.php:885
+msgid "Style 2"
+msgstr ""
+
+#: partials/frontend_customizer.php:239
+msgid "Nav Mode"
+msgstr ""
+
+#: partials/frontend_customizer.php:242
+msgid "Static"
+msgstr ""
+
+#: partials/frontend_customizer.php:244
+msgid "Sticky"
+msgstr ""
+
+#: partials/frontend_customizer.php:250 inc/customizer/registration.php:959
+#: inc/customizer/registration.php:1255
+msgid "Layout"
+msgstr ""
+
+#: partials/frontend_customizer.php:255
+msgid "Boxed"
+msgstr ""
+
+#: partials/content-loop_list.php:11 partials/content-post_details.php:8
+msgid "Posted by:"
+msgstr ""
+
+#: partials/content-loop_list.php:12 partials/content-post_details.php:11
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgstr ""
+
+#: partials/content-loop_list.php:30 partials/content-event-classic.php:81
+#: vc_templates/stm_services.php:50
+msgid "read more"
+msgstr ""
+
+#: partials/content-staff_bottom.php:2
+msgid "contact details"
+msgstr ""
+
+#: partials/content-staff_bottom.php:25
+msgid "Social Profiles"
+msgstr ""
+
+#: partials/content-vacancy_bottom.php:5
+msgid "apply now"
+msgstr ""
+
+#: partials/content-about_author.php:8
+msgid "Author:"
+msgstr ""
+
+#: partials/content.php:90 partials/content-page.php:20
+msgid "Pages:"
+msgstr ""
+
+#: partials/content-page.php:24
+msgid "Page"
+msgstr ""
+
+#: partials/title_box.php:39 partials/title_box.php:40
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:37
+msgid "News"
+msgstr ""
+
+#: partials/title_box.php:39 partials/title_box.php:40
+#: woocommerce/single-product.php:37 woocommerce/archive-product.php:37
+msgid "Careers"
+msgstr ""
+
+#: partials/content-about_vacancy.php:8
+msgid "Department:"
+msgstr ""
+
+#: partials/content-about_vacancy.php:19
+msgid "Project Location(s):"
+msgstr ""
+
+#: partials/content-about_vacancy.php:30
+msgid "Education:"
+msgstr ""
+
+#: partials/content-about_vacancy.php:41
+msgid "Compensation:"
+msgstr ""
+
+#: vc_templates/stm_staff_list.php:105 vc_templates/stm_info_box.php:74
+#: vc_templates/stm_works.php:285 vc_templates/stm_news.php:66
+msgid "Read more"
+msgstr ""
+
+#: vc_templates/stm_staff_list.php:135 vc_templates/stm_staff_list.php:138
+msgid "view profile"
+msgstr ""
+
+#: vc_templates/stm_portfolio.php:40 vc_templates/stm_portfolio.php:47
+#: vc_templates/stm_events.php:84 vc_templates/stm_events.php:89
+msgid "loading..."
+msgstr ""
+
+#: vc_templates/stm_portfolio.php:41 vc_templates/stm_portfolio.php:48
+#: vc_templates/stm_events.php:85 vc_templates/stm_events.php:90
+msgid "load more"
+msgstr ""
+
+#: vc_templates/stm_portfolio_pagination.php:63
+#: vc_templates/stm_portfolio_pagination.php:95
+msgid "previous"
+msgstr ""
+
+#: vc_templates/stm_portfolio_pagination.php:76
+#: vc_templates/stm_portfolio_pagination.php:121
+msgid "next"
+msgstr ""
+
+#: vc_templates/stm_gmap_l14.php:90 woocommerce/cart/shipping-calculator.php:38
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: vc_templates/stm_gmap_l14.php:98 woocommerce/cart/shipping-calculator.php:62
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: vc_templates/stm_info_box.php:137
+msgid "Read More"
+msgstr ""
+
+#: vc_templates/stm_countdown.php:53
+msgid "Enter your Email"
+msgstr ""
+
+#: vc_templates/stm_countdown.php:55
+msgid "Download now"
+msgstr ""
+
+#: vc_templates/stm_partner.php:61
+msgid "visit website"
+msgstr ""
+
+#: vc_templates/stm_works.php:72
+msgid "All"
+msgstr ""
+
+#: vc_templates/stm_portfolio_information.php:25
+msgid "Client"
+msgstr ""
+
+#: vc_templates/stm_portfolio_information.php:31
+#: vc_templates/stm_vacancies.php:22 woocommerce/myaccount/my-orders.php:26
+msgid "Date"
+msgstr ""
+
+#: vc_templates/stm_portfolio_information.php:49
+msgid "Our Role"
+msgstr ""
+
+#: vc_templates/stm_news.php:82
+msgid ", "
+msgstr ""
+
+#: vc_templates/stm_news.php:90
+msgid "in"
+msgstr ""
+
+#: vc_templates/stm_contact.php:51
+msgid "Skype: "
+msgstr ""
+
+#: vc_templates/stm_vacancies.php:19
+msgid "Job Posting Title"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:52
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:65
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:65
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "E-mail *"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83 admin/screens/startup.php:58
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+msgctxt "noun"
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+msgid "add review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:115
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#. Base ID
+#: inc/widgets/socials.php:11 inc/customizer/registration.php:868
+#: inc/customizer/registration.php:1444
+msgid "Socials"
+msgstr ""
+
+#: inc/widgets/socials.php:65
+msgid "Social Network"
+msgstr ""
+
+#: inc/widgets/socials.php:70 inc/widgets/contacts.php:92
+msgid "Title:"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/contacts.php:11
+msgid "Contacts"
+msgstr ""
+
+#: inc/widgets/contacts.php:12
+msgid "Contacts widget"
+msgstr ""
+
+#: inc/widgets/contacts.php:71
+msgid "Contact"
+msgstr ""
+
+#: inc/widgets/contacts.php:96
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/contacts.php:100
+msgid "Phone:"
+msgstr ""
+
+#: inc/widgets/contacts.php:104
+msgid "Fax:"
+msgstr ""
+
+#: inc/widgets/contacts.php:108
+msgid "Email:"
+msgstr ""
+
+#: inc/customizer/registration.php:17
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/registration.php:19
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer/registration.php:21
+msgid "Behance"
+msgstr ""
+
+#: inc/customizer/registration.php:22
+msgid "Dribbble"
+msgstr ""
+
+#: inc/customizer/registration.php:23
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer/registration.php:24
+msgid "Git"
+msgstr ""
+
+#: inc/customizer/registration.php:25
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/registration.php:26
+msgid "Yahoo"
+msgstr ""
+
+#: inc/customizer/registration.php:27
+msgid "Delicious"
+msgstr ""
+
+#: inc/customizer/registration.php:28
+msgid "Dropbox"
+msgstr ""
+
+#: inc/customizer/registration.php:29
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer/registration.php:30
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/customizer/registration.php:31
+msgid "Google"
+msgstr ""
+
+#: inc/customizer/registration.php:33
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/registration.php:34
+msgid "Youtube Play"
+msgstr ""
+
+#: inc/customizer/registration.php:35
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer/registration.php:36
+msgid "Whatsapp"
+msgstr ""
+
+#: inc/customizer/registration.php:37
+msgid "Odnoklassniki"
+msgstr ""
+
+#: inc/customizer/registration.php:38
+msgid "Vk"
+msgstr ""
+
+#: inc/customizer/registration.php:39
+msgid "Xing"
+msgstr ""
+
+#: inc/customizer/registration.php:45
+msgid "Site Settings"
+msgstr ""
+
+#: inc/customizer/registration.php:49
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/registration.php:53
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/registration.php:57
+msgid "Post Types"
+msgstr ""
+
+#: inc/customizer/registration.php:61
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/registration.php:65
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer/registration.php:71
+msgid "Logo &amp; Title"
+msgstr ""
+
+#: inc/customizer/registration.php:79 inc/customizer/registration.php:889
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/registration.php:83
+msgid "Dark Logo"
+msgstr ""
+
+#: inc/customizer/registration.php:87 inc/customizer/registration.php:893
+msgid "Width"
+msgstr ""
+
+#: inc/customizer/registration.php:94 inc/customizer/registration.php:900
+msgid "Height"
+msgstr ""
+
+#: inc/customizer/registration.php:101
+msgid "Margin Top"
+msgstr ""
+
+#: inc/customizer/registration.php:108
+msgid "Margin Bottom"
+msgstr ""
+
+#: inc/customizer/registration.php:121
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/customizer/registration.php:131
+msgid "Turquoise"
+msgstr ""
+
+#: inc/customizer/registration.php:132
+msgid "Dark Denim"
+msgstr ""
+
+#: inc/customizer/registration.php:133
+msgid "Arctic &amp; Black"
+msgstr ""
+
+#: inc/customizer/registration.php:134 inc/customizer/registration.php:139
+msgid "Custom Colors"
+msgstr ""
+
+#: inc/customizer/registration.php:145
+msgid "Skin"
+msgstr ""
+
+#: inc/customizer/registration.php:150
+msgid "Custom Base Color"
+msgstr ""
+
+#: inc/customizer/registration.php:155
+msgid "Custom Secondary Color"
+msgstr ""
+
+#: inc/customizer/registration.php:160
+msgid "Custom Third Color"
+msgstr ""
+
+#: inc/customizer/registration.php:165
+msgid "Frontend Customizer"
+msgstr ""
+
+#: inc/customizer/registration.php:170
+msgid "Enable Boxed Layout"
+msgstr ""
+
+#: inc/customizer/registration.php:175
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/registration.php:190
+msgid "Custom Bg Image"
+msgstr ""
+
+#: inc/customizer/registration.php:197
+msgid "Enable Page Scroll"
+msgstr ""
+
+#: inc/customizer/registration.php:204
+msgid "Style &amp; Settings"
+msgstr ""
+
+#: inc/customizer/registration.php:210
+msgid "Enable Top Bar"
+msgstr ""
+
+#: inc/customizer/registration.php:217 inc/customizer/registration.php:488
+msgid "Button label"
+msgstr ""
+
+#: inc/customizer/registration.php:221 inc/customizer/registration.php:492
+msgid "Button link"
+msgstr ""
+
+#: inc/customizer/registration.php:228
+msgid "Top bar style"
+msgstr ""
+
+#: inc/customizer/registration.php:231 inc/customizer/registration.php:384
+#: inc/customizer/registration.php:884
+msgid "Style 1"
+msgstr ""
+
+#: inc/customizer/registration.php:237 inc/customizer/registration.php:340
+#: inc/customizer/registration.php:431 inc/customizer/registration.php:522
+msgid "Working Hours"
+msgstr ""
+
+#: inc/customizer/registration.php:242 inc/customizer/registration.php:344
+msgid "Hours Icon"
+msgstr ""
+
+#: inc/customizer/registration.php:247
+msgid "Enable Search"
+msgstr ""
+
+#: inc/customizer/registration.php:258
+msgid "Enable WPML Switcher"
+msgstr ""
+
+#: inc/customizer/registration.php:264
+msgid "WPML Switcher Style"
+msgstr ""
+
+#: inc/customizer/registration.php:267
+msgid "Theme"
+msgstr ""
+
+#: inc/customizer/registration.php:268
+msgid "Default (WPML)"
+msgstr ""
+
+#: inc/customizer/registration.php:274
+msgid "Disable WooCommerce Cart"
+msgstr ""
+
+#: inc/customizer/registration.php:289 inc/customizer/registration.php:335
+#: inc/customizer/registration.php:423 inc/customizer/registration.php:514
+msgid "Address Icon"
+msgstr ""
+
+#: inc/customizer/registration.php:302
+msgid "Email Icon"
+msgstr ""
+
+#: inc/customizer/registration.php:310 inc/customizer/registration.php:349
+#: inc/customizer/registration.php:444 inc/customizer/registration.php:537
+msgid "Phone number"
+msgstr ""
+
+#: inc/customizer/registration.php:315 inc/customizer/registration.php:452
+#: inc/customizer/registration.php:545
+msgid "Phone number Icon"
+msgstr ""
+
+#: inc/customizer/registration.php:328
+msgid "for dropdown options"
+msgstr ""
+
+#: inc/customizer/registration.php:353
+msgid "Phone Icon"
+msgstr ""
+
+#: inc/customizer/registration.php:370
+msgid "Top Bar"
+msgstr ""
+
+#: inc/customizer/registration.php:376
+msgid "Header Appearance"
+msgstr ""
+
+#: inc/customizer/registration.php:386
+msgid "Style 3"
+msgstr ""
+
+#: inc/customizer/registration.php:387
+msgid "Style 4"
+msgstr ""
+
+#: inc/customizer/registration.php:388
+msgid "Style 5"
+msgstr ""
+
+#: inc/customizer/registration.php:389
+msgid "Style 6"
+msgstr ""
+
+#: inc/customizer/registration.php:390
+msgid "Style 7"
+msgstr ""
+
+#: inc/customizer/registration.php:391
+msgid "Style 8"
+msgstr ""
+
+#: inc/customizer/registration.php:395
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer/registration.php:400
+msgid "WooCommerce Cart - Hide"
+msgstr ""
+
+#: inc/customizer/registration.php:406
+msgid "Start mobile menu from:"
+msgstr ""
+
+#: inc/customizer/registration.php:408
+msgid "Tablet landscape"
+msgstr ""
+
+#: inc/customizer/registration.php:409
+msgid "Tablet portrait"
+msgstr ""
+
+#: inc/customizer/registration.php:436 inc/customizer/registration.php:529
+msgid "Working Hours Icon"
+msgstr ""
+
+#: inc/customizer/registration.php:460 inc/customizer/registration.php:553
+#: inc/customizer/registration.php:940
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/registration.php:470
+msgid "Choose contact form"
+msgstr ""
+
+#: inc/customizer/registration.php:479
+msgid "Contact form(popup)"
+msgstr ""
+
+#: inc/customizer/registration.php:539
+msgid ""
+"<strong>212 386 5575</strong><span data-scroll-to=\"request-call-back\">"
+"Request call back</span>"
+msgstr ""
+
+#: inc/customizer/registration.php:567 inc/customizer/registration.php:599
+#: inc/customizer/registration.php:631 inc/customizer/registration.php:663
+#: inc/customizer/registration.php:695 inc/customizer/registration.php:727
+#: inc/customizer/registration.php:759
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/registration.php:572 inc/customizer/registration.php:604
+#: inc/customizer/registration.php:636 inc/customizer/registration.php:668
+#: inc/customizer/registration.php:700 inc/customizer/registration.php:732
+#: inc/customizer/registration.php:764
+msgid "Plural Title"
+msgstr ""
+
+#: inc/customizer/registration.php:577 inc/customizer/registration.php:609
+#: inc/customizer/registration.php:641 inc/customizer/registration.php:673
+#: inc/customizer/registration.php:705 inc/customizer/registration.php:737
+#: inc/customizer/registration.php:769
+msgid "All Items"
+msgstr ""
+
+#: inc/customizer/registration.php:582 inc/customizer/registration.php:614
+#: inc/customizer/registration.php:646 inc/customizer/registration.php:678
+#: inc/customizer/registration.php:710 inc/customizer/registration.php:742
+#: inc/customizer/registration.php:774
+msgid "Rewrite (URL text)"
+msgstr ""
+
+#: inc/customizer/registration.php:587 inc/customizer/registration.php:619
+#: inc/customizer/registration.php:651 inc/customizer/registration.php:683
+#: inc/customizer/registration.php:715 inc/customizer/registration.php:747
+#: inc/customizer/registration.php:779
+msgid "Icon"
+msgstr ""
+
+#: inc/customizer/registration.php:855
+msgid "Content Background - Transparent"
+msgstr ""
+
+#: inc/customizer/registration.php:880
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/registration.php:907
+msgid "Hide Logo"
+msgstr ""
+
+#: inc/customizer/registration.php:912
+msgid "Hide Footer"
+msgstr ""
+
+#: inc/customizer/registration.php:920
+msgid "Additional Widget Areas"
+msgstr ""
+
+#: inc/customizer/registration.php:924
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/registration.php:935
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer/registration.php:937
+msgid ""
+"Fusce interdum ipsum egestas urna amet fringilla, et placerat ex venenatis. "
+"Aliquet luctus pharetra. Proin sed fringilla lectusar sit amet tellus in "
+"mollis. Proin nec egestas nibh, eget egestas urna. Phasellus sit amet "
+"vehicula nunc. In hac habitasse platea dictumst."
+msgstr ""
+
+#: inc/customizer/registration.php:952
+msgid "Show Menu"
+msgstr ""
+
+#: inc/customizer/registration.php:965
+msgid "Footer Socials"
+msgstr ""
+
+#: inc/customizer/registration.php:978
+msgid "Body"
+msgstr ""
+
+#: inc/customizer/registration.php:982
+msgid "Base Font Family"
+msgstr ""
+
+#: inc/customizer/registration.php:988
+msgid "Secondary Font Family"
+msgstr ""
+
+#: inc/customizer/registration.php:994 inc/customizer/registration.php:1015
+#: inc/customizer/registration.php:1044 inc/customizer/registration.php:1079
+#: inc/customizer/registration.php:1114 inc/customizer/registration.php:1149
+#: inc/customizer/registration.php:1184 inc/customizer/registration.php:1219
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/registration.php:1000 inc/customizer/registration.php:1021
+#: inc/customizer/registration.php:1050 inc/customizer/registration.php:1085
+#: inc/customizer/registration.php:1120 inc/customizer/registration.php:1155
+#: inc/customizer/registration.php:1190 inc/customizer/registration.php:1225
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/registration.php:1011
+msgid "Paragraph"
+msgstr ""
+
+#: inc/customizer/registration.php:1029 inc/customizer/registration.php:1058
+#: inc/customizer/registration.php:1093 inc/customizer/registration.php:1128
+#: inc/customizer/registration.php:1163 inc/customizer/registration.php:1198
+#: inc/customizer/registration.php:1233
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/registration.php:1040
+msgid "H1"
+msgstr ""
+
+#: inc/customizer/registration.php:1066 inc/customizer/registration.php:1101
+#: inc/customizer/registration.php:1136 inc/customizer/registration.php:1171
+#: inc/customizer/registration.php:1206 inc/customizer/registration.php:1241
+msgid "Text Transform"
+msgstr ""
+
+#: inc/customizer/registration.php:1075
+msgid "H2"
+msgstr ""
+
+#: inc/customizer/registration.php:1110
+msgid "H3"
+msgstr ""
+
+#: inc/customizer/registration.php:1145
+msgid "H4"
+msgstr ""
+
+#: inc/customizer/registration.php:1180
+msgid "H5"
+msgstr ""
+
+#: inc/customizer/registration.php:1215
+msgid "H6"
+msgstr ""
+
+#: inc/customizer/registration.php:1250
+msgid "Archive Pages"
+msgstr ""
+
+#: inc/customizer/registration.php:1257
+msgid "Grid View"
+msgstr ""
+
+#: inc/customizer/registration.php:1258
+msgid "List View"
+msgstr ""
+
+#: inc/customizer/registration.php:1267 inc/customizer/registration.php:1312
+#: inc/customizer/registration.php:1353
+msgid "Sidebar Type"
+msgstr ""
+
+#: inc/customizer/registration.php:1269 inc/customizer/registration.php:1314
+#: inc/customizer/registration.php:1355
+msgid "Wordpress Sidebars"
+msgstr ""
+
+#: inc/customizer/registration.php:1280 inc/customizer/registration.php:1325
+#: inc/customizer/registration.php:1366
+msgid "Wordpress Sidebar"
+msgstr ""
+
+#: inc/customizer/registration.php:1293 inc/customizer/registration.php:1379
+msgid "Sidebar - Position"
+msgstr ""
+
+#: inc/customizer/registration.php:1295 inc/customizer/registration.php:1381
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/registration.php:1296 inc/customizer/registration.php:1382
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/registration.php:1307
+msgid "Event Pages"
+msgstr ""
+
+#: inc/customizer/registration.php:1337
+msgid "Terms and Conditions Page Link"
+msgstr ""
+
+#: inc/customizer/registration.php:1348
+msgid "Shop Pages"
+msgstr ""
+
+#: inc/customizer/registration.php:1390
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/customizer/registration.php:1401
+msgid "Google Map Api Settings"
+msgstr ""
+
+#: inc/customizer/registration.php:1406
+msgid "Google Map API Key"
+msgstr ""
+
+#: inc/customizer/registration.php:1408
+msgid ""
+"Enter here the secret api key you have created on Google APIs. You can "
+"enable MAP API in Google APIs > Google Maps APIs > Google Maps JavaScript "
+"API."
+msgstr ""
+
+#: inc/customizer/registration.php:1423
+msgid "Google Recaptcha API Settings"
+msgstr ""
+
+#: inc/customizer/registration.php:1428
+msgid "Recaptcha"
+msgstr ""
+
+#: inc/customizer/registration.php:1433
+msgid "Public key"
+msgstr ""
+
+#: inc/customizer/registration.php:1437
+msgid "Secret key"
+msgstr ""
+
+#: inc/customizer/registration.php:1455
+msgid "Custom CSS"
+msgstr ""
+
+#: partials/headers/l14-hs5.php:31
+msgid "Write us<a href=\"mailto:info@consulting.com\">info@consulting.com</a>"
+msgstr ""
+
+#: partials/headers/l14-hs5.php:33
+msgid ""
+"<strong>212 386 5575</strong><span data-popup=\"request-call-back\">Request "
+"a call back</span>"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:39
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:41
+#, php-format
+msgid "Showing all <strong>%d</strong> results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:43
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid ""
+"Showing <strong>%1$d&ndash;%2$d</strong> of <strong>%3$d</strong> results"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "billing &amp; shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:59
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:70
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:26
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:34
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:35 woocommerce/cart/cart.php:133
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:39 woocommerce/cart/cart.php:133
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:24
+msgid "payment"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:25
+msgid "your order"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:30 woocommerce/cart/cart.php:53
+msgid "Product"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:31
+#: woocommerce/checkout/review-order.php:110
+#: woocommerce/myaccount/my-orders.php:28 woocommerce/cart/cart.php:103
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:63 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/cart-totals.php:34
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:64
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:37 woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:95
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:45 woocommerce/myaccount/form-login.php:55
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:48 woocommerce/myaccount/form-login.php:57
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:52 woocommerce/myaccount/form-login.php:61
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:27
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "related products"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:25
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:27
+msgid "Status"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:42
+msgid "recent orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:67
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:77
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:88
+msgid "View"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:92
+msgid "Cancel"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:51
+msgid "edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:42
+msgid "login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:45
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:83
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:89
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:101
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+msgid "product name"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34
+msgid "price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35
+msgid "quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36
+msgid "total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:75
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:80
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:86
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:114
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:133
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "update cart"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:32
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:61
+#: woocommerce/cart/shipping-calculator.php:73
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:90
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:95
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: admin/includes/theme.php:183
+msgid "Install"
+msgstr ""
+
+#: admin/includes/theme.php:185
+msgid "Activate"
+msgstr ""
+
+#: admin/includes/admin_screens.php:32 admin/includes/admin_screens.php:33
+#: admin/includes/admin_screens.php:129
+msgid "Support"
+msgstr ""
+
+#: admin/includes/admin_screens.php:42 admin/includes/admin_screens.php:43
+#: admin/includes/admin_screens.php:130
+msgid "Plugins"
+msgstr ""
+
+#: admin/includes/admin_screens.php:52 admin/includes/admin_screens.php:53
+msgid "Demo import"
+msgstr ""
+
+#: admin/includes/admin_screens.php:62 admin/includes/admin_screens.php:63
+msgid "System status"
+msgstr ""
+
+#: admin/includes/admin_screens.php:121
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: admin/includes/admin_screens.php:123
+#, php-format
+msgid ""
+"%s is now installed and ready to use! Get ready to build something beautiful."
+" Please register your purchase to get automatic theme updates, import %1$s "
+"demos and install premium plugins. Read below for additional information. We "
+"hope you enjoy it! %s"
+msgstr ""
+
+#: admin/includes/admin_screens.php:123
+msgid "Watch Our Quick Guided Tour!"
+msgstr ""
+
+#: admin/includes/admin_screens.php:128
+msgid "Product Registration"
+msgstr ""
+
+#: admin/includes/admin_screens.php:131
+msgid "Install Demos"
+msgstr ""
+
+#: admin/includes/admin_screens.php:132
+msgid "System Status"
+msgstr ""
+
+#: admin/includes/admin_screens.php:133
+msgid "Theme Options"
+msgstr ""
+
+#: admin/screens/startup.php:21 admin/screens/install_demo.php:25
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr ""
+
+#: admin/screens/startup.php:40
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr ""
+
+#: admin/screens/startup.php:65
+msgid "Instructions For Generating A Token"
+msgstr ""
+
+#: admin/screens/startup.php:67
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged in,"
+" you will be directed to login then directed back to the Create A Token Page."
+msgstr ""
+
+#: admin/screens/startup.php:68
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+
+#: admin/screens/startup.php:69
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+
+#: admin/screens/startup.php:70
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+
+#: admin/screens/system_status.php:11 admin/screens/system_status.php:15
+msgid "WordPress Environment"
+msgstr ""
+
+#: admin/screens/system_status.php:20
+msgid "Home URL:"
+msgstr ""
+
+#: admin/screens/system_status.php:21
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: admin/screens/system_status.php:25
+msgid "Site URL:"
+msgstr ""
+
+#: admin/screens/system_status.php:26
+msgid "The root URL of your site."
+msgstr ""
+
+#: admin/screens/system_status.php:30
+msgid "WP Version:"
+msgstr ""
+
+#: admin/screens/system_status.php:31
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: admin/screens/system_status.php:35
+msgid "WP Multisite:"
+msgstr ""
+
+#: admin/screens/system_status.php:36
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: admin/screens/system_status.php:40
+msgid "WP Memory Limit:"
+msgstr ""
+
+#: admin/screens/system_status.php:41
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: admin/screens/system_status.php:46
+#, php-format
+msgid ""
+"%1$s - We recommend setting memory to at least <strong>128MB</strong>. <br />"
+" To import classic demo data, <strong>256MB</strong> of memory limit is "
+"required. <br /> Please define memory limit in <strong>wp-config.php</strong>"
+" file. To learn how, see: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Increasing memory allocated to PHP.</a>"
+msgstr ""
+
+#: admin/screens/system_status.php:50
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+
+#: admin/screens/system_status.php:57
+msgid "WP Debug Mode:"
+msgstr ""
+
+#: admin/screens/system_status.php:58
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: admin/screens/system_status.php:68
+msgid "Language:"
+msgstr ""
+
+#: admin/screens/system_status.php:69
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: admin/screens/system_status.php:75 admin/screens/system_status.php:79
+msgid "Server Environment"
+msgstr ""
+
+#: admin/screens/system_status.php:84
+msgid "Server Info:"
+msgstr ""
+
+#: admin/screens/system_status.php:85
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: admin/screens/system_status.php:89
+msgid "PHP Version:"
+msgstr ""
+
+#: admin/screens/system_status.php:90
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: admin/screens/system_status.php:95
+msgid "PHP Post Max Size:"
+msgstr ""
+
+#: admin/screens/system_status.php:96
+msgid "The largest file size that can be contained in one post."
+msgstr ""
+
+#: admin/screens/system_status.php:100
+msgid "PHP Time Limit:"
+msgstr ""
+
+#: admin/screens/system_status.php:101
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: admin/screens/system_status.php:107
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+
+#: admin/screens/system_status.php:111
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr ""
+
+#: admin/screens/system_status.php:118
+msgid "PHP Max Input Vars:"
+msgstr ""
+
+#: admin/screens/system_status.php:119 admin/screens/system_status.php:155
+#: admin/screens/system_status.php:184
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: admin/screens/system_status.php:139 admin/screens/system_status.php:175
+#: admin/screens/system_status.php:204
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+
+#: admin/screens/system_status.php:147
+msgid "SUHOSIN Installed:"
+msgstr ""
+
+#: admin/screens/system_status.php:148
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+msgstr ""
+
+#: admin/screens/system_status.php:154
+msgid "Suhosin Post Max Vars:"
+msgstr ""
+
+#: admin/screens/system_status.php:183
+msgid "Suhosin Request Max Vars:"
+msgstr ""
+
+#: admin/screens/system_status.php:212
+msgid "Suhosin Post Max Value Length:"
+msgstr ""
+
+#: admin/screens/system_status.php:213
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr ""
+
+#: admin/screens/system_status.php:219
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+
+#: admin/screens/system_status.php:228
+msgid "ZipArchive:"
+msgstr ""
+
+#: admin/screens/system_status.php:229
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+
+#: admin/screens/system_status.php:233
+msgid "MySQL Version:"
+msgstr ""
+
+#: admin/screens/system_status.php:234
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: admin/screens/system_status.php:244
+msgid "Max Upload Size:"
+msgstr ""
+
+#: admin/screens/system_status.php:245
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: admin/screens/system_status.php:251 admin/screens/system_status.php:255
+msgid "Active Plugins"
+msgstr ""
+
+#: admin/screens/system_status.php:279
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: admin/screens/system_status.php:285
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: admin/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+
+#: admin/screens/support.php:16
+msgid "Create A Support Account"
+msgstr ""
+
+#: admin/screens/support.php:30
+msgid "Ticket System"
+msgstr ""
+
+#: admin/screens/support.php:33
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr ""
+
+#: admin/screens/support.php:36
+msgid "Submit a ticket"
+msgstr ""
+
+#: admin/screens/support.php:47
+msgid "Documentation"
+msgstr ""
+
+#: admin/screens/support.php:50
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr ""
+
+#: admin/screens/support.php:53
+msgid "Learn more"
+msgstr ""
+
+#: admin/screens/support.php:67
+msgid "Video Tutorials"
+msgstr ""
+
+#: admin/screens/support.php:70
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+
+#: admin/screens/support.php:73
+msgid "Watch Videos"
+msgstr ""
+
+#: admin/screens/support.php:84
+msgid "Community Forum"
+msgstr ""
+
+#: admin/screens/support.php:87
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr ""
+
+#: admin/screens/support.php:90
+msgid "Visit Our Forum"
+msgstr ""
+
+#: inc/customizer/controls/post-type.php:15
+msgid "--- Default ---"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:12
+msgid "Ultra Light"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:13
+msgid "Ultra Light Italic"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:14
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:15
+msgid "Light Italic"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:16
+msgid "Book"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:17
+msgid "Book Italic"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:18
+msgid "Regular"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:19
+msgid "Regular Italic"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:20
+msgid "Medium"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:21
+msgid "Medium Italic"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:22
+msgid "Semi-Bold"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:23
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:24
+msgid "Bold"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:25
+msgid "Bold Italic"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:26
+msgid "Extra Bold"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:27
+msgid "Extra Bold Italic"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:28
+msgid "Ultra Bold"
+msgstr ""
+
+#: inc/customizer/controls/font-weight.php:29
+msgid "Ultra Bold Italic"
+msgstr ""
+
+#: inc/customizer/controls/text-transform.php:12
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/controls/text-transform.php:13
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/controls/text-transform.php:14
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/controls/text-transform.php:15
+msgid "Normal"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:43
+msgid "Clear"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#. Name of the theme
+msgid "Consulting"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Consulting - Business and Finance WordPress theme. Using Consluting you can "
+"easily create a modern website with real content. Easily edit the real "
+"content and compose the page layout with drag &amp; drop page builder "
+"Consulting is the best ever finance, consulting, brokerage WordPress theme. "
+"It’s fully Responsive and Easy to Customize using intuitive Drag &amp; Drop "
+"Visual Composer and Theme Options panel in WordPress Customizer."
+msgstr ""
+
+#. URI of the theme
+msgid "http://consulting.stylemixthemes.com/"
+msgstr ""
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://stylemixthemes.com/"
+msgstr ""

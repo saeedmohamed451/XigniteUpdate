@@ -1,0 +1,102 @@
+.posts_grid {
+  position: relative;
+  > ul {
+    position: relative;
+    padding: 0;
+    margin: 0 -15px 30px;
+    list-style: none;
+    font-size: 0;
+    &:after{
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 15px;
+      right: 15px;
+      height: 1px;
+      background: #dddddd;
+    }
+    > li {
+      position: relative;
+      display: inline-block;
+      vertical-align: top;
+      margin: 0 0 39px 0;
+      padding: 0 15px;
+      width: 33.3%;
+      font-size: 14px;
+      .post_info {
+        padding: 0 0 46px;
+        background: url("../../images/pattern_3.png") repeat-x -5px 100%;
+        background-size: 8px 5px;
+      }
+    }
+  }
+  .post_thumbnail {
+    margin: 0 0 30px;
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+    a{
+      position: relative;
+      display: block;
+      &:before{
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(#000, .6);
+        @include transition();
+        opacity: 0;
+      }
+      &:after{
+        content: "\e920";
+        @include theme_icons();
+        @include transition();
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        margin: -15px 0 0 -15px;
+        color: #fff;
+        font-size: 30px;
+        opacity: 0;
+      }
+      &:hover{
+        &:before, &:after{
+          opacity: 1;
+        }
+      }
+    }
+  }
+  h5 {
+    padding: 0;
+    margin-bottom: 14px;
+    &:after {
+      display: none;
+    }
+    &:before{
+      content: '';
+      width: 47px;
+      height: 5px;
+      background: $stm_third_color;
+      display: block;
+      margin: 0 0 20px;
+    }
+    a{
+      color: $stm_base_color;
+    }
+  }
+  .post_date {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 13px;
+    line-height: 13px;
+    .fa {
+      font-size: 15px;
+      color: $stm_third_color;
+      margin: 0 5px 0 0;
+    }
+  }
+}

@@ -1,0 +1,235 @@
+body {
+  .vc_btn3-container{
+    margin-bottom: 20px;
+  }
+  .vc_general.vc_btn3{
+    font: {
+      family: "Montserrat", sans-serif;
+      weight: 700;
+      size: 14px;
+    }
+    font-size: 14px;
+    line-height: 23px;
+    &.vc_btn3-size-sm.vc_btn3-style-outline, &.vc_btn3-size-sm.vc_btn3-style-outline-custom, &.vc_btn3-size-sm.vc_btn3-style-flat{
+      padding: 5px 18px;
+      font-weight: 600;
+    }
+    &.vc_btn3-size-md.vc_btn3-style-outline, &.vc_btn3-size-md.vc_btn3-style-outline-custom, &.vc_btn3-size-md.vc_btn3-style-flat{
+      padding: 8px 18px;
+    }
+    &.vc_btn3-size-lg.vc_btn3-style-outline, &.vc_btn3-size-lg.vc_btn3-style-outline-custom, &.vc_btn3-size-lg.vc_btn3-style-flat{
+      padding: 10px 25px;
+    }
+    &.has_sub_title{
+      line-height: 16px;
+      &.vc_btn3-size-lg.vc_btn3-style-outline, &.vc_btn3-size-lg.vc_btn3-style-outline-custom, &.vc_btn3-size-lg.vc_btn3-style-flat{
+        padding: 6px 25px 5px;
+      }
+    }
+    &.vc_btn3-shape-rounded{
+      @include border-radius(3px);
+    }
+    &.vc_btn3-size-sm.vc_btn3-icon-left:not(.vc_btn3-o-empty){
+      padding-left: 41px;
+      .vc_btn3-icon{
+        left: 15px;
+        font-size: 19px;
+        height: 19px;
+        line-height: 19px;
+        color: $stm_base_color;
+        @include transition();
+      }
+      &.vc_btn3-color-theme_style_3 .vc_btn3-icon{
+        color: $stm_base_color;
+      }
+    }
+    &.vc_btn3-size-sm.vc_btn3-icon-right:not(.vc_btn3-o-empty){
+      padding-right: 41px;
+      .vc_btn3-icon{
+        right: 15px;
+        font-size: 19px;
+        height: 19px;
+        line-height: 19px;
+        color: $stm_base_color;
+        @include transition();
+      }
+      &.vc_btn3-color-theme_style_3 .vc_btn3-icon{
+        color: $stm_base_color;
+      }
+    }
+    &.vc_btn3-size-md.vc_btn3-icon-left:not(.vc_btn3-o-empty){
+      padding-left: 40px;
+      .vc_btn3-icon{
+        left: 10px;
+        width: auto;
+        font-size: 14px;
+        height: 14px;
+        line-height: 14px;
+        color: $stm_third_color;
+        -moz-box-sizing:content-box;
+        @include transition();
+      }
+      &.vc_btn3-color-theme_style_3 .vc_btn3-icon{
+        color: $stm_base_color;
+      }
+    }
+    &.vc_btn3-size-md.vc_btn3-icon-right:not(.vc_btn3-o-empty){
+      padding-right: 40px;
+      .vc_btn3-icon{
+        right: 10px;
+        width: auto;
+        font-size: 14px;
+        height: 14px;
+        line-height: 14px;
+        color: $stm_third_color;
+        -moz-box-sizing:content-box;
+        @include transition();
+      }
+      &.vc_btn3-color-theme_style_3 .vc_btn3-icon{
+        color: $stm_base_color;
+      }
+    }
+    &.vc_btn3-size-lg.vc_btn3-icon-left:not(.vc_btn3-o-empty){
+      padding-left: 49px;
+      .vc_btn3-icon{
+        left: 16px;
+        font-size: 19px;
+        height: 19px;
+        line-height: 19px;
+        color: $stm_third_color;
+        @include transition();
+      }
+      &.vc_btn3-color-theme_style_2 .vc_btn3-icon{
+        color: $stm_base_color;
+      }
+      &.vc_btn3-color-theme_style_3 .vc_btn3-icon{
+        color: $stm_base_color;
+      }
+    }
+    &.vc_btn3-size-lg.vc_btn3-icon-right:not(.vc_btn3-o-empty){
+      padding-right: 49px;
+      .vc_btn3-icon{
+        right: 16px;
+        font-size: 19px;
+        height: 19px;
+        line-height: 19px;
+        color: $stm_third_color;
+        @include transition();
+      }
+      &.vc_btn3-color-theme_style_2 .vc_btn3-icon{
+        color: $stm_base_color;
+      }
+      &.vc_btn3-color-theme_style_3 .vc_btn3-icon{
+        color: $stm_base_color;
+      }
+    }
+    &.vc_btn3-color-theme_style_1{
+      &.vc_btn3-style-flat{
+        color: #fff;
+        border-color: $stm_base_color;
+        background: $stm_base_color;
+        border-width: 3px;
+        &:hover{
+          background: $stm_third_color;
+          border-color: $stm_third_color;
+          color: $stm_base_color;
+          .vc_btn3-icon{
+            color: $stm_base_color;
+          }
+        }
+      }
+    }
+    &.vc_btn3-color-theme_style_2{
+      &.vc_btn3-style-flat{
+        color: #fff;
+        border-color: $stm_base_color;
+        background: $stm_base_color;
+        border-width: 3px;
+        &:hover{
+          background: transparent;
+          border-color: #fff;
+          color: $stm_base_color;
+          .vc_btn3-icon{
+            color: $stm_base_color;
+          }
+        }
+      }
+      &.vc_btn3-style-outline{
+        color: $stm_base_color;
+        border-color: $stm_base_color;
+        background: transparent;
+        border-width: 3px;
+        &:hover{
+          background: transparent;
+          border-color: $stm_secondary_color;
+          color: $stm_secondary_color;
+          .vc_btn3-icon{
+            color: $stm_secondary_color !important;
+          }
+        }
+      }
+    }
+    &.vc_btn3-color-theme_style_3{
+      &.vc_btn3-style-flat{
+        color: $stm_base_color;
+        border-color: $stm_third_color;
+        background: $stm_third_color;
+        border-width: 3px;
+        &:hover{
+          background: $stm_base_color;
+          border-color: $stm_base_color;
+          color: #fff;
+          .vc_btn3-icon{
+            color: $stm_third_color !important;
+          }
+        }
+      }
+    }
+    &.vc_btn3-color-theme_style_4{
+      &.vc_btn3-style-outline{
+        color: #fff;
+        border-color: $stm_third_color;
+        background: transparent;
+        border-width: 3px;
+        .vc_btn3-icon{
+          color: #fff !important;
+        }
+        &:hover{
+          background: $stm_third_color;
+          border-color: $stm_third_color;
+          color: $stm_base_color;
+          .vc_btn3-icon{
+            color: $stm_base_color !important;
+          }
+        }
+      }
+    }
+    &.vc_btn3-color-white{
+      &.vc_btn3-style-flat{
+        color: #222222;
+        border-color: #fff;
+        background: #fff;
+        border-width: 3px;
+        &:hover{
+          background: $stm_base_color;
+          border-color: $stm_base_color;
+          color: #fff;
+          .vc_btn3-icon{
+            color: $stm_third_color !important;
+          }
+        }
+      }
+    }
+    small{
+      display: block;
+      font-size: 12px;
+      font-family: "Open Sans";
+      font-weight: 400;
+    }
+  }
+}
+
+body .vc_general.vc_btn3.vc_btn3-size-md.vc_btn3-icon-right:not(.vc_btn3-o-empty) {
+  width: auto;
+  -moz-box-sizing:content-box;
+}

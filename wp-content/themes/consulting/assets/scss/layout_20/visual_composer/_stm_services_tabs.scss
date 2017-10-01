@@ -1,0 +1,146 @@
+.stm_services_tabs .services_categories {
+  position: relative;
+  margin: 0 0 62px;
+  padding: 0 15px;
+
+  ul {
+    background: $stm_third_color;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    @include cleaner();
+
+    li {
+      float: left;
+
+      a {
+        font: {
+          font-family: 'Catamaran', sans-serif;
+          weight: 700;
+          size: 14px;
+        }
+        text-transform: lowercase;
+        letter-spacing: 0;
+        display: block;
+        padding: 14.5px 24.3px;
+        outline: none !important;
+        color: $stm_base_color;
+        transition: background 0.2s ease, color 0.2s ease;
+
+        &:focus,
+        &:hover {
+          text-decoration: none;
+        }
+      }
+
+      &.ui-state-active a {
+        background: $stm_base_color;
+        color: $stm_third_color;
+      }
+    }
+  }
+}
+
+.stm_services_tabs {
+  font-size: 0;
+  margin: 0 -15px;
+}
+
+.stm_services_tabs .service_tab_item {
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+  font-size: 15px;
+  padding: 0 35px;
+  margin: 0 0 46px;
+}
+
+.stm_services_tabs .service_tab_item .service_header {
+  position: relative;
+  margin: 0 0 4px;
+}
+
+.stm_services_tabs .service_tab_item .service_name {
+  display: table-cell;
+  width: 1%;
+  white-space: nowrap;
+  font: {
+    family: "Montserrat", sans-serif;
+    size: 14px;
+    weight: 700;
+  }
+  color: #212121;
+  padding-right: 10px;
+}
+
+.stm_services_tabs .service_tab_item .service_name a {
+  color: $stm_base_color;
+  letter-spacing: 0;
+  transition: color 0.2s ease;
+
+  &:focus,
+  &:hover {
+    text-decoration: none;
+  }
+
+  &:hover {
+    color: $stm_secondary_color;
+
+  }
+}
+
+.stm_services_tabs .service_tab_item .service_dots {
+  display: table-cell;
+  width: 98%;
+}
+
+.stm_services_tabs .service_tab_item .service_dots .separator_dots {
+  display: block;
+  width: 100%;
+  border-bottom: 1px dashed $stm_secondary_color;
+}
+
+.stm_services_tabs .service_tab_item .service_cost {
+  display: table-cell;
+  width: 1%;
+  padding-left: 10px;
+  font: {
+    font-family: 'Catamaran', sans-serif;
+    size: 14px;
+    weight: 700;
+  }
+  line-height: 22px;
+  letter-spacing: 0;
+  color: $stm_secondary_color;
+}
+
+.stm_services_tabs .service_tab_item .service_label {
+  position: absolute;
+  left: 35px;
+  top: -22px;
+  background: $stm_secondary_color;
+  border-radius: 3px;
+  padding: 4px 7px 4px;
+  color: #fff;
+  font: {
+    size: 10px;
+    weight: 600;
+  }
+  line-height: 9px;
+  text-transform: uppercase;
+}
+
+.stm_services_tabs {
+  .service_tab_item {
+    .service_text {
+      p {
+        margin-bottom: 0;
+        color: #222222;
+        line-height: 22px;
+      }
+    }
+  }
+}

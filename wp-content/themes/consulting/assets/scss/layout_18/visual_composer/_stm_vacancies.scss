@@ -1,0 +1,61 @@
+.vacancy_table_wr {
+  position: relative;
+  margin: 0 0 45px;
+  .vacancy_table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    thead th {
+      position: relative;
+      color: $stm_base_color;
+      font-size: 13px;
+      padding: 21px 0 21px 43px;
+      cursor: pointer;
+      font-weight: 700;
+      text-transform: lowercase;
+      border-top: 5px solid #cacaca;
+      border-bottom: 1px solid #e5e5e5;
+      font-family: $main_font;
+      &.headerSortDown {
+        border-top-color: $stm_third_color;
+        &:after {
+          content: "\f078";
+        }
+      }
+      &.headerSortUp {
+        border-top-color: $stm_third_color;
+        &:after {
+          content: "\f077";
+        }
+      }
+      &:after {
+        content: "\f078";
+        @include fa();
+        font-size: 11px;
+        color: $stm_base_color;
+        position: absolute;
+        margin: 2px 0 0 20px;
+      }
+      &:first-child{
+        padding-left: 0;
+      }
+    }
+    tbody td {
+      font-size: 13px;
+      line-height: 18px;
+      padding: 13px 0 13px 43px;
+      border-bottom: 1px solid #e5e5e5;
+      &:first-child{
+        padding-left: 0;
+      }
+      a {
+        color: $stm_base_color;
+        @include transition();
+        &:hover {
+          text-decoration: none;
+          color: $stm_secondary_color;
+        }
+      }
+    }
+  }
+}

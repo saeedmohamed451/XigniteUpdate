@@ -1,0 +1,100 @@
+[
+  {
+    "consulting-shop": [
+      "woocommerce_product_categories-3",
+      "woocommerce_price_filter-3",
+      "woocommerce_top_rated_products-3",
+      "woocommerce_product_tag_cloud-3"
+    ],
+    "consulting-footer-1": [
+      "socials-3",
+      "mc4wp_form_widget-3"
+    ],
+    "consulting-footer-2": [
+      "tp_widget_recent_tweets-2"
+    ],
+    "consulting-footer-3": [
+      "recent-posts-2"
+    ],
+    "consulting-footer-4": [
+      "contacts-3"
+    ]
+  },
+  {
+    "woocommerce_product_categories": {
+      "3": {
+        "title": "shop categories",
+        "orderby": "name",
+        "dropdown": 0,
+        "count": 0,
+        "hierarchical": 1,
+        "show_children_only": 0,
+        "hide_empty": 0
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_price_filter": {
+      "3": {
+        "title": "filter by price"
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_top_rated_products": {
+      "3": {
+        "title": "top rated products",
+        "number": 3
+      },
+      "_multiwidget": 1
+    },
+    "woocommerce_product_tag_cloud": {
+      "3": {
+        "title": "product tags"
+      },
+      "_multiwidget": 1
+    },
+    "socials": {
+      "3": {
+        "title": "\u05d0\u05e0\u05d7\u05e0\u05d5 \u05d7\u05d1\u05e8\u05ea\u05d9\u05d9\u05dd"
+      },
+      "_multiwidget": 1
+    },
+    "mc4wp_form_widget": {
+      "3": {
+        "title": "\u05dc\u05d4\u05d9\u05e8\u05e9\u05dd \u05dc\u05e7\u05d1\u05dc\u05ea \u05d4\u05ea\u05e8\u05d0\u05d5\u05ea \u05d3\u05d5\u05d0\"\u05dc"
+      },
+      "_multiwidget": 1
+    },
+    "tp_widget_recent_tweets": {
+      "2": {
+        "title": "\u05d8\u05d5\u05d5\u05d9\u05d8\u05d9\u05dd \u05d0\u05d7\u05e8\u05d5\u05e0\u05d9\u05dd",
+        "consumerkey": "qIsgRirnVY4DE4kkai4Op6lPn",
+        "consumersecret": "1qGiHtrTXkVOexy8PFsUOpG4aVTrFkIgz2rFdSD3NlY5sIFLJF",
+        "accesstoken": "2221244832-k2HwzxbU9jYzagBKtjGlr1dpouI2wlBvChUSBmI",
+        "accesstokensecret": "AJLBqM58a4YQvEKrCkA8OYkqqRY76IU39nW78S3e8VEDb",
+        "cachetime": "6",
+        "username": "stylemix_themes",
+        "tweetstoshow": "2",
+        "excludereplies": "true"
+      },
+      "_multiwidget": 1
+    },
+    "recent-posts": {
+      "2": {
+        "title": "\u05d7\u05d3\u05e9\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05e0\u05d5\u05ea",
+        "number": 2,
+        "show_date": true
+      },
+      "_multiwidget": 1
+    },
+    "contacts": {
+      "3": {
+        "title": "\u05e0\u05d4\u05d9\u05d4 \u05d1\u05e7\u05e9\u05e8",
+        "address": "\u05ea\u05dc-\u05d0\u05d1\u05d9\u05d1, \u05e4\u05e8\u05d5\u05e4 &#039;\u05d9\u05d7\u05d6\u05e7\u05d0\u05dc \u05e7\u05d5\u05d9\u05e4\u05de\u05df \u05e1\u05e0\u05d8 6, \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1-\u05d9\u05e4\u05d5, 6801298, \u05d9\u05e9\u05e8\u05d0\u05dc",
+        "phone": "\u05e9\u05d9\u05d7\u05d4 \u05d7\u05d9\u05e0\u05dd: +1 212 376 5575",
+        "fax": "\u05e4\u05e7\u05e1: +1 376 226 3126",
+        "email": "head@consultingwp.com"
+      },
+      "_multiwidget": 1
+    }
+  }
+]

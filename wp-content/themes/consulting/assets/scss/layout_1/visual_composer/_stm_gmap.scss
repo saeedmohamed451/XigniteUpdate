@@ -1,0 +1,177 @@
+.stm_gmap_wrapper {
+  position: relative;
+  .stm_gmap {
+    height: 733px;
+    width: 100%;
+    .gm-style{
+      .gm-style-iw{
+        text-align: center;
+        margin-top: -4px;
+        & > div {
+          & > div {
+            overflow: hidden !important;
+          }
+        }
+        h6{
+          display: block;
+          margin: 0;
+          text-transform: lowercase;
+          font-size: 16px;
+          color: #fff;
+          font-weight: 600;
+          line-height: 20px;
+          padding-top: 0;
+          &:after{
+            display: none;
+          }
+        }
+        & + div{
+          display: none !important;
+        }
+      }
+      & > div:first-child > div + div > div:last-child > div > div:first-child > div {
+        border: none !important;
+        background: $stm_base_color !important;
+        border-radius: 30px !important;
+        margin-top: -6px;
+      }
+      & > div:first-child > div + div > div:last-child > div > div:first-child > div > div:first-child > div {
+        left: 7px !important;
+        transform: skewX(42deg) !important;
+        box-shadow: none !important;
+        background: $stm_base_color !important;
+        z-index: 40;
+      }
+      & > div:first-child > div + div > div:last-child > div > div:first-child > div > div:nth-child(2) > div {
+        left: -1px !important;
+        transform: skewX(-42deg) !important;
+        box-shadow: none !important;
+        background: $stm_base_color !important;
+        z-index: 40;
+      }
+      & > div:first-child > div + div > div:last-child > div > div:first-child > div:nth-child(2){
+        background-color: transparent !important;
+        box-shadow: none !important;
+      }
+    }
+  }
+  .gmap_addresses {
+    padding: 73px 0 71px;
+    background: $stm_base_color;
+    .container{
+      position: relative;
+    }
+    .addresses {
+      position: relative;
+      .item {
+        padding: 0 66px 0 1px;
+        border-right: 1px solid rgba(255, 255, 255, .25);
+        .title {
+          font-family: Poppins;
+          color: #fff;
+          font-weight: 600;
+          font-size: 20px;
+          margin: 0 0 14px;
+          @include transition(color);
+        }
+        ul {
+          list-style: none;
+          margin: 0;
+          padding: 0;
+          li {
+            color: rgba(#fff, .5);
+            margin: 0 0 14px;
+            @include transition(color);
+            @include cleaner();
+            &:last-child{
+              margin: 0;
+            }
+            .icon {
+              float: left;
+              width: 16px;
+              line-height: 20px;
+              font-size: 16px;
+              margin-right: 14px;
+              text-align: center;
+              color: rgba($stm_third_color, .5);
+              @include transition(color);
+              .stm-email{
+                font-size: 12px;
+                padding: 2px 0 0;
+              }
+            }
+            .text{
+              overflow: hidden;
+              font-size: 13px;
+              line-height: 20px;
+              a{
+                color: $stm_secondary_color;
+              }
+              p{
+                margin: 0;
+                font-size: 13px;
+                line-height: 16px;
+              }
+            }
+          }
+        }
+
+        &.focused,
+        &:hover {
+          .title {
+            color: $stm_third_color;
+          }
+          ul li {
+            color: #fff;
+            .icon {
+              color: $stm_third_color;
+            }
+          }
+        }
+      }
+    }
+    .owl-dots-wr{
+      position: absolute;
+      right: 15px;
+      top: 0;
+      height: 100%;
+      &:before{
+        content: '';
+        display: inline-block;
+        vertical-align: middle;
+        height: 100%;
+      }
+      .owl-dots {
+        display: inline-block;
+        vertical-align: middle;
+        .owl-dot {
+          width: 8px;
+          height: 8px;
+          padding: 2px;
+          margin: 12px 0;
+          cursor: pointer;
+          @include transition(all, .2s, linear);
+          span {
+            display: block;
+            width: 4px;
+            height: 4px;
+            border: 1px solid $stm_secondary_color;
+            background: $stm_secondary_color;
+            padding: 0;
+            @include transition(all, .2s, linear);
+            @include border-radius(50%);
+          }
+          &.active {
+            padding: 0;
+            span {
+              width: 8px;
+              height: 8px;
+              background: $stm_third_color;
+              border-color: $stm_third_color;
+            }
+          }
+        }
+      }
+    }
+  }
+}

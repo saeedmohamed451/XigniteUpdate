@@ -1,0 +1,150 @@
+.consulting-rev-title{
+  font-size: 60px;
+  line-height: 60px;
+  color: inherit;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+
+  mark {
+    color: $stm_secondary_color;
+  }
+}
+
+.consulting-rev-title-2{
+  font-size: 36px;
+  line-height: 42px;
+  color: inherit;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.06em;
+
+  mark {
+    color: $stm_secondary_color;
+  }
+}
+
+.consulting-rev-title-3{
+  font-size: 45px;
+  line-height: 45px;
+  color: inherit;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+
+  mark {
+    font-size: inherit !important;
+    padding: 0;
+    color: $stm_secondary_color;
+  }
+}
+
+.consulting-rev-title-4{
+  padding: 0 10px;
+  border: 1px solid #fff;
+  font-size: 45px;
+  line-height: 67px;
+  color: inherit;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+
+  mark {
+    font-size: inherit !important;
+    padding: 0;
+    color: $stm_secondary_color;
+  }
+}
+
+
+.consulting-rev-title-icon{
+  font-size: 72px;
+  color: $stm_secondary_color;
+  padding-left: 1px;
+}
+
+.consulting-rev-text{
+  font-family: "Montserrat", sans-serif;
+  color: inherit;
+  line-height: 32px;
+  font-size: 22px;
+
+  mark {
+    color: $stm_secondary_color;
+  }
+}
+
+.consulting-rev-text-2{
+  color: inherit;
+  line-height: 22px;
+  font-size: 14px;
+
+  mark {
+    color: $stm_secondary_color;
+  }
+}
+
+.tp-caption{
+  .button{
+    transition: all .3s ease !important;
+    margin-right: 16px;
+    text-transform: uppercase;
+  }
+
+  &.baseColorOverlay {
+    background: rgba( $stm_base_color, .5 ) !important;
+  }
+}
+
+body .tparrows{
+  width: 45px;
+  height: 45px;
+  background: none;
+  border: 3px solid #bac1c6;
+  @include transition();
+  &:hover{
+    background: $stm_secondary_color;
+    border-color: $stm_secondary_color;
+    &:before{
+      color: #fff;
+    }
+  }
+  &.tp-leftarrow{
+    &:before{
+      content: "\f053";
+      padding: 0 3px 0 0;
+    }
+  }
+  &.tp-rightarrow{
+    &:before{
+      content: "\f054";
+      padding: 0 0 0 3px;
+    }
+  }
+  &:before{
+    @include fa();
+    font-size: 19px;
+    line-height: 40px;
+    color: #bac1c6;
+  }
+}
+
+body{
+  .tp-bullets{
+    .tp-bullet{
+      width: 4px;
+      height: 4px;
+      background: $stm_secondary_color;
+      box-sizing: content-box;
+      margin: 2px;
+      padding: 0;
+      @include border-radius(50%);
+      &.selected{
+        background: $stm_base_color;
+        padding: 2px;
+        margin: 0;
+      }
+    }
+  }
+}

@@ -1,0 +1,284 @@
+.stm_testimonials{
+  position: relative;
+  margin: 0 -15px;
+  font-size: 0;
+  &.cols_2{
+    .item{
+      width: 50%;
+    }
+  }
+  &.cols_3{
+    .item{
+      width: 33%;
+    }
+  }
+  &.style_2{
+    .item{
+      .testimonial{
+        background: #f2f2f2;
+        &:before{
+          bottom: -3px;
+          right: -3px;
+        }
+        &:after{
+          background-image: url("../../images/testimonials_before_2.png");
+        }
+      }
+    }
+  }
+  .item{
+    font-size: 14px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0 15px;
+    margin: 0 0 43px;
+    .testimonial{
+      position: relative;
+      border: 3px solid #f2f2f2;
+      padding: 21px 28px 32px;
+      margin: 0 0 20px;
+      &:before{
+        content: "\e90b";
+        @include theme_icons();
+        font-size: 48px;
+        color: $stm_third_color;
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        width: 58px;
+        height: 40px;
+        overflow: hidden;
+      }
+      &:after{
+        content: '';
+        position: absolute;
+        left: 62px;
+        bottom: -33px;
+        width: 30px;
+        height: 33px;
+        background: url("../../images/testimonials_before.png") no-repeat 0 0;
+        background-size: 15px 18px;
+      }
+      p{
+        margin: 0;
+      }
+    }
+    .testimonial-info{
+      position: relative;
+      @include cleaner();
+      .testimonial-image{
+        max-width: 50px;
+        display: table-cell;
+        vertical-align: middle;
+        img{
+          max-width: 100%;
+          height: auto;
+          overflow: hidden;
+          @include border-radius(100%);
+        }
+      }
+      .testimonial-text{
+        display: table-cell;
+        vertical-align: middle;
+        padding: 0 0 0 15px;
+        .name{
+          font-size: 13px;
+          font-weight: 700;
+          color: #222;
+          line-height: 20px;
+          font-family: "Montserrat";
+        }
+        .company{
+          font-size: 13px;
+          color: #808080;
+          line-height: 20px;
+          font-style: italic;
+        }
+      }
+    }
+  }
+}
+
+.vc_testimonials {
+  &.style_3 {
+    &.navigation-arrows {
+      padding: 100px 0;
+      @include transition(background);
+      background-size: cover;
+      background-repeat: no-repeat;
+      .vc_testimonials_carousel_wr {
+        @include cleaner();
+        position: relative;
+      }
+
+      .owl-nav {
+        position: absolute;
+        bottom: 60px;
+        right: 60px;
+        z-index: 2;
+      }
+
+      .vc_testimonials_carousel_wr {
+        float: right;
+        max-width: 540px;
+        width: 100%;
+        padding: 64px 60px 53px;
+        background: rgba( #fff, .9 );
+
+        &:before {
+          content: "\e90b";
+          @include theme_icons;
+          position: absolute;
+          top: 47px;
+          left: -25px;
+          color: $stm_secondary_color;
+          font-size: 48px;
+        }
+
+        .item {
+          > p {
+            margin-bottom: 22px;
+            font-size: 16px;
+            font-weight: 300;
+            line-height: 30px;
+            color: #222;
+          }
+
+          .testimonial_info {
+            h4 {
+              padding: 0;
+              letter-spacing: 0;
+              margin-bottom: 0;
+            }
+            p {
+              padding: 0;
+              margin-bottom: 0;
+              font-size: 14px;
+              color: #777;
+            }
+          }
+        }
+      }
+
+      .owl-nav {
+        @include cleaner;
+        .owl-prev,
+        .owl-next {
+          float: left;
+          width: 45px;
+          height: 45px;
+          padding-top: 7px;
+          text-align: center;
+          font-size: 19px;
+          border: 3px solid #bac1c6;
+          color: #bac1c6;
+          @include transition();
+          position: relative;
+          cursor: pointer;
+
+          &:hover {
+            border-color: $stm_base_color;
+            background: $stm_base_color;
+            color: #fff;
+            z-index: 2;
+          }
+        }
+
+        .owl-prev {
+          margin-right: -3px;
+        }
+      }
+    }
+  }
+
+  &.style_3 {
+    &.navigation-bullets {
+      padding: 80px 0;
+      @include transition(background);
+      background-size: cover;
+      background-repeat: no-repeat;
+      .vc_testimonials_carousel_wr {
+        @include cleaner();
+        position: relative;
+        float: right;
+        max-width: 635px;
+        width: 100%;
+        padding: 68px 68px 97px;
+        background: rgba( $stm_secondary_color, .9 );
+      }
+
+      .owl-dots {
+        position: absolute;
+        bottom: 44px;
+        left: 0;
+        width: 100%;
+        z-index: 2;
+        text-align: center;
+
+        .owl-dot {
+          display: inline-block;
+          margin: 0 22px;
+          span {
+            display: block;
+            width: 9px;
+            height: 9px;
+            background: rgba( #fff, .6 );
+            border-radius: 50%;
+            cursor: pointer;
+            @include transition();
+          }
+
+          &.active span {
+            background: #fff;
+            transform: scale(2.1);
+          }
+        }
+      }
+
+      .vc_testimonials_carousel {
+        .item {
+          > p {
+            text-align: center;
+            margin-bottom: 26px;
+            font-size: 18px;
+            line-height: 30px;
+            color: #fff;
+          }
+
+          .testimonial_info {
+            position: relative;
+            text-align: center;
+            &:before {
+              display: inline-block;
+              margin-bottom: 16px;
+              content: "\e93b";
+              @include theme_icons;
+              color: #fff;
+              font-size: 71px;
+            }
+            h4 {
+              font-size: 14px;
+              text-transform: uppercase;
+              padding: 0;
+              letter-spacing: 0;
+              margin-bottom: 5px;
+              line-height: normal;
+              color: $stm_base_color;
+            }
+            p {
+              line-height: normal;
+              padding: 0;
+              margin-bottom: 0;
+              font-size: 14px;
+              color: $stm_base_color;
+
+              strong {
+                font-weight: 400;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

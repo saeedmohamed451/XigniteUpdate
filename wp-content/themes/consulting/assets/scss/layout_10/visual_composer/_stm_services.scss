@@ -1,0 +1,123 @@
+.stm_services {
+  position: relative;
+  margin: 0 -15px;
+  font-size: 0;
+  .item {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    width: 33%;
+    padding: 0 15px;
+    margin: 0 0 57px;
+    font-size: 14px;
+    .item_wr {
+      .item_thumbnail {
+        margin: 0 0 30px;
+        img {
+          display: block;
+          max-width: 100%;
+          height: auto;
+        }
+        a{
+          position: relative;
+          display: block;
+          &:before{
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(#000, .6);
+            @include transition();
+            opacity: 0;
+          }
+          &:after{
+            content: "\e920";
+            @include theme_icons();
+            @include transition();
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin: -15px 0 0 -15px;
+            color: #fff;
+            font-size: 30px;
+            opacity: 0;
+          }
+          &:hover{
+            &:before, &:after{
+              opacity: 1;
+            }
+          }
+        }
+      }
+      .content {
+        font-size: 13px;
+        @include transition();
+        h5 {
+          padding: 0;
+          margin: 0 0 9px;
+          a {
+            text-decoration: none !important;
+            color: $stm_base_color;
+            @include transition();
+            &:hover {
+              color: $stm_secondary_color;
+            }
+          }
+          &:before {
+            content: '';
+            display: block;
+            width: 47px;
+            height: 5px;
+            background: $stm_third_color;
+            margin: 0 0 18px;
+          }
+          &:after {
+            display: none;
+          }
+        }
+        p {
+          line-height: 18px;
+        }
+        .read_more {
+          text-transform: lowercase;
+          font-weight: 500;
+          font-size: 13px;
+          transition: color 0.2s linear;
+          color: #222222;
+          font-family: "Montserrat", sans-serif;
+          .stm_icon {
+            margin: 2px 0 0 5px;
+            font-size: 12px;
+            vertical-align: middle;
+            color: $stm_third_color;
+          }
+          span {
+            vertical-align: middle;
+            line-height: 13px;
+          }
+          &:hover {
+            color: $stm_secondary_color;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
+  &.cols_4 {
+    .item {
+      width: 25%;
+    }
+  }
+  &.cols_2 {
+    .item {
+      width: 50%;
+    }
+  }
+  &.cols_1 {
+    .item {
+      width: 100%;
+    }
+  }
+}

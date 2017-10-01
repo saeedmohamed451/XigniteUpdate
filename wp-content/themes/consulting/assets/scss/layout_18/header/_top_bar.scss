@@ -1,0 +1,324 @@
+.top_bar {
+  position: relative;
+  z-index: 20;
+  font-size: 13px;
+  background-color: $stm_base_color;
+}
+
+#lang_sel {
+  position: relative;
+  float: left;
+  @include transition();
+  > ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    > li {
+      .lang_sel_sel {
+        position: relative;
+        display: block;
+        padding: 16px 24px 16px 1px;
+        color: #fff;
+        text-decoration: none !important;
+        &:after {
+          content: "";
+          border-left: 3px solid transparent;
+          border-right: 3px solid transparent;
+          border-top: 5px solid #fff;
+          position: absolute;
+          right: 2px;
+          top: 50%;
+          margin: -2px 0 0;
+        }
+      }
+      > ul {
+        position: absolute;
+        visibility: hidden;
+        left: 0;
+        top: 100%;
+        min-width: 100%;
+        background: $stm_base_color;
+        list-style: none;
+        padding: 2px 0 12px;
+        margin: 0;
+        opacity: 0;
+        @include transition();
+        a {
+          color: #fff;
+          display: block;
+          padding: 10px 20px;
+          text-decoration: none !important;
+          @include transition(background);
+          &:hover {
+            background: $stm_secondary_color;
+          }
+        }
+      }
+    }
+  }
+  &:hover {
+    background: $stm_base_color;
+    > ul > li > ul {
+      visibility: visible;
+      opacity: 1;
+    }
+  }
+}
+
+.top_bar_info_wr {
+  position: relative;
+  float: right;
+  .top_bar_info_switcher {
+    position: relative;
+    float: right;
+    background: $stm_third_color;
+    font-size: 13px;
+    .active {
+      position: relative;
+      cursor: pointer;
+      padding: 14px 42px 16px 21px;
+      color: $stm_base_color;
+      text-decoration: none !important;
+      min-width: 160px;
+      i {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0 15px 0 0;
+        font-size: 16px;
+      }
+      span {
+        display: inline-block;
+        vertical-align: middle;
+      }
+      &:after {
+        content: '';
+        border-left: 3px solid transparent;
+        border-right: 3px solid transparent;
+        border-top: 5px solid $stm_base_color;
+        position: absolute;
+        right: 20px;
+        top: 50%;
+        margin: -2px 0 0;
+      }
+    }
+    ul {
+      position: absolute;
+      left: 0;
+      top: 100%;
+      display: none;
+      background: $stm_base_color;
+      list-style: none;
+      padding: 12px 0;
+      margin: 0;
+      min-width: 100%;
+      a {
+        color: #fff;
+        display: block;
+        padding: 10px 20px;
+        text-decoration: none !important;
+        @include transition(background);
+        &:hover {
+          background: $stm_secondary_color;
+        }
+      }
+    }
+  }
+  .top_bar_info {
+    display: none;
+    float: right;
+    margin: 0;
+    padding: 0 6px 0 0;
+    list-style: none;
+    &:after {
+      content: '';
+      display: inline-block;
+      vertical-align: middle;
+      height: 50px;
+    }
+    li {
+      display: inline-block;
+      vertical-align: middle;
+      padding: 5px 23px;
+      color: #fff;
+      font-size: 13px;
+      a {
+        color: #fff;
+        text-decoration: none !important;
+        @include transition();
+        &:hover{
+          span{
+            text-decoration: underline;
+          }
+        }
+      }
+      i {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 0 12px 0 0;
+        font-size: 16px;
+        color: $stm_third_color;
+      }
+      span {
+        display: inline-block;
+        vertical-align: middle;
+      }
+    }
+  }
+}
+
+.top_bar_contacts {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+  @include cleaner();
+
+  > li {
+    float: left;
+    margin: 0 80px 0 0;
+    color: #fff;
+    font-size: 13px;
+    .top_bar_contacts_text {
+      display: inline-block;
+      vertical-align: middle;
+      line-height: 1;
+    }
+    a {
+      color: #fff;
+    }
+    i {
+      margin-right: 10px;
+      font-size: 16px;
+      color: $stm_secondary_color;
+      vertical-align: middle;
+      display: inline-block;
+      line-height: 1;
+      &.stm-email {
+        font-size: 12px;
+      }
+      &.stm-location-2 {
+        font-size: 17px;
+      }
+    }
+  }
+}
+
+body.header_style_6 {
+  #lang_sel {
+    margin-right: 80px;
+    @include transition();
+    > ul {
+      > li {
+        .lang_sel_sel {
+          padding: 23.5px 24px 23.5px 1px;
+          color: $stm_base_color;
+          &:after {
+            border-top: 5px solid $stm_base_color;
+          }
+        }
+        > ul {
+          min-width: 105px;
+          background: #fff;
+          margin: -8px 0 0;
+          box-shadow: 0 3px 7px rgba(#000, .35);
+          a {
+            color: $stm_base_color;
+            &:hover {
+              background: $stm_secondary_color;
+            }
+          }
+        }
+      }
+    }
+    &:hover {
+      background: transparent;
+    }
+  }
+}
+
+.top_bar {
+  .cart_count{
+    position: relative;
+    font-size: 16px;
+    text-decoration: none;
+    color: $stm_base_color;
+    .count{
+      position: absolute;
+      right: -10px;
+      top: -11px;
+      background: $stm_third_color;
+      @include border-radius(50%);
+      width: 19px;
+      height: 19px;
+      font-size: 10px;
+      font-family: $secondary_font;
+      text-align: center;
+      line-height: 19px;
+      color: #222222 !important;
+    }
+  }
+}
+
+body {
+  &.header_style_6 {
+    .top_bar {
+      background: #fff;
+
+      .cart_count_wrapper {
+        float: right;
+        padding: 21.5px 0;
+      }
+    }
+    .top_bar_contacts {
+      padding: 23px 0;
+      float: left;
+      > li {
+        color: #222;
+        .top_bar_contacts_text {
+          strong,
+          b {
+            font-family: $secondary_font;
+          }
+        }
+        a {
+          color: #222;
+        }
+      }
+    }
+  }
+}
+
+body {
+  &.header_style_8 {
+    &.home {
+      .top_bar {
+        position: absolute;
+        top: 0;
+        right: 0;
+        left: 0;
+      }
+    }
+    .logo {
+      float: right;
+      display: inline;
+      margin: 5px 0 20px;
+    }
+    .top_bar_contacts {
+      display: block;
+      padding: 24px 0 20px;
+      position: relative;
+      text-align: left;
+      overflow: hidden;
+      li {
+        display: inline-block;
+        vertical-align: top;
+        float: none;
+        &:last-child {
+          margin-left: 0;
+        }
+        i {
+          margin-left: 6px;
+        }
+      }
+    }
+  }
+}

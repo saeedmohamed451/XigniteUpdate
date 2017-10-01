@@ -1,0 +1,269 @@
+body{
+  font-family: "Open Sans";
+  font-size: 14px;
+}
+
+a {
+  color: $stm_secondary_color;
+  text-decoration: none;
+  outline: none !important;
+  &:hover, &:active, &:focus {
+    text-decoration: underline;
+    color: $stm_secondary_color;
+  }
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.06em;
+  color: $stm_base_color;
+  padding: 0;
+  margin: 0 0 23px;
+  font-size: 45px;
+  line-height: 60px;
+  &:after{
+    content: '';
+    display: block;
+    width: 35px;
+    height: 6px;
+    background: $stm_third_color;
+    @include border-radius(3px);
+    margin: 4px 0 0;
+  }
+  &.stripe_2{
+    &:after{
+      @include border-radius(0);
+      width: 47px;
+      height: 5px;
+    }
+  }
+  &.no_stripe, &.stripe_2.no_stripe{
+    &:after{
+      display: none;
+    }
+  }
+}
+
+div.no_stripe{
+  h1, .h1,
+  h2, .h2,
+  h3, .h3,
+  h4, .h4,
+  h5, .h5,
+  h6, .h6 {
+    &:after{
+      display: none;
+    }
+  }
+}
+
+div.remove_padding{
+  h1, .h1,
+  h2, .h2,
+  h3, .h3,
+  h4, .h4,
+  h5, .h5,
+  h6, .h6 {
+    padding-top: 0;
+  }
+}
+
+.h1, h1,
+.h2, h2,
+.h3, h3,
+.h4, h4 {
+  text-transform: uppercase;
+  letter-spacing: 0;
+}
+
+h2, .h2 {
+  margin-bottom: 23px;
+  font-size: 36px;
+  letter-spacing: normal;
+  line-height: 45px;
+  padding: 10px 0 0;
+  &:after {
+    margin: 19px 0 0;
+  }
+}
+
+h3, .h3 {
+  margin-bottom: 23px;
+  font-size: 28px;
+  letter-spacing: -0.01em;
+  line-height: 37px;
+  padding: 17px 0 0;
+  &:after {
+    margin: 11px 0 0;
+  }
+}
+
+h4, .h4{
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 23px;
+  letter-spacing: -0.04em;
+  line-height: 28px;
+  padding: 23px 0 0;
+  &:after {
+    margin: 13px 0 0;
+  }
+}
+
+h5, .h5 {
+  margin: 0 0 23px;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.04em;
+  line-height: 22px;
+  padding: 28px 0 0;
+  &:after {
+    margin: 16px 0 0;
+  }
+}
+
+h6, .h6{
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 20px;
+  padding: 31px 0 0;
+  &:after {
+    margin: 17px 0 0;
+  }
+}
+
+p {
+  line-height: 28px;
+  margin: 0 0 15px;
+}
+
+strong, b {
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+}
+
+mark {
+  background: none;
+  color: $stm_base_color;
+  padding: inherit;
+}
+
+blockquote {
+  padding: 21px 30px 18px 30px;
+  border-left: 5px solid $stm_third_color;
+  background: #f2f2f2;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212121;
+  font-style: italic;
+}
+
+.wpb_text_column, .comment-body .comment-text {
+  ul {
+    margin: 0 0 20px;
+    list-style: none;
+    padding: 0;
+    &.small_margin{
+      li{
+        margin-bottom: 9px;
+      }
+    }
+    li{
+      position: relative;
+      padding: 0 0 0 26px;
+      margin: 0 0 14px;
+      line-height: 18px;
+      color: #222222;
+      border: none;
+      font-family: "Montserrat", sans-serif;
+      font-size: 13px;
+      &:before {
+        content: "\f04d";
+        @include fa();
+        position: absolute;
+        left: 0;
+        top: 8px;
+        display: inline-block;
+        vertical-align: top;
+        font-size: 5px;
+        color: $stm_secondary_color;
+        transform: rotate(45deg);
+      }
+      div{
+        padding: 10px 0;
+      }
+      p{
+        font-family: "Open Sans";
+      }
+      ul, ol{
+        margin: 10px 0 10px;
+      }
+      ol{
+        & > li{
+          list-style: decimal;
+          padding: 0;
+          &:before{
+            display: none;
+            padding-left: 0;
+          }
+        }
+      }
+    }
+  }
+  ol {
+    list-style-position: inside;
+    list-style: decimal;
+    margin: 0 0 20px;
+    padding: 0;
+    & > li{
+      margin: 0 0 10px 0;
+      border: none;
+      list-style: decimal;
+      ul{
+        & > li{
+          list-style: none;
+        }
+      }
+      ol, ul{
+        margin: 10px 0 10px;
+        padding: 0 0 0 26px;
+      }
+    }
+  }
+  p{
+    color: #777;
+  }
+  table{
+    width: 100%;
+    margin: 0 0 40px;
+    td, th{
+      padding: 10px;
+      border: 1px solid #e6e6e6;
+    }
+  }
+  dl {
+    margin: 0 0 40px;
+    dd {
+      margin: 0 0 10px;
+    }
+  }
+  embed, iframe {
+    max-width: 100%;
+  }
+}
+
+mark{
+  color: $stm_base_color;
+}
+
+fieldset{
+  border: none;
+  padding: 0;
+}

@@ -1,0 +1,100 @@
+product_code,Product Name,product_description,MRP,our_price,a. Whole Sale Price,shipping _charge,product_category,product_subcategory,product_subtopic,products_pagetitle,products_metadescription,products_keywords,image_url,Sub_Description ,Brand,status
+Bak001,Britannia 100%Whole Wheat Bread 400GM Pouch,,30,,,,Bakery,Bread,,Britannia 100%Whole Wheat Bread 400GM Pouch,,,bake1.jpg,,Britannia,1
+Bak002,Daily Bread Hot Dog Bakes Fresh 150 g,,25,,,,Bakery,Bread,,Daily Bread Hot Dog Bakes Fresh 150 g,,,bake2.jpg,,Daily Bread,1
+Bak003,Daily Bread Sandwich Bread Bakes Fresh 400 g,,30,,,,Bakery,Bread,,Daily Bread Sandwich Bread Bakes Fresh 400 g,,,bake3.jpg,,Daily Bread,1
+Bak004,Bakes Fresh Whole Wheat Bread {Sugar Free} 400gm Pouch,,38,,,,Bakery,Bread,,Bakes Fresh Whole Wheat Bread Sugar Free  400gm Pouch,,,bake4.jpg,,Bakes Fresh,1
+Bak005,Britannia Daily Fresh Milk Bread 400gm Pouch,,25,,,,Bakery,Bread,,Britannia Daily Fresh Milk Bread 400gm Pouch,,,bake5.jpg,,Britannia,1
+Bak006,Bakes Fresh Whole Wheat Bread Pouch 400gm,,32,,,,Bakery,Bread,,Bakes Fresh Whole Wheat Bread Pouch 400gm,,,bake6.jpg,,Bakes Fresh,1
+Bak007,Daily Bread Pizza Base Bakes Fresh 150 g,,20,,,,Bakery,Bread,,Daily Bread Pizza Base Bakes Fresh 150 g,,,bake7.jpg,,Daily Bread,1
+Bak008,Daily Bread Butter Pav Bakes Fresh 200 g,,22,,,,Bakery,Bread,,Daily Bread Butter Pav Bakes Fresh 200 g,,,bake8.jpg,,Daily Bread,1
+Bak009,Spencers English Recipe Premium Milk Bread Pouch 400gm,,30,,,,Bakery,Bread,,Spencers English Recipe Premium Milk Bread Pouch 400gm,,,bake9.jpg,,Spencers,1
+Bak010,Daily Bread Milk Bread Bakes Fresh 400 g,,30,,,,Bakery,Bread,,Daily Bread Milk Bread Bakes Fresh 400 g,,,bake10.jpg,,Daily Bread,1
+Bak011,Daily Bread Burger Buns Bakes Fresh 200 g,,28,,,,Bakery,Bread,,Daily Bread Burger Buns Bakes Fresh 200 g,,,bake11.jpg,,Daily Bread,1
+Bak012,Bakes Fresh Butter Pav Bun Puch 200gm ,,22,,,,Bakery,Bread,,Bakes Fresh Butter Pav Bun Puch 200gm ,,,bake12.jpg,,Bakes Fresh,1
+Bak013,Bakes Fresh Sandwich Bread Pouch 400gm ,,30,,,,Bakery,Bread,,Bakes Fresh Sandwich Bread Pouch 400gm ,,,bake13.jpg,,Bakes Fresh,1
+Bak014,Bakes Fresh Fruit Buns {3 pcs} 120gm Pouch,,16,,,,Bakery,Bread,,Bakes Fresh Fruit Buns 3 pcs 120gm Pouch,,,bake14.jpg,,Bakes Fresh,1
+Bak015,Modern Milk Bread 500 g,,30,,,,Bakery,Bread,,Modern Milk Bread 500 g,,,bake15.jpg,,Modren,1
+Bak016,Modern Chocolate Cream Roll 50 g,,10,,,,Bakery,Bread,,Modern Chocolate Cream Roll 50 g,,,bake16.jpg,,Modren,1
+Bak017,Modern Family Shakti Bread 800 g,,45,,,,Bakery,Bread,,Modern Family Shakti Bread 800 g,,,bake17.jpg,,Modren,1
+Bak018,Britannia Daily Fresh Fruit Bread 200gm Pouch,,17,,,,Bakery,Bread,,Britannia Daily Fresh Fruit Bread 200gm Pouch,,,bake18.jpg,,Britannia,1
+Bak019,Bakes Fresh Burger Buns Pouch 200gm,,28,,,,Bakery,Bread,,Bakes Fresh Burger Buns Pouch 200gm,,,bake19.jpg,,Bakes Fresh,1
+Bak020,Bakes Fresh Multi Grain Bread 400gm Pouch,,52,,,,Bakery,Bread,,Bakes Fresh Multi Grain Bread 400gm Pouch,,,bake20.jpg,,Bakes Fresh,1
+Bak021,Spencers 100%Whole White Pizza Base {2pcs} 150gm Pouch,,20,,,,Bakery,Bread,,Spencers 100%Whole White Pizza Base 2pcs 150gm Pouch,,,bake21.jpg,,Spencers,1
+Bak022,Modern Brown Bread 400 g,,30,,,,Bakery,Bread,,Modern Brown Bread 400 g,,,bake22.jpg,,Modren,1
+Bak023,Britannia Milk Bread Pouch 400gm,,30,,,,Bakery,Bread,,Britannia Milk Bread Pouch 400gm,,,bake23.jpg,,Britannia,1
+Bak024,Modern 7 Must Bread 400 g,,30,,,,Bakery,Bread,,Modern 7 Must Bread 400 g,,,bake24.jpg,,Modren,1
+Bak025,Modern Bread n' Butter Pouch 400gm,,28,,,,Bakery,Bread,,Modern Bread n' Butter Pouch 400gm,,,bake25.jpg,,Modren,1
+Bak026,Modern Pav Bread 200 g,,16,,,,Bakery,Bread,,Modern Pav Bread 200 g,,,bake26.jpg,,Modren,1
+Bak027,Modern Bread 400 g,,28,,,,Bakery,Bread,,Modern Bread 400 g,,,bake27.jpg,,Modren,1
+Bak028,Daily Bread Wheat Bread Bakes Fresh 400 g,,32,,,,Bakery,Bread,,Daily Bread Wheat Bread Bakes Fresh 400 g,,,bake28.jpg,,Daily Bread,1
+Bak029,Spencers English Recipe Premium Sandwich Bread Pouch 400 gm,,31,,,,Bakery,Bread,,Spencers English Recipe Premium Sandwich Bread Pouch 400 gm,,,bake29.jpg,,Spencers,1
+Bak030,Modern Family Shakti White Sandwich Bread Pouch 350gm ,,25,,,,Bakery,Bread,,Modern Family Shakti White Sandwich Bread Pouch 350gm ,,,bake30.jpg,,Modren,1
+Bak031,Daily Bread Brown Bread Bakes Fresh 400 g,,30,,,,Bakery,Bread,,Daily Bread Brown Bread Bakes Fresh 400 g,,,bake31.jpg,,Daily Bread,1
+Bak032,Modern Oats N Raagi Bread 400 g,,30,,,,Bakery,Bread,,Modern Oats N Raagi Bread 400 g,,,bake32.jpg,,Modren,1
+Bak033,Modern Oven Fresh Bread 1 KG,,55,,,,Bakery,Bread,,Modern Oven Fresh Bread 1 KG,,,bake33.jpg,,Modren,1
+Bak034,Bakes Fresh Brown Bread Pouch 400gm,,30,,,,Bakery,Bread,,Bakes Fresh Brown Bread Pouch 400gm,,,bake34.jpg,,Bakes Fresh,1
+Bak035,Spencers Whole MealBrown Bread Pouch 400gm,,30,,,,Bakery,Bread,,Spencers Whole MealBrown Bread Pouch 400gm,,,bake35.jpg,,Spencers,1
+Bak036,Bakes Fresh Fruit Bread Pouch 200gm,,16,,,,Bakery,Bread,,Bakes Fresh Fruit Bread Pouch 200gm,,,bake36.jpg,,Bakes Fresh,1
+Bak037,Britannia Brown Bread 400gm,,30,,,,Bakery,Bread,,Britannia Brown Bread 400gm,,,bake37.jpg,,Britannia,1
+Bak038,Britannia Multigrain Bread 400gm Pouch,,35,,,,Bakery,Bread,,Britannia Multigrain Bread 400gm Pouch,,,bake38.jpg,,Britannia,1
+Bak039,MMX Rusk 500 g,,65,,,,Bakery,Rusk,,MMX Rusk 500 g,,,bake39.jpg,,MMX,1
+Bak040,Karachi Bakery Osmania Biscuits 500gm Carton,,130,,,,Bakery,Rusk,,Karachi Bakery Osmania Biscuits 500gm Carton,,,bake40.jpg,,Karchi Bakery,1
+Bak041,Parle Rusk Real Elaichi Pouch 200gm,,27,,,,Bakery,Rusk,,Parle Rusk Real Elaichi Pouch 200gm,,,bake41.jpg,,Parle,1
+Bak042,Karachi Bakery Cashew Biscuits 400gm Carton ,,150,,,,Bakery,Rusk,,Karachi Bakery Cashew Biscuits 400gm Carton ,,,bake42.jpg,,Karchi Bakery,1
+Bak043,Karachi Bakery Fruit Biscuits 400gm Carton,,140,,,,Bakery,Rusk,,Karachi Bakery Fruit Biscuits 400gm Carton,,,bake43.jpg,,Karchi Bakery,1
+Bak044,MMX Rusk 300 g,,35,,,,Bakery,Rusk,,MMX Rusk 300 g,,,bake44.jpg,,MMX,1
+Bak045,Sweet Magic Wheat Rusk 150 g,,25,,,,Bakery,Rusk,,Sweet Magic Wheat Rusk 150 g,,,bake45.jpg,,Sweet Magic,1
+Bak046,Karachi Bakery Chocolate Cashew Biscuits 500gm Carton,,160,,,,Bakery,Rusk,,Karachi Bakery Chocolate Cashew Biscuits 500gm Carton,,,bake46.jpg,,Karchi Bakery,1
+Bak047,Karachi Bakery Badam Pista Biscuits With Real Saffron 400gm Carton,,220,,,,Bakery,Rusk,,Karachi Bakery Badam Pista Biscuits With Real Saffron 400gm Carton,,,bake47.jpg,,Karchi Bakery,1
+Bak048,Modern Bread Rusk Premium 500 g,,55,,,,Bakery,Rusk,,Modern Bread Rusk Premium 500 g,,,bake48.jpg,,Modren,1
+Bak049,Modern Bread Rusk Premium 1 Kg,,120,,,,Bakery,Rusk,,Modern Bread Rusk Premium 1 Kg,,,bake49.jpg,,Modren,1
+Bak050,Sweet Magic Almond Stiks 250 g,,160,,,,Bakery,Rusk,,Sweet Magic Almond Stiks 250 g,,,bake50.jpg,,Sweet Magic,1
+Bak051,Britannia Rusk 300 g,,40,,,,Bakery,Rusk,,Britannia Rusk 300 g,,,bake51.jpg,,Britannia,1
+Bak052,Britannia Suji Rusk 200 g,,27,,,,Bakery,Rusk,,Britannia Suji Rusk 200 g,,,bake52.jpg,,Britannia,1
+Bak053,Modern Milk Rusk 150 g,,24,,,,Bakery,Rusk,,Modern Milk Rusk 150 g,,,bake53.jpg,,Modren,1
+Bak054,Britannia Premium Bake Rusk Fresh Elaichi Pouch 300gm,,40,,,,Bakery,Rusk,,Britannia Premium Bake Rusk Fresh Elaichi Pouch 300gm,,,bake54.jpg,,Britannia,1
+Bak055,Karachi Bakery Pista Biscuits 500gm Carton ,,200,,,,Bakery,Rusk,,Karachi Bakery Pista Biscuits 500gm Carton ,,,bake55.jpg,,Karchi Bakery,1
+Bak056,Haldiram Rasgulla Bottle 450 g,,85,,,,Bakery,Sweets,,Haldiram Rasgulla Bottle 450 g,,,bake56.jpg,,Haldiram,1
+Bak057,Haldiram Rasgulla 1 Kg,,170,,,,Bakery,Sweets,,Haldiram Rasgulla 1 Kg,,,bake57.jpg,,Haldiram,1
+Bak058,Haldiram Soan Papdi Vanaspati Ghee 500 g,,115,,,,Bakery,Sweets,,Haldiram Soan Papdi Vanaspati Ghee 500 g,,,bake58.jpg,,Haldiram,1
+Bak059,Haldiram Soan Papdi Vanaspati Ghee 250 g,,60,,,,Bakery,Sweets,,Haldiram Soan Papdi Vanaspati Ghee 250 g,,,bake59.jpg,,Haldiram,1
+Bak060,Haldiram Badam Halwa 200 g,,40,,,,Bakery,Sweets,,Haldiram Badam Halwa 200 g,,,bake60.jpg,,Haldiram,1
+Bak061,Sweet Magic Rasgulla Tin 500 g,,100,,,,Bakery,Sweets,,Sweet Magic Rasgulla Tin 500 g,,,bake61.jpg,,Sweet Magic,1
+Bak062,Sweet Magic Gulab Jamun Tin 500 g,,90,,,,Bakery,Sweets,,Sweet Magic Gulab Jamun Tin 500 g,,,bake62.jpg,,Sweet Magic,1
+Bak063,Sweet Magic Bandar Halwa 200 g,,80,,,,Bakery,Sweets,,Sweet Magic Bandar Halwa 200 g,,,bake63.jpg,,Sweet Magic,1
+Bak064,Sweet Magic Soan Papdi Vanaspati Ghee 200 g,,55,,,,Bakery,Sweets,,Sweet Magic Soan Papdi Vanaspati Ghee 200 g,,,bake64.jpg,,Sweet Magic,1
+Bak065,"Charlie Laddu Peanut, 200 g",,56,,,,Bakery,Sweets,,"Charlie Laddu Peanut, 200 g",,,bake65.jpg,,Charlie,1
+Bak066,Karachi Bakery Fruit Biscuits 400 g,,150,,,,Bakery,Other Bakery Products,,Karachi Bakery Fruit Biscuits 400 g,,,bake66.jpg,,Karchi Bakery,1
+Bak067,Sweet Magic Assorted Biscts 400 g,,100,,,,Bakery,Other Bakery Products,,Sweet Magic Assorted Biscts 400 g,,,bake67.jpg,,Sweet Magic,1
+Bak068,Sweet Magic Badam Biscuit 300 g,,80,,,,Bakery,Other Bakery Products,,Sweet Magic Badam Biscuit 300 g,,,bake68.jpg,,Sweet Magic,1
+Bak069,Sweet Magic Chocolate Biscuits 300 g,,80,,,,Bakery,Other Bakery Products,,Sweet Magic Chocolate Biscuits 300 g,,,bake69.jpg,,Sweet Magic,1
+Bak070,Sweet Magic VAM Biscuits 200 g,,50,,,,Bakery,Other Bakery Products,,Sweet Magic VAM Biscuits 200 g,,,bake70.jpg,,Sweet Magic,1
+Bak071,MMX Atta Cookies 200 g,,35,,,,Bakery,Other Bakery Products,,MMX Atta Cookies 200 g,,,bake71.jpg,,MMX,1
+Bak072,Amul Shrikhand Elaichi 500 Gm,,85,,,,Bakery,Other Bakery Products,,Amul Shrikhand Elaichi 500 Gm,,,bake72.jpg,,Amul,1
+Bak073,Amul Fresh Cream 1 L,,185,,,,Bakery,Other Bakery Products,,Amul Fresh Cream 1 L,,,bake73.jpg,,Amul,1
+Bak074,Amul Fresh Cream 200 ml,,45,,,,Bakery,Other Bakery Products,,Amul Fresh Cream 200 ml,,,bake74.jpg,,Amul,1
+Bak075,Chital Amrakhand 250 Gm,,50,,,,Bakery,Other Bakery Products,,Chital Amrakhand 250 Gm,,,bake75.jpg,,Chital,1
+Bak076,Chital Amrakhand 500 Gm,,95,,,,Bakery,Other Bakery Products,,Chital Amrakhand 500 Gm,,,bake76.jpg,,Chital,1
+Bak077,"Shree Chikki Peanut Chikki Stick, 200 g",,70,,,,Bakery,Other Bakery Products,,"Shree Chikki Peanut Chikki Stick, 200 g",,,bake77.jpg,,Shree,1
+Bak078,Amul Shrikhand Kesar 500gm,,98,,,,Bakery,Other Bakery Products,,Amul Shrikhand Kesar 500gm,,,bake78.jpg,,Amul,1
+Bak079,Amul Shrikhand Kesar 100gm,,20,,,,Bakery,Other Bakery Products,,Amul Shrikhand Kesar 100gm,,,bake79.jpg,,Amul,1
+Bak080,"Shree Chikki Coconut, 100 g",,40,,,,Bakery,Other Bakery Products,,"Shree Chikki Coconut, 100 g",,,bake80.jpg,,Shree,1
+Bak081,Nestle Everyday Dairy Creamer 3Grm  Sachet 120PC,,220,,,,Bakery,Other Bakery Products,,Nestle Everyday Dairy Creamer 3Grm  Sachet 120PC,,,bake81.jpg,,Nestle,1
+Bak082,Chital Shrikhand Kesar 250 Gm,,50,,,,Bakery,Other Bakery Products,,Chital Shrikhand Kesar 250 Gm,,,bake82.jpg,,Chital,1
+Bak083,Chital Shrikhand Kesar 500 Gm,,95,,,,Bakery,Other Bakery Products,,Chital Shrikhand Kesar 500 Gm,,,bake83.jpg,,Chital,1
+Bak084,"Shree Chikki Crush Chikki, 100 g",,40,,,,Bakery,Other Bakery Products,,"Shree Chikki Crush Chikki, 100 g",,,bake84.jpg,,Shree,1
+Bak085,"Shree Chikki Peanut, 200 g",,60,,,,Bakery,Other Bakery Products,,"Shree Chikki Peanut, 200 g",,,bake85.jpg,,Shree,1
+Bak086,"Bauli Croissant Chocolate, 45 g",,15,,,,Bakery,Other Bakery Products,,"Bauli Croissant Chocolate, 45 g",,,bake86.jpg,,Bauli ,1
+Bak087,Bauli Croissant Orange 45 g,,15,,,,Bakery,Other Bakery Products,,Bauli Croissant Orange 45 g,,,bake87.jpg,,Bauli ,1
+Bak088,Amul Shrikhand Mango 500gm,,85,,,,Bakery,Other Bakery Products,,Amul Shrikhand Mango 500gm,,,bake88.jpg,,Amul,1
+Bak089,Gowardhan Fresh Paneer Block 200Gm,,75,,,,Bakery,Other Bakery Products,,Gowardhan Fresh Paneer Block 200Gm,,,bake89.jpg,,Gowardhan,1
+Bak090,Chital Shrikhand Mango 100 Gm,,22,,,,Bakery,Other Bakery Products,,Chital Shrikhand Mango 100 Gm,,,bake90.jpg,,Chital,1
+Bak091,Soya Paneer Tofu 500 Gm,,120,,,,Bakery,Other Bakery Products,,Soya Paneer Tofu 500 Gm,,,bake91.jpg,,Soya,1
+Bak092,Amul Paneer Block 1 Kg,,300,,,,Bakery,Other Bakery Products,,Amul Paneer Block 1 Kg,,,bake92.jpg,,Amul,1
+Bak093,Amul Paneer Cube 1Kg,,300,,,,Bakery,Other Bakery Products,,Amul Paneer Cube 1Kg,,,bake93.jpg,,Amul,1
+Bak094,Amul Paneer Cube 200gm,,62,,,,Bakery,Other Bakery Products,,Amul Paneer Cube 200gm,,,bake94.jpg,,Amul,1
+Bak095,Nestle Everyday Dairy Whitener 200gm,,95,,,,Bakery,Other Bakery Products,,Nestle Everyday Dairy Whitener 200gm,,,bake95.jpg,,Nestle,1
+Bak096,Nestle Everyday Dairy Whitener 1kg,,425,,,,Bakery,Other Bakery Products,,Nestle Everyday Dairy Whitener 1kg,,,bake96.jpg,,Nestle,1
+Bak097,Nestle Everyday Dairy Whitener 400gm,,174,,,,Bakery,Other Bakery Products,,Nestle Everyday Dairy Whitener 400gm,,,bake97.jpg,,Nestle,1
+Bak098,Nestle Milkmaid 400 gm,,110,,,,Bakery,Other Bakery Products,,Nestle Milkmaid 400 gm,,,bake98.jpg,,Nestle,1
+Bak099,Nestle Milkmaid 5kg,,1020,,,,Bakery,Other Bakery Products,,Nestle Milkmaid 5kg,,,bake99.jpg,,Nestle,1

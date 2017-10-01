@@ -1,0 +1,24 @@
+.posts_list > ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  > li {
+    list-style: none;
+    padding: 0 0 40px;
+    margin: 0 0 49px 0;
+    border-bottom: 1px solid #dddddd;
+    &.sticky{
+      background: #f2f2f2;
+      padding: 40px;
+    }
+    &:last-child{
+      padding-bottom: 50px;
+      margin-bottom: 29px;
+    }
+    h4{
+      padding-top: 0;
+      font-weight: 500;
+      font-size: 22px;
+    }
+  }
+}

@@ -1,0 +1,129 @@
+#bbpress-forums {
+
+  li {
+    padding: 0;
+    &:before {
+      content: none;
+    }
+  }
+
+  fieldset.bbp-form {
+    margin-bottom: 30px;
+    label {
+      margin-bottom: 10px;
+      line-height: normal;
+    }
+    legend {
+      margin-bottom: 0;
+    }
+  }
+
+  #subscription-toggle {
+    float: right;
+    line-height: 28px;
+  }
+
+  .bbp-replies {
+    #subscription-toggle {
+      line-height: normal;
+    }
+  }
+
+  #bbp-user-wrapper h2.entry-title {
+    margin-bottom: 23px;
+    padding-bottom: 0;
+    line-height: normal;
+
+    &:after {
+      margin-top: 10px;
+    }
+  }
+
+  #bbp-search-form #bbp_search,
+  fieldset.bbp-form textarea,
+  fieldset.bbp-form input[type="text"],
+  #bbp-your-profile fieldset input[type="text"],
+  #bbp-your-profile fieldset input[type="password"],
+  #bbp-your-profile fieldset textarea {
+    font-size: 14px;
+    line-height: 18px;
+    color: #222222;
+    background: #cacaca;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    padding: 16px 30px 15px;
+    @include border-radius(0);
+    @include transition();
+    box-sizing: border-box !important;
+    width: 100%;
+    display: block;
+    &:active, &:focus {
+      background: #fff;
+      @include border-radius(2px);
+      @include box-shadow(0, 0, 0, 2px, $stm_third_color);
+    }
+  }
+
+  fieldset.bbp-form input[type="text"] {
+    height: 49px;
+  }
+
+  #bbp-your-profile fieldset {
+    input,
+    input[type="text"],
+    textarea {
+      width: 60%;
+      display: inline-block;
+
+      &:focus {
+        border: none;
+        outline: none;
+      }
+    }
+    .select2-container {
+      width: 60% !important;
+    }
+  }
+
+  #bbp-search-form {
+    margin-bottom: 10px;
+    #bbp_search {
+      display: inline-block;
+      width: auto;
+      padding: 10px 15px;
+      background: transparent;
+      vertical-align: top;
+      border: 1px solid #ccc;
+
+      &:active,
+      &:focus {
+        border-radius: 0;
+        box-shadow: none;
+        border-color: $stm_base_color;
+      }
+    }
+
+    .button {
+      padding: 5.5px 21px;
+    }
+  }
+
+  div.bbp-the-content-wrapper div.quicktags-toolbar {
+    margin-bottom: 5px;
+  }
+
+  div.bbp-forum-header,
+  div.bbp-topic-header,
+  div.bbp-reply-header,
+  li.bbp-body div.hentry {
+    padding: 8px;
+  }
+
+  p.bbp-topic-meta img.avatar,
+  div.bbp-template-notice img.avatar {
+    margin-top: -2px;
+    margin-bottom: 0;
+  }
+
+}

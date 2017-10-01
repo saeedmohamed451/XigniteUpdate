@@ -1,0 +1,361 @@
+product_code,Product Name,product_description,MRP,our_price,a. Whole Sale Price,shipping _charge,product_category,product_subcategory,product_subtopic,products_pagetitle,products_metadescription,products_keywords,image_url,Sub_Description ,Brand,status
+FF001,Amul Mithai Mate Tin 400 g,,85,,,,Fresh & Frozen,Dairy,Condensed,Amul Mithai Mate Tin 400 g,,,f1.jpg,,Amul,1
+FF002,Nestle Milkmaid Tin 400 g,,105,,,,Fresh & Frozen,Dairy,Condensed,Nestle Milkmaid Tin 400 g,,,f2.jpg,,Nestle,1
+FF003,Britannia Cheese Block 400gm,,235,,,,Fresh & Frozen,Dairy,Cheese,Britannia Cheese Block 400gm,,,f3.jpg,,Britannia,1
+FF004,Britannia Cheese Block 1kg,,465,,,,Fresh & Frozen,Dairy,Cheese,Britannia Cheese Block 1kg,,,f4.jpg,,Britannia,1
+FF005,Amul Cheese Pizza Mozzarella 1 Kg,,335,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Pizza Mozzarella 1 Kg,,,f5.jpg,,Amul,1
+FF006,Amul Cheese Pizza Mozzarella 200 g,,86,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Pizza Mozzarella 200 g,,,f6.jpg,,Amul,1
+FF007,Britannia Cheese Spread Mexican Mirchi 180gm,,82,,,,Fresh & Frozen,Dairy,Cheese,Britannia Cheese Spread Mexican Mirchi 180gm,,,f7.jpg,,Britannia,1
+FF008,Amul Processed Cheese Block 1 Kg,,357,,,,Fresh & Frozen,Dairy,Cheese,Amul Processed Cheese Block 1 Kg,,,f8.jpg,,Amul,1
+FF009,Amul Processed Cheese Chiplets 200 g,,101,,,,Fresh & Frozen,Dairy,Cheese,Amul Processed Cheese Chiplets 200 g,,,f9.jpg,,Amul,1
+FF010,Amul Cheese Spread Punchy Pepper 200gm,,75,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Spread Punchy Pepper 200gm,,,f10.jpg,,Amul,1
+FF011,Amul Processed Cheese Slices 750 g,,325,,,,Fresh & Frozen,Dairy,Cheese,Amul Processed Cheese Slices 750 g,,,f11.jpg,,Amul,1
+FF012,Amul Processed Cheese Slices 200 g,,112,,,,Fresh & Frozen,Dairy,Cheese,Amul Processed Cheese Slices 200 g,,,f12.jpg,,Amul,1
+FF013,Amul Cutting Cheese Gouda 250gm,,190,,,,Fresh & Frozen,Dairy,Cheese,Amul Cutting Cheese Gouda 250gm,,,f13.jpg,,Amul,1
+FF014,Amul Processed Cheese Eoe Tin 400 g,,185,,,,Fresh & Frozen,Dairy,Cheese,Amul Processed Cheese Eoe Tin 400 g,,,f14.jpg,,Amul,1
+FF015,Britannia Processed Cheese Cubes 200 g,,118,,,,Fresh & Frozen,Dairy,Cheese,Britannia Processed Cheese Cubes 200 g,,,f15.jpg,,Britannia,1
+FF016,Amul Cheese Slice 100gm,,65,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Slice 100gm,,,f16.jpg,,Amul,1
+FF017,Go Mozarella Cheese 200 g,,90,,,,Fresh & Frozen,Dairy,Cheese,Go Mozarella Cheese 200 g,,,f17.jpg,,GO,1
+FF018,Britannia Processed Cheesy Block 1 Kg,,395,,,,Fresh & Frozen,Dairy,Cheese,Britannia Processed Cheesy Block 1 Kg,,,f18.jpg,,Britannia,1
+FF019,Mother Dairy Cheese Cube 180gm ,,110,,,,Fresh & Frozen,Dairy,Cheese,Mother Dairy Cheese Cube 180gm ,,,f19.jpg,,Mother Dairy,1
+FF020,Go Cheese Mozzarella Shreded 2 Kg,,860,,,,Fresh & Frozen,Dairy,Cheese,Go Cheese Mozzarella Shreded 2 Kg,,,f20.jpg,,GO,1
+FF021,Go Pizza Cheese Block 200 g,,99,,,,Fresh & Frozen,Dairy,Cheese,Go Pizza Cheese Block 200 g,,,f21.jpg,,GO,1
+FF022,Go Processed Cheese Slices 750 g,,350,,,,Fresh & Frozen,Dairy,Cheese,Go Processed Cheese Slices 750 g,,,f22.jpg,,GO,1
+FF023,Go Pizza Cheese Block 1 Kg,,370,,,,Fresh & Frozen,Dairy,Cheese,Go Pizza Cheese Block 1 Kg,,,f23.jpg,,GO,1
+FF024,Puck Cream Cheese Spread 500gm ,,650,,,,Fresh & Frozen,Dairy,Cheese,Puck Cream Cheese Spread 500gm ,,,f24.jpg,,Puck,1
+FF025,Go Processed Cheese Slices Block 1kg,,355,,,,Fresh & Frozen,Dairy,Cheese,Go Processed Cheese Slices Block 1kg,,,f25.jpg,,GO,1
+FF026,Britannia Cheese Cubes 200gm,,118,,,,Fresh & Frozen,Dairy,Cheese,Britannia Cheese Cubes 200gm,,,f26.jpg,,Britannia,1
+FF027,Go Processed Cheese Slices Block 400gm ,,185,,,,Fresh & Frozen,Dairy,Cheese,Go Processed Cheese Slices Block 400gm ,,,f27.jpg,,GO,1
+FF028,Go Cheese Mozzarella Block 1 Kg,,420,,,,Fresh & Frozen,Dairy,Cheese,Go Cheese Mozzarella Block 1 Kg,,,f28.jpg,,GO,1
+FF029,Britannia Cheese Spread Tub Pepper 180gm,,82,,,,Fresh & Frozen,Dairy,Cheese,Britannia Cheese Spread Tub Pepper 180gm,,,f29.jpg,,Britannia,1
+FF030,Go Mozzarella Block 1kg,,420,,,,Fresh & Frozen,Dairy,Cheese,Go Mozzarella Block 1kg,,,f30.jpg,,GO,1
+FF031,Go Ceese Wedges Plain 140gm,,90,,,,Fresh & Frozen,Dairy,Cheese,Go Ceese Wedges Plain 140gm,,,f31.jpg,,GO,1
+FF032,Britannia Pizza Cheese Block 400 g,,230,,,,Fresh & Frozen,Dairy,Cheese,Britannia Pizza Cheese Block 400 g,,,f32.jpg,,Britannia,1
+FF033,Amul Cheese Spread Spicy Garlic 200gm,,75,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Spread Spicy Garlic 200gm,,,f33.jpg,,Amul,1
+FF034,Britannia Pizza Cheese Block 200 g,,120,,,,Fresh & Frozen,Dairy,Cheese,Britannia Pizza Cheese Block 200 g,,,f34.jpg,,Britannia,1
+FF035,Britannia Processed Cheese Block 1 Kg,,465,,,,Fresh & Frozen,Dairy,Cheese,Britannia Processed Cheese Block 1 Kg,,,f35.jpg,,Britannia,1
+FF036,Britannia Processed Cheese Slices 476 G,,314,,,,Fresh & Frozen,Dairy,Cheese,Britannia Processed Cheese Slices 476 G,,,f36.jpg,,Britannia,1
+FF037,Britannia Processed Cheese Slices 200 g,,138,,,,Fresh & Frozen,Dairy,Cheese,Britannia Processed Cheese Slices 200 g,,,f37.jpg,,Britannia,1
+FF038,GO Flour Pepper Cheese Spread Tub 200GM,,79,,,,Fresh & Frozen,Dairy,Cheese,GO Flour Pepper Cheese Spread Tub 200GM,,,f38.jpg,,GO,1
+FF039,Go Cheese Slice 200gm,,120,,,,Fresh & Frozen,Dairy,Cheese,Go Cheese Slice 200gm,,,f39.jpg,,GO,1
+FF040,Go Cheese Slice 40gm,,25,,,,Fresh & Frozen,Dairy,Cheese,Go Cheese Slice 40gm,,,f40.jpg,,GO,1
+FF041,Go Cheese Slice 100gm,,59,,,,Fresh & Frozen,Dairy,Cheese,Go Cheese Slice 100gm,,,f41.jpg,,GO,1
+FF042,Kraft Parmesan Grated Cheese 198 gm ,,780,,,,Fresh & Frozen,Dairy,Cheese,Kraft Parmesan Grated Cheese 198 gm ,,,f42.jpg,,Kraft,1
+FF043,Britannia Processed Cheese Block 400 g,,235,,,,Fresh & Frozen,Dairy,Cheese,Britannia Processed Cheese Block 400 g,,,f43.jpg,,Britannia,1
+FF044,Go Processed Cheese 400gm,,195,,,,Fresh & Frozen,Dairy,Cheese,Go Processed Cheese 400gm,,,f44.jpg,,GO,1
+FF045,"Amul Cheese Spread Plain, 400 g",,140,,,,Fresh & Frozen,Dairy,Cheese,"Amul Cheese Spread Plain, 400 g",,,f45.jpg,,Amul,1
+FF046,Amul Cheese Spread Oregano Pickle 200gm,,75,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Spread Oregano Pickle 200gm,,,f46.jpg,,Amul,1
+FF047,Amul Cheese Spread Oregano Pickle 24X200gm,,1800,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Spread Oregano Pickle 24X200gm,,,f47.jpg,,Amul,1
+FF048,"Britannia Cheese Spread Plain , 180 g",,81,,,,Fresh & Frozen,Dairy,Cheese,"Britannia Cheese Spread Plain , 180 g",,,f48.jpg,,Britannia,1
+FF049,Go Cheddar Cheese Diced 2 Kg,,950,,,,Fresh & Frozen,Dairy,Cheese,Go Cheddar Cheese Diced 2 Kg,,,f49.jpg,,Britannia,1
+FF050,Britannia Cheese Slice 100gm,,70,,,,Fresh & Frozen,Dairy,Cheese,Britannia Cheese Slice 100gm,,,f50.jpg,,Britannia,1
+FF051,Britannia Cheese Slice 200gm,,138,,,,Fresh & Frozen,Dairy,Cheese,Britannia Cheese Slice 200gm,,,f51.jpg,,Britannia,1
+FF052,Britannia Cheese Slice 480gm,,320,,,,Fresh & Frozen,Dairy,Cheese,Britannia Cheese Slice 480gm,,,f52.jpg,,Britannia,1
+FF053,Go Cheese Blend Diced 2 Kg,,830,,,,Fresh & Frozen,Dairy,Cheese,Go Cheese Blend Diced 2 Kg,,,f53.jpg,,GO,1
+FF054,Amul Processd Cheese 500 g Chiplet,,225,,,,Fresh & Frozen,Dairy,Cheese,Amul Processd Cheese 500 g Chiplet,,,f54.jpg,,Amul,1
+FF055,Go Cheese Slice 900 g,,380,,,,Fresh & Frozen,Dairy,Cheese,Go Cheese Slice 900 g,,,f55.jpg,,GO,1
+FF056,Amul Cheese Spread Garlic 200 g,,75,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Spread Garlic 200 g,,,f56.jpg,,Amul,1
+FF057,Amul Cheese Cubes 200gm,,101,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Cubes 200gm,,,f57.jpg,,Amul,1
+FF058,Amul Cheese Cubes 1kg,,442,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Cubes 1kg,,,f58.jpg,,Amul,1
+FF059,Amul Processed Cheese Block 200gm,,96,,,,Fresh & Frozen,Dairy,Cheese,Amul Processed Cheese Block 200gm,,,f59.jpg,,Amul,1
+FF060,Amul Cheese Spread Plain 200gm,,75,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Spread Plain 200gm,,,f60.jpg,,Amul,1
+FF061,Amul Cheese Spread Jeera 200gm,,75,,,,Fresh & Frozen,Dairy,Cheese,Amul Cheese Spread Jeera 200gm,,,f61.jpg,,Amul,1
+FF062,Gowardhan Pizza Cheese 200gm,,99,,,,Fresh & Frozen,Dairy,Cheese,Gowardhan Pizza Cheese 200gm,,,f62.jpg,,Gowardhan,1
+FF063,Go Flavored Cheese Wedges 140gm,,95,,,,Fresh & Frozen,Dairy,Cheese,Go Flavored Cheese Wedges 140gm,,,f63.jpg,,Go,1
+FF064,Go Cheese Spread Bottle 200gm,,99,,,,Fresh & Frozen,Dairy,Cheese,Go Cheese Spread Bottle 200gm,,,f64.jpg,,Go,1
+FF065,Britannia Cheese Spread Tub Plain 180gm,,81,,,,Fresh & Frozen,Dairy,Cheese,Britannia Cheese Spread Tub Plain 180gm,,,f65.jpg,,Britannia,1
+FF066,Britannia Cheese Tin 400gm,,225,,,,Fresh & Frozen,Dairy,Cheese,Britannia Cheese Tin 400gm,,,f66.jpg,,Britannia,1
+FF067,Kraft Cream Cheese Spread 250gm,,495,,,,Fresh & Frozen,Dairy,Cheese,Kraft Cream Cheese Spread 250gm,,,f67.jpg,,Kraft,1
+FF068,Britannia Pizza Cheese 200gm,,120,,,,Fresh & Frozen,Dairy,Cheese,Britannia Pizza Cheese 200gm,,,f68.jpg,,Britannia,1
+FF069,Britannia Pizza Cheese 1kg,,529,,,,Fresh & Frozen,Dairy,Cheese,Britannia Pizza Cheese 1kg,,,f69.jpg,,Britannia,1
+FF070,Amul Malai Paneer 200 g,,62,,,,Fresh & Frozen,Dairy,Paneer,Amul Malai Paneer 200 g,,,f70.jpg,,Amul,1
+FF071,Amul Malai Paneer Diced 1 Kg,,300,,,,Fresh & Frozen,Dairy,Paneer,Amul Malai Paneer Diced 1 Kg,,,f71.jpg,,Amul,1
+FF072,Amul Malai Paneer 1 Kg,,300,,,,Fresh & Frozen,Dairy,Paneer,Amul Malai Paneer 1 Kg,,,f72.jpg,,Amul,1
+FF073,Purediet Soya Paneer Plain 200 g,,47,,,,Fresh & Frozen,Dairy,Paneer,Purediet Soya Paneer Plain 200 g,,,f73.jpg,,Purediet,1
+FF074,Jersey Paneer 500 gm Pouch,,180,,,,Fresh & Frozen,Dairy,Paneer,Jersey Paneer 500 gm Pouch,,,f74.jpg,,Jersey,1
+FF075,Milky Mist Paneer 200gm Pouch,,75,,,,Fresh & Frozen,Dairy,Paneer,Milky Mist Paneer 200gm Pouch,,,f75.jpg,,Milky,1
+FF076,Bliss  Tofu Soya Paneer 200 Gm Pouch,,60,,,,Fresh & Frozen,Dairy,Paneer,Bliss  Tofu Soya Paneer 200 Gm Pouch,,,f76.jpg,,Bliss,1
+FF077,Western Farm Fresh Frozen Paneer 200 g,,79,,,,Fresh & Frozen,Dairy,Paneer,Western Farm Fresh Frozen Paneer 200 g,,,f77.jpg,,Western,1
+FF078,Western Farm Fresh Frozen Paneer 1 Kg,,380,,,,Fresh & Frozen,Dairy,Paneer,Western Farm Fresh Frozen Paneer 1 Kg,,,f78.jpg,,Western,1
+FF079,Zen Soya Paneer Tofu Plain 200 g,,60,,,,Fresh & Frozen,Dairy,Paneer,Zen Soya Paneer Tofu Plain 200 g,,,f79.jpg,,Zen,1
+FF080,Heritage Fresh Paneer 200 g,,70,,,,Fresh & Frozen,Dairy,Paneer,Heritage Fresh Paneer 200 g,,,f80.jpg,,Heritage,1
+FF081,Jersey Fresh Paneer 1 Kg,,340,,,,Fresh & Frozen,Dairy,Paneer,Jersey Fresh Paneer 1 Kg,,,f81.jpg,,Jersey,1
+FF082,Jersey Fresh Paneer 200 g,,80,,,,Fresh & Frozen,Dairy,Paneer,Jersey Fresh Paneer 200 g,,,f82.jpg,,Jersey,1
+FF083,Tirumala Fresh Paneer 1 Kg,,345,,,,Fresh & Frozen,Dairy,Paneer,Tirumala Fresh Paneer 1 Kg,,,f83.jpg,,Tirumala,1
+FF084,Heritage Fresh Paneer 500 g,,170,,,,Fresh & Frozen,Dairy,Paneer,Heritage Fresh Paneer 500 g,,,f84.jpg,,Heritage,1
+FF085,Heritage Fresh Paneer 1 Kg,,330,,,,Fresh & Frozen,Dairy,Paneer,Heritage Fresh Paneer 1 Kg,,,f85.jpg,,Heritage,1
+FF086,Heritage Paneer 200gm  Pouch,,70,,,,Fresh & Frozen,Dairy,Paneer,Heritage Paneer 200gm  Pouch,,,f86.jpg,,Heritage,1
+FF087,Milky Mist Farm Fresh Curd 200gm,,27,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Milky Mist Farm Fresh Curd 200gm,,,f87.jpg,,Milky,1
+FF088,Amul Shrikhand Badam Pista Cup 500 g,,98,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Amul Shrikhand Badam Pista Cup 500 g,,,f88.jpg,,Amul,1
+FF089,Nestle Real Mango Yoghurt 100gm Cup,,30,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Nestle Real Mango Yoghurt 100gm Cup,,,f89.jpg,,Nestle,1
+FF090,Danone Yoghurt Vanilla Flavoured 100gm Cup,,25,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Danone Yoghurt Vanilla Flavoured 100gm Cup,,,f90.jpg,,Danone,1
+FF091,Mother Dairy Daahi 200gm ,,25,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Mother Dairy Daahi 200gm ,,,f91.jpg,,Mother Dairy,1
+FF092,Mother Dairy Daahi 400gm ,,50,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Mother Dairy Daahi 400gm ,,,f92.jpg,,Mother Dairy,1
+FF093,Mother Dairy Daahi 1kg,,190,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Mother Dairy Daahi 1kg,,,f93.jpg,,Mother Dairy,1
+FF094,Danone Yoghurt Mango 80Gm Cup,,25,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Danone Yoghurt Mango 80Gm Cup,,,f94.jpg,,Danone,1
+FF095,Nestle Slim Dahi 400Gm Cup,,65,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Nestle Slim Dahi 400Gm Cup,,,f95.jpg,,Nestle,1
+FF096,Amul Shrikhand Elachi Cup 500 g,,85,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Amul Shrikhand Elachi Cup 500 g,,,f96.jpg,,Amul,1
+FF097,Danone Dahi 400gm Cup,,55,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Danone Dahi 400gm Cup,,,f97.jpg,,Danone,1
+FF098,Milky Mist New Curd 500gm Pouch,,30,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Milky Mist New Curd 500gm Pouch,,,f98.jpg,,Milky,1
+FF099,Amul Shrikhand Kesar Cup 500 g,,98,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Amul Shrikhand Kesar Cup 500 g,,,f99.jpg,,Amul,1
+FF100,Jersey Curd Tub 500 g,,52,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Jersey Curd Tub 500 g,,,f100.jpg,,Jersey,1
+FF101,Mother Dairy Misthi Curd Cup 400 g,,55,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Mother Dairy Misthi Curd Cup 400 g,,,f101.jpg,,Mother Dairy,1
+FF102,Mother Dairy Misthi Curd Cup 90 g,,15,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Mother Dairy Misthi Curd Cup 90 g,,,f102.jpg,,Mother Dairy,1
+FF103,Britannia Daily Fresh Dahi 400gm Cup,,55,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Britannia Daily Fresh Dahi 400gm Cup,,,f103.jpg,,Britannia,1
+FF104,Nestle A Plus Dahi 400 g,,55,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Nestle A Plus Dahi 400 g,,,f104.jpg,,Nestle,1
+FF105,Nestle Yoghurt Mango 100 g,,30,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Nestle Yoghurt Mango 100 g,,,f105.jpg,,Nestle,1
+FF106,Milky Mist Curd Dahi 400gm Cup,,55,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Milky Mist Curd Dahi 400gm Cup,,,f106.jpg,,Milky,1
+FF107,Nestle Yoghurt Strawberry 100 g,,30,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Nestle Yoghurt Strawberry 100 g,,,f107.jpg,,Nestle,1
+FF108,Nestle A+Dahi 400gm Cup,,55,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Nestle A+Dahi 400gm Cup,,,f108.jpg,,Nestle,1
+FF109,Danone Dahi Low at 400gm Cup,,60,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Danone Dahi Low at 400gm Cup,,,f109.jpg,,Danone,1
+FF110,Danone Misti Doi 275ml Cup,,50,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Danone Misti Doi 275ml Cup,,,f110.jpg,,Danone,1
+FF111,Amul Srikhand Mango 500 gm,,85,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Amul Srikhand Mango 500 gm,,,f111.jpg,,Amul,1
+FF112,Mother Dairy Blueberry Yoghurt Cup100 g,,20,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Mother Dairy Blueberry Yoghurt Cup100 g,,,f112.jpg,,Mother Dairy,1
+FF113,Mother Dairy Yoghurt Mango Cup100 g,,20,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Mother Dairy Yoghurt Mango Cup100 g,,,f113.jpg,,Mother Dairy,1
+FF114,Tirumala Curd Plain Cup 400 g,,40,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Tirumala Curd Plain Cup 400 g,,,f114.jpg,,Tirumala,1
+FF115,Heritage Total Curd 200gm Cup ,,25,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Heritage Total Curd 200gm Cup ,,,f115.jpg,,Heritage,1
+FF116,Yakult Probiotic Health Drink 325ml{65ml X 5} Pouch,,60,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Yakult Probiotic Health Drink 325ml 65ml X 5 Pouch,,,f116.jpg,,Yakult,1
+FF117,Danone Yoghurt Strawbery 100gm Cup,,25,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Danone Yoghurt Strawbery 100gm Cup,,,f117.jpg,,Danone,1
+FF118,Nestle Real Strawberry Yoghurt 100gm Cup,,30,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Nestle Real Strawberry Yoghurt 100gm Cup,,,f118.jpg,,Nestle,1
+FF119,Nestle Probiotic Dahi ActiPlus 400gm Cup,,65,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Nestle Probiotic Dahi ActiPlus 400gm Cup,,,f119.jpg,,Nestle,1
+FF120,Amul Masti Dahi 1kg,,55,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Amul Masti Dahi 1kg,,,f120.jpg,,Amul,1
+FF121,Mother Dairy Raspberry Yoghurt 100gm,,20,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Mother Dairy Raspberry Yoghurt 100gm,,,f121.jpg,,Mother Dairy,1
+FF122,Mother Dairy Probiotic Curd 400gm,,50,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Mother Dairy Probiotic Curd 400gm,,,f122.jpg,,Mother Dairy,1
+FF123,Danone Low Fat Plain Dahi 400gm,,60,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Danone Low Fat Plain Dahi 400gm,,,f123.jpg,,Danone,1
+FF124,Danone Yoghurt Mango 100gm,,25,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Danone Yoghurt Mango 100gm,,,f124.jpg,,Danone,1
+FF125,Chitale Set Curd 400gm,,45,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Chitale Set Curd 400gm,,,f125.jpg,,Chitale,1
+FF126,Chitale Set Curd 200gm,,25,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Chitale Set Curd 200gm,,,f126.jpg,,Chitale,1
+FF127,Amul Masti Dahi Cup 400gm,,40,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Amul Masti Dahi Cup 400gm,,,f127.jpg,,Amul,1
+FF128,Amul Masti Dahi Cup 2kg,,160,,,,Fresh & Frozen,Dairy,Curd & Yogurts,Amul Masti Dahi Cup 2kg,,,f128.jpg,,Amul,1
+FF129,Nandini Dairy Whitener Pack Of 10 X 40 g,,120,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Nandini Dairy Whitener Pack Of 10 X 40 g,,,f129.jpg,,Nandini,1
+FF130,Nandini Dairy Whitener Pack Of 10 X 20 g,,60,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Nandini Dairy Whitener Pack Of 10 X 20 g,,,f130.jpg,,Nandini,1
+FF131,Amulya Dairy Whitner 200 g Pouch,,73,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Amulya Dairy Whitner 200 g Pouch,,,f131.jpg,,Amulya,1
+FF132,Amulya Dairy Whitener Pouch 1 Kg,,368,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Amulya Dairy Whitener Pouch 1 Kg,,,f132.jpg,,Amulya,1
+FF133,Amulya Dairy Whitener Sachet 13.5 g,,5,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Amulya Dairy Whitener Sachet 13.5 g,,,f133.jpg,,Amulya,1
+FF134,Amulya Dairy Whitener Refill 500 g,,179,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Amulya Dairy Whitener Refill 500 g,,,f134.jpg,,Amulya,1
+FF135,"Amulya Dairy Whitener 27 g, Sachet",,10,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,"Amulya Dairy Whitener 27 g, Sachet",,,f135.jpg,,Amulya,1
+FF136,Nestle Dairy Whitener Pouch 400 g,,174,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Nestle Dairy Whitener Pouch 400 g,,,f136.jpg,,Nestle,1
+FF137,Nestle Dairy Whitener Pouch 200 g,,88,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Nestle Dairy Whitener Pouch 200 g,,,f137.jpg,,Nestle,1
+FF138,Nestle Dairy Whitener Pouch 1 Kg,,425,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Nestle Dairy Whitener Pouch 1 Kg,,,f138.jpg,,Nestle,1
+FF139,Nestle Dairy Whitener Sachet 20 g,,10,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Nestle Dairy Whitener Sachet 20 g,,,f139.jpg,,Nestle,1
+FF140,Nestle Dairy Creamer Sachet pack Of 120 X 3 G,,220,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Nestle Dairy Creamer Sachet pack Of 120 X 3 G,,,f140.jpg,,Nestle,1
+FF141,Nandini Dairy Whitener 10 Kg Jar,,2950,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Nandini Dairy Whitener 10 Kg Jar,,,f141.jpg,,Nandini,1
+FF142,Nandini SMP 1 Kg,,295,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Nandini SMP 1 Kg,,,f142.jpg,,Nandini,1
+FF143,Nandini Dairy Whitener 1 Kg,,295,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Nandini Dairy Whitener 1 Kg,,,f143.jpg,,Nandini,1
+FF144,Amul Sagar Skimmed Milk Powder Pouch 500 g,,195,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Amul Sagar Skimmed Milk Powder Pouch 500 g,,,f144.jpg,,Amul,1
+FF145,Amul Fresh Cream Tetra Pack 200 ml,,45,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Amul Fresh Cream Tetra Pack 200 ml,,,f145.jpg,,Amul,1
+FF146,Amul Fresh Cream Tetra Pack 1 L,,185,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Amul Fresh Cream Tetra Pack 1 L,,,f146.jpg,,Amul,1
+FF147,Tropolite Flexi Cream Tetrapak 1Kg,,175,,,,Fresh & Frozen,Dairy,Milk Cream & Powder,Tropolite Flexi Cream Tetrapak 1Kg,,,f147.jpg,,Tropolite,1
+FF148,Amul Tazza Toned Milk Tetra Pack 1 L,,56,,,,Fresh & Frozen,Dairy,Milk,Amul Tazza Toned Milk Tetra Pack 1 L,,,f148.jpg,,Amul,1
+FF149,Vijaya Suprabhatam 200 Ml Fino,,10,,,,Fresh & Frozen,Dairy,Milk,Vijaya Suprabhatam 200 Ml Fino,,,f149.jpg,,Vijaya,1
+FF150,Vijaya Style Milk Fino 500 Ml,,21,,,,Fresh & Frozen,Dairy,Milk,Vijaya Style Milk Fino 500 Ml,,,f150.jpg,,Vijaya,1
+FF151,Vijaya Super Milk Fino 500 Ml,,22,,,,Fresh & Frozen,Dairy,Milk,Vijaya Super Milk Fino 500 Ml,,,f151.jpg,,Vijaya,1
+FF152,Vijaya Extra Thick Milk Fino 500 Ml,,25,,,,Fresh & Frozen,Dairy,Milk,Vijaya Extra Thick Milk Fino 500 Ml,,,f152.jpg,,Vijaya,1
+FF153,Nestle Slim Skimmed Milk 1 L Tetra,,80,,,,Fresh & Frozen,Dairy,Milk,Nestle Slim Skimmed Milk 1 L Tetra,,,f153.jpg,,Nestle,1
+FF154,Tirumala Toned Milk Fino 500 Ml,,22,,,,Fresh & Frozen,Dairy,Milk,Tirumala Toned Milk Fino 500 Ml,,,f154.jpg,,Tirumala,1
+FF155,Nestle Everyday Slim Skim Milk Tetra Pack 1 L,,80,,,,Fresh & Frozen,Dairy,Milk,Nestle Everyday Slim Skim Milk Tetra Pack 1 L,,,f155.jpg,,Nestle,1
+FF156,Nandini Goodlife Slim Milk 500 ml Fino Pack,,20,,,,Fresh & Frozen,Dairy,Milk,Nandini Goodlife Slim Milk 500 ml Fino Pack,,,f156.jpg,,Nandini,1
+FF157,Nandini Goodlife Milk 1 L Tetra Pack,,45,,,,Fresh & Frozen,Dairy,Milk,Nandini Goodlife Milk 1 L Tetra Pack,,,f157.jpg,,Nandini,1
+FF158,Nandini Good Life Milk 200 ml Fino Pack,,10,,,,Fresh & Frozen,Dairy,Milk,Nandini Good Life Milk 200 ml Fino Pack,,,f158.jpg,,Nandini,1
+FF159,Nandini Good Life Milk Pack of 60 X100 ml,,360,,,,Fresh & Frozen,Dairy,Milk,Nandini Good Life Milk Pack of 60 X100 ml,,,f159.jpg,,Nandini,1
+FF160,Nandini Milk 500 ml,,22,,,,Fresh & Frozen,Dairy,Milk,Nandini Milk 500 ml,,,f160.jpg,,Nandini,1
+FF161,"Visakha Shakti Milk 500 ml, Fino Pack",,24,,,,Fresh & Frozen,Dairy,Milk,"Visakha Shakti Milk 500 ml, Fino Pack",,,f161.jpg,,Visakha,1
+FF162,"Visakha Shakti Milk 1 L, Brick",,50,,,,Fresh & Frozen,Dairy,Milk,"Visakha Shakti Milk 1 L, Brick",,,f162.jpg,,Visakha,1
+FF163,"Visakha Good Milk 500 ml, Fino Pack",,23,,,,Fresh & Frozen,Dairy,Milk,"Visakha Good Milk 500 ml, Fino Pack",,,f163.jpg,,Visakha,1
+FF164,"Visakha Good Milk 1 L, Brick",,46,,,,Fresh & Frozen,Dairy,Milk,"Visakha Good Milk 1 L, Brick",,,f164.jpg,,Visakha,1
+FF165,Nandini Goodlife Milk Case of 30 X 200 g,,300,,,,Fresh & Frozen,Dairy,Milk,Nandini Goodlife Milk Case of 30 X 200 g,,,f165.jpg,,Nandini,1
+FF166,Danone Milk Healthy Natural 1L Tetra,,75,,,,Fresh & Frozen,Dairy,Milk,Danone Milk Healthy Natural 1L Tetra,,,f166.jpg,,Danone,1
+FF167,Amul slim Trim Akimmed Milk 1 L Tetra Pack,,65,,,,Fresh & Frozen,Dairy,Milk,Amul slim Trim Akimmed Milk 1 L Tetra Pack,,,f167.jpg,,Amul,1
+FF168,Nestle A+Toned Milk 1 L Tetra,,75,,,,Fresh & Frozen,Dairy,Milk,Nestle A+Toned Milk 1 L Tetra,,,f168.jpg,,Nestle,1
+FF169,Heritage Toned Milk 500 ml,,20,,,,Fresh & Frozen,Dairy,Milk,Heritage Toned Milk 500 ml,,,f169.jpg,,Heritage,1
+FF170,Nandini Flavoured Milk Badam Bottle,,20,,,,Fresh & Frozen,Dairy,Plavored Drinks,Nandini Flavoured Milk Badam Bottle,,,f170.jpg,,Nandini,1
+FF171,Britannia Tiger Zor Choco Milk 150ml  Bottle,,25,,,,Fresh & Frozen,Dairy,Plavored Drinks,Britannia Tiger Zor Choco Milk 150ml  Bottle,,,f171.jpg,,Britannia,1
+FF172,Nandini Flavoured Milk Pista Bottle,,20,,,,Fresh & Frozen,Dairy,Plavored Drinks,Nandini Flavoured Milk Pista Bottle,,,f172.jpg,,Nandini,1
+FF173,Heritage Strawberry Flavourd  Milk 200ml Bottle,,23,,,,Fresh & Frozen,Dairy,Plavored Drinks,Heritage Strawberry Flavourd  Milk 200ml Bottle,,,f173.jpg,,Heritage,1
+FF174,"Amul Masti Butter Milk Tetra Pack, 200 ml",,12,,,,Fresh & Frozen,Dairy,Plavored Drinks,"Amul Masti Butter Milk Tetra Pack, 200 ml",,,f174.jpg,,Amul,1
+FF175,Soyfresh Soya Milk Strawberry 1L,,175,,,,Fresh & Frozen,Dairy,Plavored Drinks,Soyfresh Soya Milk Strawberry 1L,,,f175.jpg,,Soyafresh,1
+FF176,Soyfresh Soya Milk Strawberry 250ml,,60,,,,Fresh & Frozen,Dairy,Plavored Drinks,Soyfresh Soya Milk Strawberry 250ml,,,f176.jpg,,Soyafresh,1
+FF177,Amul Sweet Lassi Bottle 200 Ml,,15,,,,Fresh & Frozen,Dairy,Plavored Drinks,Amul Sweet Lassi Bottle 200 Ml,,,f177.jpg,,Amul,1
+FF178,Cavin Ms Vanilla Tetrapack 200 ml,,25,,,,Fresh & Frozen,Dairy,Plavored Drinks,Cavin Ms Vanilla Tetrapack 200 ml,,,f178.jpg,,Cavin,1
+FF179,Cavin Ms Butterscotch Tetrapack 200 ml,,25,,,,Fresh & Frozen,Dairy,Plavored Drinks,Cavin Ms Butterscotch Tetrapack 200 ml,,,f179.jpg,,Cavin,1
+FF180,Cavin Ms Starwberry Tetrapack 200 ml,,25,,,,Fresh & Frozen,Dairy,Plavored Drinks,Cavin Ms Starwberry Tetrapack 200 ml,,,f180.jpg,,Cavin,1
+FF181,"Godrej Sofit Soya Milk Kesar Pista, Tetrapak 200 ml",,25,,,,Fresh & Frozen,Dairy,Plavored Drinks,"Godrej Sofit Soya Milk Kesar Pista, Tetrapak 200 ml",,,f181.jpg,,Godrej,1
+FF182,Sayfresh Soya Milk Susu Kacang Soya 1 L Tetra,,175,,,,Fresh & Frozen,Dairy,Plavored Drinks,Sayfresh Soya Milk Susu Kacang Soya 1 L Tetra,,,f182.jpg,,Sayfresh,1
+FF183,Soyfresh Soya Milk Cappuccino 250ml Tetra,,60,,,,Fresh & Frozen,Dairy,Plavored Drinks,Soyfresh Soya Milk Cappuccino 250ml Tetra,,,f183.jpg,,Soyafresh,1
+FF184,Cavin Ms Chocolate Tetrapack 200 ml,,25,,,,Fresh & Frozen,Dairy,Plavored Drinks,Cavin Ms Chocolate Tetrapack 200 ml,,,f184.jpg,,Cavin,1
+FF185,Heritage Elaichi Flavourd Milk 200 ml Bottle,,23,,,,Fresh & Frozen,Dairy,Plavored Drinks,Heritage Elaichi Flavourd Milk 200 ml Bottle,,,f185.jpg,,Heritage,1
+FF186,Sofit Soya Milk Natural 1 L Tetra,,99,,,,Fresh & Frozen,Dairy,Plavored Drinks,Sofit Soya Milk Natural 1 L Tetra,,,f186.jpg,,Sofit,1
+FF187,Britannia Chaas Masala Bottle 150 Ml,,15,,,,Fresh & Frozen,Dairy,Plavored Drinks,Britannia Chaas Masala Bottle 150 Ml,,,f187.jpg,,Britannia,1
+FF188,Softic Milk Mango Juice 200ml Tetra,,25,,,,Fresh & Frozen,Dairy,Plavored Drinks,Softic Milk Mango Juice 200ml Tetra,,,f188.jpg,,Sofit,1
+FF189,Vijaya Flavoured Milk Badam Bottle 200 ml,,20,,,,Fresh & Frozen,Dairy,Plavored Drinks,Vijaya Flavoured Milk Badam Bottle 200 ml,,,f189.jpg,,Vijaya,1
+FF190,Tirumala Flavoured Milk Pista Bottle 200 Ml,,20,,,,Fresh & Frozen,Dairy,Plavored Drinks,Tirumala Flavoured Milk Pista Bottle 200 Ml,,,f190.jpg,,Tirumala,1
+FF191,Cavin Milkshake Strawberry 200ml Tetra,,25,,,,Fresh & Frozen,Dairy,Plavored Drinks,Cavin Milkshake Strawberry 200ml Tetra,,,f191.jpg,,Cavin,1
+FF192,Heritage Vanilla Flavoured Milk 200ml Bottle,,23,,,,Fresh & Frozen,Dairy,Plavored Drinks,Heritage Vanilla Flavoured Milk 200ml Bottle,,,f192.jpg,,Heritage,1
+FF193,Heritage Pista Flavourd Milk 200ml Bottle,,23,,,,Fresh & Frozen,Dairy,Plavored Drinks,Heritage Pista Flavourd Milk 200ml Bottle,,,f193.jpg,,Heritage,1
+FF194,Tirumala Flavoured Milk Strawberry Bottle 200 Ml,,20,,,,Fresh & Frozen,Dairy,Plavored Drinks,Tirumala Flavoured Milk Strawberry Bottle 200 Ml,,,f194.jpg,,Tirumala,1
+FF195,Amul Kool Milk Shaake Strwbery 180ml Can,,27,,,,Fresh & Frozen,Dairy,Plavored Drinks,Amul Kool Milk Shaake Strwbery 180ml Can,,,f195.jpg,,Amul,1
+FF196,Jersey Lassi Mango 200ml Jar,,20,,,,Fresh & Frozen,Dairy,Plavored Drinks,Jersey Lassi Mango 200ml Jar,,,f196.jpg,,Jersey,1
+FF197,Tirumala Flavoured Milk Badam Bottle 200 ml,,20,,,,Fresh & Frozen,Dairy,Plavored Drinks,Tirumala Flavoured Milk Badam Bottle 200 ml,,,f197.jpg,,Tirumala,1
+FF198,Godrej Sofit Soya Milk Chocolate Tetra Pak 1 Lt,,99,,,,Fresh & Frozen,Dairy,Plavored Drinks,Godrej Sofit Soya Milk Chocolate Tetra Pak 1 Lt,,,f198.jpg,,Godrej,1
+FF199,Danone Choco Smoothie 180ml Tetra Pack,,25,,,,Fresh & Frozen,Dairy,Plavored Drinks,Danone Choco Smoothie 180ml Tetra Pack,,,f199.jpg,,Danone,1
+FF200,Godrej Sofit Soya Milk Vanilla Tetra Pak 200 Ml,,25,,,,Fresh & Frozen,Dairy,Plavored Drinks,Godrej Sofit Soya Milk Vanilla Tetra Pak 200 Ml,,,f200.jpg,,Godrej,1
+FF201,Heritage Flavoured Milk Badam Bottle 200 ml,,23,,,,Fresh & Frozen,Dairy,Plavored Drinks,Heritage Flavoured Milk Badam Bottle 200 ml,,,f201.jpg,,Heritage,1
+FF202,"Britannia Tiger Zor Chocolate, Bottle 150 ml",,22,,,,Fresh & Frozen,Dairy,Plavored Drinks,"Britannia Tiger Zor Chocolate, Bottle 150 ml",,,f202.jpg,,Britannia,1
+FF203,"Britannia Tiger Zor Badam Badam, Bottle 150 ml",,22,,,,Fresh & Frozen,Dairy,Plavored Drinks,"Britannia Tiger Zor Badam Badam, Bottle 150 ml",,,f203.jpg,,Britannia,1
+FF204,Jersey Sweet Lassi 200 Ml,,20,,,,Fresh & Frozen,Dairy,Plavored Drinks,Jersey Sweet Lassi 200 Ml,,,f204.jpg,,Jersey,1
+FF205,Mother Dairy Flavoured Lassi Mango Bottle 200 Ml,,100,,,,Fresh & Frozen,Dairy,Plavored Drinks,Mother Dairy Flavoured Lassi Mango Bottle 200 Ml,,,f205.jpg,,Mother Dairy,1
+FF206,Mother Dairy Sweet Lassi Bottle 200 Ml,,100,,,,Fresh & Frozen,Dairy,Plavored Drinks,Mother Dairy Sweet Lassi Bottle 200 Ml,,,f206.jpg,,Mother Dairy,1
+FF207,Yakult Probiotic Drink Bottle Pack of 5 X 65 ml,,55,,,,Fresh & Frozen,Dairy,Plavored Drinks,Yakult Probiotic Drink Bottle Pack of 5 X 65 ml,,,f207.jpg,,Yakult,1
+FF208,Heritage Butter Milk Jeera 200 ml,,12,,,,Fresh & Frozen,Dairy,Plavored Drinks,Heritage Butter Milk Jeera 200 ml,,,f208.jpg,,Heritage,1
+FF209,Heritage Sweet Lassi 200 ml,,20,,,,Fresh & Frozen,Dairy,Plavored Drinks,Heritage Sweet Lassi 200 ml,,,f209.jpg,,Heritage,1
+FF210,Jersey Flavoured Milk Badam Bottle 200 ml,,20,,,,Fresh & Frozen,Dairy,Plavored Drinks,Jersey Flavoured Milk Badam Bottle 200 ml,,,f210.jpg,,Jersey,1
+FF211,Amul Lassi Rose 200 ml Tetra PK,,15,,,,Fresh & Frozen,Dairy,Plavored Drinks,Amul Lassi Rose 200 ml Tetra PK,,,f211.jpg,,Amul,1
+FF212,Amul Lassi Mango 1 L,,99,,,,Fresh & Frozen,Dairy,Plavored Drinks,Amul Lassi Mango 1 L,,,f212.jpg,,Amul,1
+FF213,Heritage Pineapple Flavoured Milk 200ml Bottle,,23,,,,Fresh & Frozen,Dairy,Plavored Drinks,Heritage Pineapple Flavoured Milk 200ml Bottle,,,f213.jpg,,Heritage,1
+FF214,Cavins Milkshake Kaju Butterscotch 200ml Carton,,25,,,,Fresh & Frozen,Dairy,Plavored Drinks,Cavins Milkshake Kaju Butterscotch 200ml Carton,,,f214.jpg,,Cavin,1
+FF215,Heritage Chocolate Flavourd Milk 200ml Bottle,,23,,,,Fresh & Frozen,Dairy,Plavored Drinks,Heritage Chocolate Flavourd Milk 200ml Bottle,,,f215.jpg,,Heritage,1
+FF216,Sofit Soya Milk Vanilla 1 L Tetra ,,99,,,,Fresh & Frozen,Dairy,Plavored Drinks,Sofit Soya Milk Vanilla 1 L Tetra ,,,f216.jpg,,Sofit,1
+FF217,Amul Lite Table Spread 200 g,,49,,,,Fresh & Frozen,Dairy,Margarin & Spread,Amul Lite Table Spread 200 g,,,f217.jpg,,Amul,1
+FF218,Amul Delicious Table Margarine 100 g,,15,,,,Fresh & Frozen,Dairy,Margarin & Spread,Amul Delicious Table Margarine 100 g,,,f218.jpg,,amul,1
+FF219,Milky Cheese Spread Jeera 200gm,,75,,,,Fresh & Frozen,Dairy,Margarin & Spread,Milky Cheese Spread Jeera 200gm,,,f219.jpg,,Milky,1
+FF220,Nutralite Margarine 500 g Tub,,145,,,,Fresh & Frozen,Dairy,Margarin & Spread,Nutralite Margarine 500 g Tub,,,f220.jpg,,Naturalite,1
+FF221,Nutralite Margarine Premium 500 g,,150,,,,Fresh & Frozen,Dairy,Margarin & Spread,Nutralite Margarine Premium 500 g,,,f221.jpg,,Naturalite,1
+FF222,Nutralite Margarine Premium 100 g,,30,,,,Fresh & Frozen,Dairy,Margarin & Spread,Nutralite Margarine Premium 100 g,,,f222.jpg,,Naturalite,1
+FF223,Nutralite Margarine Premium 200 g,,65,,,,Fresh & Frozen,Dairy,Margarin & Spread,Nutralite Margarine Premium 200 g,,,f223.jpg,,Naturalite,1
+FF224,Amul Delicious Margarine 500gm,,71,,,,Fresh & Frozen,Dairy,Margarin & Spread,Amul Delicious Margarine 500gm,,,f224.jpg,,Amul,1
+FF225,Amul Creami Cheese Spread 200gm,,75,,,,Fresh & Frozen,Dairy,Margarin & Spread,Amul Creami Cheese Spread 200gm,,,f225.jpg,,Amul,1
+FF226,Amul Cheese Spread Oregano Pickle 200gm,,75,,,,Fresh & Frozen,Dairy,Margarin & Spread,Amul Cheese Spread Oregano Pickle 200gm,,,f226.jpg,,Amul,1
+FF227,Amul Vanilla Royale 2 L,,220,,,,Fresh & Frozen,Ice Cream & Dessert,,Amul Vanilla Royale 2 L,,,f227.jpg,,Amul,1
+FF228,Amul Vanilla Magic 1 L,,140,,,,Fresh & Frozen,Ice Cream & Dessert,,Amul Vanilla Magic 1 L,,,f228.jpg,,Amul,1
+FF229,Baskin Robbins Banana Caramel Ice Cream 500ml,,190,,,,Fresh & Frozen,Ice Cream & Dessert,,Baskin Robbins Banana Caramel Ice Cream 500ml,,,f229.jpg,,Baskin,1
+FF230,Amul Chocolate 2 L,,240,,,,Fresh & Frozen,Ice Cream & Dessert,,Amul Chocolate 2 L,,,f230.jpg,,Amul,1
+FF231,Amul Choco Kesar 1 L,,170,,,,Fresh & Frozen,Ice Cream & Dessert,,Amul Choco Kesar 1 L,,,f231.jpg,,Amul,1
+FF232,Kwality Walls Carte Dor Divine Chocolate Ice Cream 750ml Tub,,210,,,,Fresh & Frozen,Ice Cream & Dessert,,Kwality Walls Carte Dor Divine Chocolate Ice Cream 750ml Tub,,,f232.jpg,,Kwality,1
+FF233,London Dairy Chocolate Brownie Delight 500ml Tub,,325,,,,Fresh & Frozen,Ice Cream & Dessert,,London Dairy Chocolate Brownie Delight 500ml Tub,,,f233.jpg,,London,1
+FF234,Baskin Robbins Almond Praline Ice Cream 500ml Tube,,269,,,,Fresh & Frozen,Ice Cream & Dessert,,Baskin Robbins Almond Praline Ice Cream 500ml Tube,,,f234.jpg,,Baskin,1
+FF235,Amul Butter Scotch Bliss 1 L,,160,,,,Fresh & Frozen,Ice Cream & Dessert,,Amul Butter Scotch Bliss 1 L,,,f235.jpg,,Amul,1
+FF236,Baskin Robbins Mango Ice Cream 500ml,,160,,,,Fresh & Frozen,Ice Cream & Dessert,,Baskin Robbins Mango Ice Cream 500ml,,,f236.jpg,,Baskin,1
+FF237,Baskin Robbins Honey Nut Ice Cream 1000 Ml Tub,,499,,,,Fresh & Frozen,Ice Cream & Dessert,,Baskin Robbins Honey Nut Ice Cream 1000 Ml Tub,,,f237.jpg,,Baskin,1
+FF238,Amul 2 In 1 Vanilla + Strawberry 2 L,,220,,,,Fresh & Frozen,Ice Cream & Dessert,,Amul 2 In 1 Vanilla + Strawberry 2 L,,,f238.jpg,,Amul,1
+FF239,Diffy's Malto Chips 1.5 L,,235,,,,Fresh & Frozen,Ice Cream & Dessert,,Diffy's Malto Chips 1.5 L,,,f239.jpg,,Diffy's,1
+FF240,Mother Dairy Western Classic Choco Almonds Ice Cream 1L,,299,,,,Fresh & Frozen,Ice Cream & Dessert,,Mother Dairy Western Classic Choco Almonds Ice Cream 1L,,,f240.jpg,,Mother Dairy,1
+FF241,Diffy's Honey Almond 1.5 L,,235,,,,Fresh & Frozen,Ice Cream & Dessert,,Diffy's Honey Almond 1.5 L,,,f241.jpg,,Diffy's,1
+FF242,Diffy's Pista Badam 1.5 L,,245,,,,Fresh & Frozen,Ice Cream & Dessert,,Diffy's Pista Badam 1.5 L,,,f242.jpg,,Diffy's,1
+FF243,Baskin Robbins Cotton Candy Ice Cream 500 ml Tub,,169,,,,Fresh & Frozen,Ice Cream & Dessert,,Baskin Robbins Cotton Candy Ice Cream 500 ml Tub,,,f243.jpg,,Baskin,1
+FF244,Baskin Robbins Gold Medal  Ice Cream 500 ml Tub,,239,,,,Fresh & Frozen,Ice Cream & Dessert,,Baskin Robbins Gold Medal  Ice Cream 500 ml Tub,,,f244.jpg,,Baskin,1
+FF245,Diffy's Fruit & Nut Tub 1.5 L,,235,,,,Fresh & Frozen,Ice Cream & Dessert,,Diffy's Fruit & Nut Tub 1.5 L,,,f245.jpg,,Diffy's,1
+FF246,Mother Dairy Strawberry Crush Ice Cream 1 L Tube,,299,,,,Fresh & Frozen,Ice Cream & Dessert,,Mother Dairy Strawberry Crush Ice Cream 1 L Tube,,,f246.jpg,,Mother Dairy,1
+FF247,London Dairy Mocha Almond Fudge Ice Cream 1 L Tub,,600,,,,Fresh & Frozen,Ice Cream & Dessert,,London Dairy Mocha Almond Fudge Ice Cream 1 L Tub,,,f247.jpg,,London,1
+FF248,Baskin Robbins Chocolate Ice Cream 1000ml Tube,,499,,,,Fresh & Frozen,Ice Cream & Dessert,,Baskin Robbins Chocolate Ice Cream 1000ml Tube,,,f248.jpg,,Baskin,1
+FF249,Baskin Robbins Mississippi Mud Ice Cream 500ml Tub,,239,,,,Fresh & Frozen,Ice Cream & Dessert,,Baskin Robbins Mississippi Mud Ice Cream 500ml Tub,,,f249.jpg,,Baskin,1
+FF250,Mother Dairy Mango Marvel  Ice Cream 1 L,,299,,,,Fresh & Frozen,Ice Cream & Dessert,,Mother Dairy Mango Marvel  Ice Cream 1 L,,,f250.jpg,,Mother Dairy,1
+FF251,Diffy's Choco Chip Tub 1.5 L,,235,,,,Fresh & Frozen,Ice Cream & Dessert,,Diffy's Choco Chip Tub 1.5 L,,,f251.jpg,,Diffy's,1
+FF252,Diffy's Butter Scotch Tub 1.5 L,,190,,,,Fresh & Frozen,Ice Cream & Dessert,,Diffy's Butter Scotch Tub 1.5 L,,,f252.jpg,,Diffy's,1
+FF253,Diffy's Strawberry Tub 1.5 L,,150,,,,Fresh & Frozen,Ice Cream & Dessert,,Diffy's Strawberry Tub 1.5 L,,,f253.jpg,,Diffy's,1
+FF254,Amul Butter Scotch 2 L,,240,,,,Fresh & Frozen,Ice Cream & Dessert,,Amul Butter Scotch 2 L,,,f254.jpg,,Amul,1
+FF255,London  Dairy Double Chocolate Ice Cream 500ml,,325,,,,Fresh & Frozen,Ice Cream & Dessert,,London  Dairy Double Chocolate Ice Cream 500ml,,,f255.jpg,,London,1
+FF256,Amul Double Sundae Choco Almond N Kesar Badam Ice Cream 1L,,170,,,,Fresh & Frozen,Ice Cream & Dessert,,Amul Double Sundae Choco Almond N Kesar Badam Ice Cream 1L,,,f256.jpg,,Amul,1
+FF257,Baskin Robbins Very Berry Ice CREAM 500 ml,,239,,,,Fresh & Frozen,Ice Cream & Dessert,,Baskin Robbins Very Berry Ice CREAM 500 ml,,,f257.jpg,,Baskin,1
+FF258,Kwality Walls Carte Dor Fruit & Nut 750 Ml,,210,,,,Fresh & Frozen,Ice Cream & Dessert,,Kwality Walls Carte Dor Fruit & Nut 750 Ml,,,f258.jpg,,Kwality,1
+FF259,Kwality Walls Creamy Delights Litchi Ice Cream 750 ml Tub,,210,,,,Fresh & Frozen,Ice Cream & Dessert,,Kwality Walls Creamy Delights Litchi Ice Cream 750 ml Tub,,,f259.jpg,,Kwality,1
+FF260,Amul Moroccan Dry Fruit Ice Cream 1L,,199,,,,Fresh & Frozen,Ice Cream & Dessert,,Amul Moroccan Dry Fruit Ice Cream 1L,,,f260.jpg,,Kwality,1
+FF261,kwality Walls Creamy Delights Pineapple Ice Cream 750 Ml,,210,,,,Fresh & Frozen,Ice Cream & Dessert,,kwality Walls Creamy Delights Pineapple Ice Cream 750 Ml,,,f261.jpg,,Kwality,1
+FF262,Amul Sundae Fruit N Nut Fantasy Ice Cream 1 L,,150,,,,Fresh & Frozen,Ice Cream & Dessert,,Amul Sundae Fruit N Nut Fantasy Ice Cream 1 L,,,f262.jpg,,Amul,1
+FF263,Kwality Walls Carte Dor Strawberry Cheesecake Ice Cream 750 ml Tube,,210,,,,Fresh & Frozen,Ice Cream & Dessert,,Kwality Walls Carte Dor Strawberry Cheesecake Ice Cream 750 ml Tube,,,f263.jpg,,Kwality,1
+FF264,London Dairy Cookies & Ice Creams 1 L Tub,,600,,,,Fresh & Frozen,Ice Cream & Dessert,,London Dairy Cookies & Ice Creams 1 L Tub,,,f264.jpg,,London,1
+FF265,London Dairy Natural Strawberry Ice Cream 1 L Tub,,600,,,,Fresh & Frozen,Ice Cream & Dessert,,London Dairy Natural Strawberry Ice Cream 1 L Tub,,,f265.jpg,,London,1
+FF266,Baskin Robbins Black Currant Ice Cream 500 ml,,239,,,,Fresh & Frozen,Ice Cream & Dessert,,Baskin Robbins Black Currant Ice Cream 500 ml,,,f266.jpg,,Baskin,1
+FF267,Baskin Robbins Vanilla  Ice Cream 1000 ml Tub,,389,,,,Fresh & Frozen,Ice Cream & Dessert,,Baskin Robbins Vanilla  Ice Cream 1000 ml Tub,,,f267.jpg,,Baskin,1
+FF268,Kwality Walls Creamy Delights Mango Ice Cream 750ml Tub,,210,,,,Fresh & Frozen,Ice Cream & Dessert,,Kwality Walls Creamy Delights Mango Ice Cream 750ml Tub,,,f268.jpg,,Kwality,1
+FF269,"McCain French Fries, 450 g",,85,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain French Fries, 450 g",,,f269.jpg,,McCain,1
+FF270,"McCain French Fries, 6 mm, 2.5 Kg",,340,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain French Fries, 6 mm, 2.5 Kg",,,f270.jpg,,McCain,1
+FF271,"Sumeru Chilly Garlic French Fries, 400 g",,100,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Sumeru Chilly Garlic French Fries, 400 g",,,f271.jpg,,Sumeru,1
+FF272,"Sumeru Piri Piri French Fries, 400 g",,105,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Sumeru Piri Piri French Fries, 400 g",,,f272.jpg,,Sumeru,1
+FF273,"Sumeru Malabar Paratha, 300 g",,70,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Sumeru Malabar Paratha, 300 g",,,f273.jpg,,Sumeru,1
+FF274,"Sumeru Breaded Vegetable Fingers, 1 Kg",,275,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Sumeru Breaded Vegetable Fingers, 1 Kg",,,f274.jpg,,Sumeru,1
+FF275,"McCain Potato Cheese, 400 g",,180,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Potato Cheese, 400 g",,,f275.jpg,,McCain,1
+FF276,"Kings Corn Samosa, 200 g",,95,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Kings Corn Samosa, 200 g",,,f276.jpg,,Kings,1
+FF277,"Kings Corn Samosa, 150 g",,65,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Kings Corn Samosa, 150 g",,,f277.jpg,,Kings,1
+FF278,"Western Farm Fresh Veg Burger Patty, 1.2 Kg",,184,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Western Farm Fresh Veg Burger Patty, 1.2 Kg",,,f278.jpg,,Western,1
+FF279,"Western Farm Fresh Spicy Burger Patty, 1.2 Kg",,215,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Western Farm Fresh Spicy Burger Patty, 1.2 Kg",,,f279.jpg,,Western,1
+FF280,"Western Farm Fresh Cheese Corn Nuggets, 1 Kg",,245,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Western Farm Fresh Cheese Corn Nuggets, 1 Kg",,,f280.jpg,,Western,1
+FF281,"Western Farm Fresh Aloo Tikki, 1 Kg",,145,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Western Farm Fresh Aloo Tikki, 1 Kg",,,f281.jpg,,Western,1
+FF282,"Western Farm Fresh Malabar Paratha, 1 Kg",,128,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Western Farm Fresh Malabar Paratha, 1 Kg",,,f282.jpg,,Western,1
+FF283,"Western Farm Fresh Spicy Corn Nuggets, 300 g",,68,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Western Farm Fresh Spicy Corn Nuggets, 300 g",,,f283.jpg,,Western,1
+FF284,"McCain Chilli Garlic Potato Bites, 700 g",,155,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Chilli Garlic Potato Bites, 700 g",,,f284.jpg,,McCain,1
+FF285,"McCain French Fries, 1.25 Kg",,225,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain French Fries, 1.25 Kg",,,f285.jpg,,McCain,1
+FF286,"McCain Smiles, 750 g",,155,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Smiles, 750 g",,,f286.jpg,,McCain,1
+FF287,"McCain Potato Cheese Shotz, 250 g",,120,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Potato Cheese Shotz, 250 g",,,f287.jpg,,McCain,1
+FF288,"McCain Potato Cheese Shotz, 1 Kg",,380,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Potato Cheese Shotz, 1 Kg",,,f288.jpg,,McCain,1
+FF289,"Western Farm Fresh French Fries, 400 g",,75,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Western Farm Fresh French Fries, 400 g",,,f289.jpg,,McCain,1
+FF290,"McCain Chilli Garlic Potato Bites, 450 g",,100,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Chilli Garlic Potato Bites, 450 g",,,f290.jpg,,McCain,1
+FF291,"McCain French Fries, Pack Of 5 U X 2.5 Kg",,1550,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain French Fries, Pack Of 5 U X 2.5 Kg",,,f291.jpg,,McCain,1
+FF292,"McCain Chilli Potato Patty, 1.5 Kg",,245,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Chilli Potato Patty, 1.5 Kg",,,f292.jpg,,McCain,1
+FF293,"McCain Garlic Potato Pops, 1.5 Kg",,270,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Garlic Potato Pops, 1.5 Kg",,,f293.jpg,,McCain,1
+FF294,"McCain Masala Fries, 1.5 Kg",,275,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Masala Fries, 1.5 Kg",,,f294.jpg,,McCain,1
+FF295,"McCain French Fries, 2.5 Kg",,1600,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain French Fries, 2.5 Kg",,,f295.jpg,,McCain,1
+FF296,"McCain Popular Veg Burger, 1.2 Kg",,200,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Popular Veg Burger, 1.2 Kg",,,f296.jpg,,McCain,1
+FF297,"McCain Tandoori Nuggets, 1 Kg",,235,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Tandoori Nuggets, 1 Kg",,,f297.jpg,,McCain,1
+FF298,"McCain Smiles, 450 g",,100,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Smiles, 450 g",,,f298.jpg,,McCain,1
+FF299,"McCain Aloo Tikki, 1.5 Kg",,240,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Aloo Tikki, 1.5 Kg",,,f299.jpg,,McCain,1
+FF300,"McCain Smiles, 1.5 Kg",,300,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Smiles, 1.5 Kg",,,f300.jpg,,McCain,1
+FF301,"McCain French Fries, 9 mm, 2.5 Kg",,340,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain French Fries, 9 mm, 2.5 Kg",,,f301.jpg,,McCain,1
+FF302,"McCain Aloo Tikki, 400 g",,85,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Aloo Tikki, 400 g",,,f302.jpg,,McCain,1
+FF303,"McCain French Fries, 750 g",,145,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain French Fries, 750 g",,,f303.jpg,,McCain,1
+FF304,"Sumeru Flaky Parantha, 1 Kg",,190,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Sumeru Flaky Parantha, 1 Kg",,,f304.jpg,,Sumeru,1
+FF305,"McCain Veggie Fingers, 400 g",,105,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Veggie Fingers, 400 g",,,f305.jpg,,McCain,1
+FF306,"McCain Veggie Fingers, 1 Kg",,230,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"McCain Veggie Fingers, 1 Kg",,,f306.jpg,,McCain,1
+FF307,"Vista Potato Base Patty, Pack Of 10 U X 40 g",,70,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Vista Potato Base Patty, Pack Of 10 U X 40 g",,,f307.jpg,,Vista,1
+FF308,"Vista Crunch Veg Cutlet, Pack Of 10 U X 40 g",,75,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Vista Crunch Veg Cutlet, Pack Of 10 U X 40 g",,,f308.jpg,,Vista,1
+FF309,"Vista Batata Vada, Pack Of 10 U X 50 g",,80,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Vista Batata Vada, Pack Of 10 U X 50 g",,,f309.jpg,,Vista,1
+FF310,"Vista Cheese Corn Nuggets, Pack Of 25 U X 20 g",,155,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Vista Cheese Corn Nuggets, Pack Of 25 U X 20 g",,,f310.jpg,,Vista,1
+FF311,"Sumeru Veg Spring Roll, 200 g",,95,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Sumeru Veg Spring Roll, 200 g",,,f311.jpg,,Sumeru,1
+FF312,"Amul Thin Crust Pizza, Pack Of 4 U X 170 g",,80,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Amul Thin Crust Pizza, Pack Of 4 U X 170 g",,,f312.jpg,,Amul,1
+FF313,"Sumeru Breaded Vegetable Fingers, 250 g",,79,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Sumeru Breaded Vegetable Fingers, 250 g",,,f313.jpg,,Sumeru,1
+FF314,"Western Farm Fresh Burger Patty, 360 g",,74,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Western Farm Fresh Burger Patty, 360 g",,,f314.jpg,,Western,1
+FF315,"Sumeru Methi Parantha, 300 g",,69,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Sumeru Methi Parantha, 300 g",,,f315.jpg,,Sumeru,1
+FF316,Kelloggs-Oats Bites 130gm,,49,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,Kelloggs-Oats Bites 130gm,,,f316.jpg,,Kelloggs,1
+FF317,Knorr-Ready to cook Hydrabadi Biryani 50gm,,45,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,Knorr-Ready to cook Hydrabadi Biryani 50gm,,,f317.jpg,,Knorr,1
+FF318,Al kabeer-Jalapeno&Cheese Sticks 250gm,,150,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,Al kabeer-Jalapeno&Cheese Sticks 250gm,,,f318.jpg,,AL,1
+FF319,Act li-Redy to Eat Popcorn Strawberry 35gm,,20,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,Act li-Redy to Eat Popcorn Strawberry 35gm,,,f319.jpg,,Act,1
+FF320,Knorr-Chinese Veg Manchow Noodle Soup 12gm,,10,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,Knorr-Chinese Veg Manchow Noodle Soup 12gm,,,f320.jpg,,Knorr,1
+FF321,Knorr-Chinese Hot Sour Veg Soup  43gm,,45,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,Knorr-Chinese Hot Sour Veg Soup  43gm,,,f321.jpg,,Knorr,1
+FF322,"Sumeru Malabar Parantha, 1 Kg",,221,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,"Sumeru Malabar Parantha, 1 Kg",,,f322.jpg,,Sumeru,1
+FF323,Yumyum Dim Sum-Spicy Musroom Corn(MOMOS)250GM,,130,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,Yumyum Dim Sum-Spicy Musroom Corn MOMOS 250GM,,,f323.jpg,,Yamyum,1
+FF324,Yumyum Dim Sum-Veg Supreme(MOMOS) 250gm,,117,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,Yumyum Dim Sum-Veg Supreme MOMOS 250gm,,,f324.jpg,,Yamyum,1
+FF325,Fresh-Fresh Fries 300gm,,72,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,Fresh-Fresh Fries 300gm,,,f325.jpg,,Fresh,1
+FF326,Yummiez-Veg Haryali Bite360gm,,105,,,,Fresh & Frozen,Fozen Veg,Ready To Cook & Eat,Yummiez-Veg Haryali Bite360gm,,,f326.jpg,,Yamyum,1
+FF327,"Kings Sweet Corn, 500 g",,70,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,"Kings Sweet Corn, 500 g",,,f327.jpg,,Kings,1
+FF328,"Kings Sweet Corn, 1 Kg",,140,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,"Kings Sweet Corn, 1 Kg",,,f328.jpg,,Kings,1
+FF329,"Safal Green Peas, 1 Kg",,125,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,"Safal Green Peas, 1 Kg",,,f329.jpg,,Safal,1
+FF330,"Western Farm Fresh Sweet Corn, 1 Kg",,124,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,"Western Farm Fresh Sweet Corn, 1 Kg",,,f330.jpg,,Western,1
+FF331,"Western Farm Fresh Sweet Corn, 500 g",,65,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,"Western Farm Fresh Sweet Corn, 500 g",,,f331.jpg,,Western,1
+FF332,"Western Farm Fresh Green Peas, 1 Kg",,149,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,"Western Farm Fresh Green Peas, 1 Kg",,,f332.jpg,,Western,1
+FF333,"Western Farm Fresh Green Peas, 500 g",,79,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,"Western Farm Fresh Green Peas, 500 g",,,f333.jpg,,Western,1
+FF334,"Safal Sweet Corns, 1 Kg",,110,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,"Safal Sweet Corns, 1 Kg",,,f334.jpg,,Safal,1
+FF335,"Safal Sweet Corn, 500 g",,70,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,"Safal Sweet Corn, 500 g",,,f335.jpg,,Safal,1
+FF336,"Kings Green Peas, 500 g",,70,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,"Kings Green Peas, 500 g",,,f336.jpg,,Kings,1
+FF337,"Kings Green Peas, 1 Kg",,140,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,"Kings Green Peas, 1 Kg",,,f337.jpg,,Kings,1
+FF338,Real Good Yummiez Dinoz Veg Nuggets 300,,95,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Real Good Yummiez Dinoz Veg Nuggets 300,,,f338.jpg,,Red,1
+FF339,Al Kabeer Vegetable Samosas 1kg Pouch,,300,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Al Kabeer Vegetable Samosas 1kg Pouch,,,f339.jpg,,AL,1
+FF340,Real Good Yummiez Dinoz Veg Burger Patty 360g300,,90,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Real Good Yummiez Dinoz Veg Burger Patty 360g300,,,f340.jpg,,Red,1
+FF341,McCain Veggie Burger Patty 360 gm Pouch,,105,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,McCain Veggie Burger Patty 360 gm Pouch,,,f341.jpg,,McCain,1
+FF342,Sumeru  Chinese Vegetable Spring Rolls 20,,90,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Sumeru  Chinese Vegetable Spring Rolls 20,,,f342.jpg,,Sumeru,1
+FF343,Sumeru Vegetable Burger Party 300gm car,,80,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Sumeru Vegetable Burger Party 300gm car,,,f343.jpg,,Sumeru,1
+FF344,Sumeru Vegetable Cutlets 200gm Pouch,,70,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Sumeru Vegetable Cutlets 200gm Pouch,,,f344.jpg,,Sumeru,1
+FF345,Al Kabeer Vegetable Burgers 360gm Carton,,90,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Al Kabeer Vegetable Burgers 360gm Carton,,,f345.jpg,,AL,1
+FF346,AL Kabeer Veggie Nuggets 400gm ,,120,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,AL Kabeer Veggie Nuggets 400gm ,,,f346.jpg,,AL,1
+FF347,Buffet Tandoori Garlic Naan 340gm,,80,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Buffet Tandoori Garlic Naan 340gm,,,f347.jpg,,Buffet,1
+FF348,Kawan Whole Wheat Paratha 325gm Pouch  ,,85,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Kawan Whole Wheat Paratha 325gm Pouch  ,,,f348.jpg,,Kawan,1
+FF349,AL Kabeer American Sweet Corn 1kgmPouch ,,130,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,AL Kabeer American Sweet Corn 1kgmPouch ,,,f349.jpg,,AL,1
+FF350,AL Kabeer Aloo Tikki 250gm  ,,110,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,AL Kabeer Aloo Tikki 250gm  ,,,f350.jpg,,AL,1
+FF351,KawanTawa  Paratha 325gm Pouch  ,,77,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,KawanTawa  Paratha 325gm Pouch  ,,,f351.jpg,,Kawan,1
+FF352,Yummiez Real Good Yummiez Cheese Corn Nuggets 1,,350,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Yummiez Real Good Yummiez Cheese Corn Nuggets 1,,,f352.jpg,,Yummiez,1
+FF353,Real Good Yummiez Cheese Corn Nuggts 40,,180,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Real Good Yummiez Cheese Corn Nuggts 40,,,f353.jpg,,Red,1
+FF354,AL Kabeer Jalapenp and Cheese Sticks400gm  ,,260,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,AL Kabeer Jalapenp and Cheese Sticks400gm  ,,,f354.jpg,,AL,1
+FF355,Kawan Onion Paratha 352gm Pouch  ,,79,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Kawan Onion Paratha 352gm Pouch  ,,,f355.jpg,,Kawan,1
+FF356,Fresh Samosa Patti 190gm,,65,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Fresh Samosa Patti 190gm,,,f356.jpg,,Fresh,1
+FF357,McCain Smiles Value Pack 750 gm Pouch,,160,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,McCain Smiles Value Pack 750 gm Pouch,,,f357.jpg,,McCain,1
+FF358,AL Kabeer French Fries 400gm Pouch  ,,90,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,AL Kabeer French Fries 400gm Pouch  ,,,f358.jpg,,AL,1
+FF359,Buffet Butter Paratha 300gm,,85,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Buffet Butter Paratha 300gm,,,f359.jpg,,Buffet,1
+FF360,Buffet Malabar Paratha 1kg,,195,,,,Fresh & Frozen,Fozen Veg,Frozen Veggies,Buffet Malabar Paratha 1kg,,,f360.jpg,,Buffet,1

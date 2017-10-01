@@ -1,0 +1,252 @@
+Product Code,product_name,product_description,MRP,our_price,a. Whole Sale Price,shipping _charge,product_category,product_subcategory,product_subtopic,products_pagetitle,products_metadescription,products_keywords,image_url,Sub_Description ,Brand ,status
+PF01,Lotte Choco Pie Pack Of 6 X Rs. 10,,70,,,,Packaged Foods,Confectionary,Chocolates,Lotte Choco Pie Pack Of 6 X Rs. 10,,,pf301.jpg,,Lotte ,1
+PF02,Lotte Choco Pie Pack Of 12 X Rs. 10,,120,,,,Packaged Foods,Confectionary,Chocolates,Lotte Choco Pie Pack Of 12 X Rs. 10,,,pf302.jpg,,Lotte,1
+PF03,"Snickers Chocolate Snack Bar, Pack Of 3 X Rs. 15",,54,,,,Packaged Foods,Confectionary,Chocolates,"Snickers Chocolate Snack Bar, Pack Of 3 X Rs. 15",,,pf303.jpg,,Nestle,1
+PF04,"Snickers Chocolate Miniatures, 150 g",,119,,,,Packaged Foods,Confectionary,Chocolates,"Snickers Chocolate Miniatures, 150 g",,,pf304.jpg,,Nestle,1
+PF05,"Snickers Chocolate Minis Bag, 270 g",,199,,,,Packaged Foods,Confectionary,Chocolates,"Snickers Chocolate Minis Bag, 270 g",,,pf305.jpg,,Nestle,1
+PF06,Snickers Chocolate Pack Of 3 X Rs. 30,,102,,,,Packaged Foods,Confectionary,Chocolates,Snickers Chocolate Pack Of 3 X Rs. 30,,,pf306.jpg,,Nestle,1
+PF07,"Snickers Chocolate Snack Bar, Pack Of 32 X Rs. 15",,576,,,,Packaged Foods,Confectionary,Chocolates,"Snickers Chocolate Snack Bar, Pack Of 32 X Rs. 15",,,pf307.jpg,,Nestle,1
+PF08,"Snickers Chocolate Snack Bar, Pack Of 24 X Rs. 30",,816,,,,Packaged Foods,Confectionary,Chocolates,"Snickers Chocolate Snack Bar, Pack Of 24 X Rs. 30",,,pf308.jpg,,Nestle,1
+PF09,Orion Chocopie Pack Of 6 U,,75,,,,Packaged Foods,Confectionary,Chocolates,Orion Chocopie Pack Of 6 U,,,pf309.jpg,,Orion ,1
+PF10,"Nestle Chocolate Milky Bar, Pack Of 28 X Rs. 5",,140,,,,Packaged Foods,Confectionary,Chocolates,"Nestle Chocolate Milky Bar, Pack Of 28 X Rs. 5",,,pf310.jpg,,Nestle,1
+PF11,Nestle Bar One Chocolate Pack Of 24 X Rs. 10,,240,,,,Packaged Foods,Confectionary,Chocolates,Nestle Bar One Chocolate Pack Of 24 X Rs. 10,,,pf311.jpg,,Nestle,1
+PF12,Nestle Munch chocolate Pouch,,80,,,,Packaged Foods,Confectionary,Chocolates,Nestle Munch chocolate Pouch,,,pf312.jpg,,Nestle,1
+PF13,"Mars Chocolate Snack Bar, Pack Of 3 x Rs. 30",,120,,,,Packaged Foods,Confectionary,Chocolates,"Mars Chocolate Snack Bar, Pack Of 3 x Rs. 30",,,pf313.jpg,,Mars,1
+PF14,Nestle Kit Kat Chocolate Family Pack,,75,,,,Packaged Foods,Confectionary,Chocolates,Nestle Kit Kat Chocolate Family Pack,,,pf314.jpg,,Nestle,1
+PF15,"Nestle Kit Kat Chocolate 1 Finger, Pack Of 15 X Rs. 5",,100,,,,Packaged Foods,Confectionary,Chocolates,"Nestle Kit Kat Chocolate 1 Finger, Pack Of 15 X Rs. 5",,,pf315.jpg,,Nestle,1
+PF16,"Galaxy Chocolate Milk, Pack Of 3 X Rs. 30",,102,,,,Packaged Foods,Confectionary,Chocolates,"Galaxy Chocolate Milk, Pack Of 3 X Rs. 30",,,pf316.jpg,,Galaxy,1
+PF17,Cadbury Perk Pack Of 42 X Rs. 5,,210,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Perk Pack Of 42 X Rs. 5,,,pf317.jpg,,Cadbury,1
+PF18,Cadbury Gems Surprise Ball,,40,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Gems Surprise Ball,,,pf318.jpg,,Cadbury,1
+PF19,Cadbury Gems Pack Of 72 x Rs. 5,,360,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Gems Pack Of 72 x Rs. 5,,,pf319.jpg,,Cadbury,1
+PF20,Cadbury Five Star Pack Of 40 x Rs. 10,,400,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Five Star Pack Of 40 x Rs. 10,,,pf320.jpg,,Cadbury,1
+PF21,Cadbury Dairy Milk Roasted Almond,,45,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Dairy Milk Roasted Almond,,,pf321.jpg,,Cadbury,1
+PF22,Cadbury Dairy Milk Fruit & Nut,,40,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Dairy Milk Fruit & Nut,,,pf322.jpg,,Cadbury,1
+PF23,Cadbury Dairy Milk Crackle,,40,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Dairy Milk Crackle,,,pf323.jpg,,Cadbury,1
+PF24,"Bounty Chocolate Miniatures, 150 g",,149,,,,Packaged Foods,Confectionary,Chocolates,"Bounty Chocolate Miniatures, 150 g",,,pf324.jpg,,Bounty,1
+PF25,Cadbury Dairy Milk Pack Of 56 X Rs. 10,,560,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Dairy Milk Pack Of 56 X Rs. 10,,,pf325.jpg,,Cadbury,1
+PF26,Cadbury Five Star Pack Of 54 X Rs. 5,,270,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Five Star Pack Of 54 X Rs. 5,,,pf326.jpg,,Cadbury,1
+PF27,Nestle Milk Chocolate Pack Of 24 U X Rs. 20,,480,,,,Packaged Foods,Confectionary,Chocolates,Nestle Milk Chocolate Pack Of 24 U X Rs. 20,,,pf327.jpg,,Nestle,1
+PF28,Kitkat Senses Milk Chocolate Pack Of 15 U X Rs. 50,,750,,,,Packaged Foods,Confectionary,Chocolates,Kitkat Senses Milk Chocolate Pack Of 15 U X Rs. 50,,,pf328.jpg,,nestle,1
+PF29,"Snickers Chocolate Miniatures, Promo Pack",,198,,,,Packaged Foods,Confectionary,Chocolates,"Snickers Chocolate Miniatures, Promo Pack",,,pf329.jpg,,Nestle,1
+PF30,"Cadbury Perk Home Treat, 200 g",,85,,,,Packaged Foods,Confectionary,Chocolates,"Cadbury Perk Home Treat, 200 g",,,pf330.jpg,,Cadbury,1
+PF31,"Cadbury Five Star Home Treat, 200 g",,130,,,,Packaged Foods,Confectionary,Chocolates,"Cadbury Five Star Home Treat, 200 g",,,pf331.jpg,,Cadbury,1
+PF32,"Cadbury Dairy Milk Chocolate Home Treat, 200 g",,130,,,,Packaged Foods,Confectionary,Chocolates,"Cadbury Dairy Milk Chocolate Home Treat, 200 g",,,pf332.jpg,,Cadbury,1
+PF33,Cadbury Dairy Milk Chocolate Pack Of 72 X Rs. 5,,360,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Dairy Milk Chocolate Pack Of 72 X Rs. 5,,,pf333.jpg,,Cadbury,1
+PF34,"Kinder Joy Chocolate Boys, Pack of 24 - 35Rs MRP each",,840,,,,Packaged Foods,Confectionary,Chocolates,"Kinder Joy Chocolate Boys, Pack of 24 - 35Rs MRP each",,,pf334.jpg,,Kinder Joy,1
+PF35,"Kinder Joy Chocolate Boys, Pack of 16 - 35Rs MRP each",,560,,,,Packaged Foods,Confectionary,Chocolates,"Kinder Joy Chocolate Boys, Pack of 16 - 35Rs MRP each",,,pf335.jpg,,Kinder Joy,1
+PF36,"Kinder Joy Chocolate Boys, Pack of 8 - 35Rs MRP each",,280,,,,Packaged Foods,Confectionary,Chocolates,"Kinder Joy Chocolate Boys, Pack of 8 - 35Rs MRP each",,,pf336.jpg,,Kinder Joy,1
+PF37,Cadbury Five Star Chomp Pack Of 32 X Rs. 15,,480,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Five Star Chomp Pack Of 32 X Rs. 15,,,pf337.png,,Candbury,1
+PF38,Orion Chocopie Pack Of 12 X Rs. 10,,140,,,,Packaged Foods,Confectionary,Chocolates,Orion Chocopie Pack Of 12 X Rs. 10,,,pf338.jpg,,Orion ,1
+PF39,Nestle Munch Chocolate Pack Of 28 X Rs. 10,,260,,,,Packaged Foods,Confectionary,Chocolates,Nestle Munch Chocolate Pack Of 28 X Rs. 10,,,pf339.jpg,,Nestle,1
+PF40,Bar One Chocolate 12gm Pouch,,50,,,,Packaged Foods,Confectionary,Chocolates,Bar One Chocolate 12gm Pouch,,,pf340.jpg,,Bar One,1
+PF41,5 Star Fruit7 nut chocolate 36gm Pack,,30,,,,Packaged Foods,Confectionary,Chocolates,5 Star Fruit7 nut chocolate 36gm Pack,,,pf341.jpg,,5Star,1
+PF42,Alpenlieba Rich Milky Caramel Toffee 500,,100,,,,Packaged Foods,Confectionary,Chocolates,Alpenlieba Rich Milky Caramel Toffee 500,,,pf342.jpg,,Alpenliebe,1
+PF43,Alpenlieba Caram Strawberry 500gm Pouch,,100,,,,Packaged Foods,Confectionary,Chocolates,Alpenlieba Caram Strawberry 500gm Pouch,,,pf343.jpg,,Alpenliebe,1
+PF44,Alpenlieba Caramfills Butter Toffee200gm Pouch,,50,,,,Packaged Foods,Confectionary,Chocolates,Alpenlieba Caramfills Butter Toffee200gm Pouch,,,pf344.jpg,,Alpenliebe,1
+PF45,Alpenlieba Mangofillz 250gm Pouch,,50,,,,Packaged Foods,Confectionary,Chocolates,Alpenlieba Mangofillz 250gm Pouch,,,pf345.jpg,,Alpenliebe,1
+PF46,Alpenliebe 2 Choco Eclairs 210gm Pouch,,50,,,,Packaged Foods,Confectionary,Chocolates,Alpenliebe 2 Choco Eclairs 210gm Pouch,,,pf346.jpg,,Alpenliebe,1
+PF47,Ask White Chocolate Cking 150gm Pouch,,80,,,,Packaged Foods,Confectionary,Chocolates,Ask White Chocolate Cking 150gm Pouch,,,pf347.jpg,,Alpenliebe,1
+PF48,Ask Dark Chocolate Cking 150gm Pouch,,80,,,,Packaged Foods,Confectionary,Chocolates,Ask Dark Chocolate Cking 150gm Pouch,,,pf348.jpg,,Alpenliebe,1
+PF49,Bounty Miniaturesn150gm Pouch,,149,,,,Packaged Foods,Confectionary,Chocolates,Bounty Miniaturesn150gm Pouch,,,pf349.jpg,,Alpenliebe,1
+PF50,Cadbury Dairy Milk Shots 14.4gm Pouch,,10,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Dairy Milk Shots 14.4gm Pouch,,,pf350.jpg,,Cadbury,1
+PF51,Cadbury Bournville Rich Cocoa 80 gm Pouch,,100,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Bournville Rich Cocoa 80 gm Pouch,,,pf351.jpg,,Cadbury,1
+PF52,Cadbury Dairy Milk Silk Chocolate  160 gm,,150,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Dairy Milk Silk Chocolate  160 gm,,,pf352.jpg,,Cadbury,1
+PF53,Cadbury Temptations Almond Treat 72gm pouch,,80,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Temptations Almond Treat 72gm pouch,,,pf353.jpg,,Cadbury,1
+PF54,Cadbury Temptatios Rum Raisins 72gm pouch,,80,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Temptatios Rum Raisins 72gm pouch,,,pf354.jpg,,Cadbury,1
+PF55,Cadbury Bournville Rich Cranberry 80 gm Pouch,,100,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Bournville Rich Cranberry 80 gm Pouch,,,pf355.jpg,,Cadbury,1
+PF56,Cadbury Bournville Raisin and Nut 80 gm Pouch,,95,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Bournville Raisin and Nut 80 gm Pouch,,,pf356.jpg,,Cadbury,1
+PF57,Cadbury 5 Star Chomp 50 gm Pouch ,,25,,,,Packaged Foods,Confectionary,Chocolates,Cadbury 5 Star Chomp 50 gm Pouch ,,,pf357.jpg,,Cadbury,1
+PF58,Cadbury Cocoa 200gm Cup,,180,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Cocoa 200gm Cup,,,pf358.jpg,,Cadbury,1
+PF59,Cadbury Gems Surprise Play Pack 40.94gm..,,90,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Gems Surprise Play Pack 40.94gm..,,,pf359.jpg,,Cadbury,1
+PF60,Caadbury Choclairs 517.5gm Pouch,,115,,,,Packaged Foods,Confectionary,Chocolates,Caadbury Choclairs 517.5gm Pouch,,,pf360.jpg,,Cadbury,1
+PF61,Caadbury Tempatations Cashew Appeal 72gm,,80,,,,Packaged Foods,Confectionary,Chocolates,Caadbury Tempatations Cashew Appeal 72gm,,,pf361.jpg,,Cadbury,1
+PF62,Candyman Fruitee Fun 330 gm Pouch,,50,,,,Packaged Foods,Confectionary,Chocolates,Candyman Fruitee Fun 330 gm Pouch,,,pf362.jpg,,Cadbury,1
+PF63,Cadbury Bournville Cranberry 80gms Pouch,,100,,,,Packaged Foods,Confectionary,Chocolates,Cadbury Bournville Cranberry 80gms Pouch,,,pf363.jpg,,Cadbury,1
+PF64,Choco Swiss Almond 250gm Carton,,110,,,,Packaged Foods,Confectionary,Chocolates,Choco Swiss Almond 250gm Carton,,,pf364.jpg,,Choco,1
+PF65,Parle Kismi Toffee 294gm Pouch,,50,,,,Packaged Foods,Confectionary,Chocolates,Parle Kismi Toffee 294gm Pouch,,,pf365.png,,Parle,1
+PF66,Nestle Munch 151.5gm Pouch,,80,,,,Packaged Foods,Confectionary,Chocolates,Nestle Munch 151.5gm Pouch,,,pf366.jpg,,Nestle,1
+PF67,Toblerone Chocolate Honey and Almond 50....,,65,,,,Packaged Foods,Confectionary,Chocolates,Toblerone Chocolate Honey and Almond 50....,,,pf367.jpg,,Tobleron,1
+PF68,Parle Melody Chocolaty 391gm Pouch,,100,,,,Packaged Foods,Confectionary,Chocolates,Parle Melody Chocolaty 391gm Pouch,,,pf368.jpg,,Parle,1
+PF69,Twix Chocolate 50gm Pouch,,45,,,,Packaged Foods,Confectionary,Chocolates,Twix Chocolate 50gm Pouch,,,pf369.jpg,,Twix,1
+PF70,Schogetten Alpine Milk Chocolate 100gm,,125,,,,Packaged Foods,Confectionary,Chocolates,Schogetten Alpine Milk Chocolate 100gm,,,pf370.jpg,,Schogetten,1
+PF71,Ferreo Kinder Joy 20gm Ball,,35,,,,Packaged Foods,Confectionary,Chocolates,Ferreo Kinder Joy 20gm Ball,,,pf371.jpg,,Ferreo,1
+PF72,Schogetten Alpine Milk Chocolate with ha...,,125,,,,Packaged Foods,Confectionary,Chocolates,Schogetten Alpine Milk Chocolate with ha...,,,pf372.jpg,,Schogetten,1
+PF73,Mars Minis 227gm Pouch,,229,,,,Packaged Foods,Confectionary,Chocolates,Mars Minis 227gm Pouch,,,pf373.jpg,,Mars,1
+PF74,"Dabur Hajmola Candy Aam+Imli, 250 U Jar",,125,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,"Dabur Hajmola Candy Aam+Imli, 250 U Jar",,,pf374.jpg,,Dabur,1
+PF75,"Dabur Hajmola Regular, Jar of 150 x Re. 1",,150,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,"Dabur Hajmola Regular, Jar of 150 x Re. 1",,,pf375.jpg,,Dabur,1
+PF76,"Dabur Hajmola Imli, Jar Of 150 U X Re. 1",,150,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,"Dabur Hajmola Imli, Jar Of 150 U X Re. 1",,,pf376.jpg,,Dabur,1
+PF77,"Dabur Hajmola Digestive Tablets Pudina, Pack Of 150 U X R...",,150,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,"Dabur Hajmola Digestive Tablets Pudina, Pack Of 150 U X R...",,,pf377.jpg,,Dabur,1
+PF78,Dabur Hajmola Digestive Tablets Regular,,20,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Dabur Hajmola Digestive Tablets Regular,,,pf378.jpg,,Dabur,1
+PF79,McVities Digestives Milk Chocolate Cookies,,168,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,McVities Digestives Milk Chocolate Cookies,,,pf379.jpg,,McVities,1
+PF80,Dilbahars Digestives Adrak Pachak 100gm.,,90,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Dilbahars Digestives Adrak Pachak 100gm.,,,pf380.png,,Dilbahars,1
+PF81,Dilbahars Digestives Khatta Chhuhara 160gm.,,81,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Dilbahars Digestives Khatta Chhuhara 160gm.,,,pf381.png,,Dilbahars,1
+PF82,Unibic Oatmeal Digestive Cookies 200gm,,40,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Unibic Oatmeal Digestive Cookies 200gm,,,pf382.jpg,,Unibc,1
+PF83,Parle Digestive Apple&cinnamon Biscuits....,,50,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Parle Digestive Apple&cinnamon Biscuits....,,,pf383.jpg,,Parle,1
+PF84,Parle Digestive Honey&Oats Biscuits....,,50,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Parle Digestive Honey&Oats Biscuits....,,,pf384.jpg,,Parle,1
+PF85,McVities Digestive Biscuits Bipashas sig...,,100,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,McVities Digestive Biscuits Bipashas sig...,,,pf385.jpg,,McVities,1
+PF86,Britannia Nutri Choice Oats Cookies 150,,55,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Britannia Nutri Choice Oats Cookies 150,,,pf386.jpg,,Britania,1
+PF87,Britannia Nutri Choice 5 Grain 200gm Ca..,,50,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Britannia Nutri Choice 5 Grain 200gm Ca..,,,pf387.jpg,,Britania,1
+PF88,Britannia Nutri Choice Ragi Cookies 150gm Ca..,,55,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Britannia Nutri Choice Ragi Cookies 150gm Ca..,,,pf388.jpg,,Britania,1
+PF89,Unibc Anzac Oatmeal Cookies 150gm Cart,,40,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Unibc Anzac Oatmeal Cookies 150gm Cart,,,pf389.jpg,,Unibc,1
+PF90,Unibic Sugarfree Butter Cookies 75gm ca.....,,35,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Unibic Sugarfree Butter Cookies 75gm ca.....,,,pf390.jpg,,Unibc,1
+PF91,Sunfeast Farmlite Oats and Almonds 150g..,,50,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Sunfeast Farmlite Oats and Almonds 150g..,,,pf391.jpg,,Sunfeast,1
+PF92,Britannia Nutri Choice essdentials Oat co....,,55,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Britannia Nutri Choice essdentials Oat co....,,,pf392.png,,Britannia,1
+PF93,Sugarless Bliss  Chocolate and Black Curr...,,155,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Sugarless Bliss  Chocolate and Black Curr...,,,pf393.jpg,,Sugarless  Bliss,1
+PF94,McVities HobNos Oat Biscuits 300gm Car...,,141,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,McVities HobNos Oat Biscuits 300gm Car...,,,pf394.jpg,,McVities,1
+PF95,Sugarless Bliss Vanilla Butter Cookies 2...,,155,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Sugarless Bliss Vanilla Butter Cookies 2...,,,pf395.jpg,,Sugarless  Bliss,1
+PF96,Sugarless Bliss  Natural Fig Biscotti Coo...,,155,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Sugarless Bliss  Natural Fig Biscotti Coo...,,,pf396.jpg,,Sugarless  Bliss,1
+PF97,Britannia NutriChoice Essentials Ragi Co..,,55,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Britannia NutriChoice Essentials Ragi Co..,,,pf397.jpg,,Britannia,1
+PF98,McVities Ginger nuts Biscuits  100gm Pack,,25,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,McVities Ginger nuts Biscuits  100gm Pack,,,pf398.jpg,,McVities,1
+PF99,Britannia Nutri Choice  essentials Oat Co.....,,30,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Britannia Nutri Choice  essentials Oat Co.....,,,pf399.png,,Britannia,1
+PF100,McVities Hobnobs Oat Cookies 150gm Car...,,40,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,McVities Hobnobs Oat Cookies 150gm Car...,,,pf400.jpg,,McVities,1
+PF101,Sunfeast Farmlite Oats and Raising 150g..,,50,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Sunfeast Farmlite Oats and Raising 150g..,,,pf401.jpg,,Sunfeast,1
+PF102,Unibc Sugarfree Oatmeal Cookies 75gm Cart,,35,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Unibc Sugarfree Oatmeal Cookies 75gm Cart,,,pf402.jpg,,Unibc,1
+PF103,Parle Actifit Cream Cracker Sugarless 10...,,15,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Parle Actifit Cream Cracker Sugarless 10...,,,pf403.png,,Parle,1
+PF104,Dibahars Digestives Shodhy Harad215gm,,75,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Dibahars Digestives Shodhy Harad215gm,,,pf404.jpg,,Dilbahars,1
+PF105,Parle Digestive Marien250gm Pouch,,30,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Parle Digestive Marien250gm Pouch,,,pf405.jpg,,Parle,1
+PF106,Dilbahars Digestives Ajwain Pachak 190gm.,,99,,,,Packaged Foods,Confectionary,Digestive & Breath Fresheners,Dilbahars Digestives Ajwain Pachak 190gm.,,,pf406.jpg,,Dilbahars,1
+PF107,Tic Tac Breath Mint Flavours,,240,,,,Packaged Foods,Confectionary,Gums & Mints,Tic Tac Breath Mint Flavours,,,pf407.jpg,,Tic Tac,1
+PF108,Tic Tac Breath Mint Jar,,300,,,,Packaged Foods,Confectionary,Gums & Mints,Tic Tac Breath Mint Jar,,,pf408.jpg,,Tic Tac,1
+PF109,"Tic Tac Breath Mint Strawberry, Pack Of 6 X Rs. 15",,90,,,,Packaged Foods,Confectionary,Gums & Mints,"Tic Tac Breath Mint Strawberry, Pack Of 6 X Rs. 15",,,pf409.jpg,,Tic Tac,1
+PF110,"Tic Tac Breath Mint Intensity, Pack Of 6 X Rs. 15",,90,,,,Packaged Foods,Confectionary,Gums & Mints,"Tic Tac Breath Mint Intensity, Pack Of 6 X Rs. 15",,,pf410.jpg,,Tic Tac,1
+PF111,"Tic Tac Breath Mint Peach Passion, Pack Of 6 X Rs. 10",,60,,,,Packaged Foods,Confectionary,Gums & Mints,"Tic Tac Breath Mint Peach Passion, Pack Of 6 X Rs. 10",,,pf411.jpg,,Tic Tac,1
+PF112,"Center Fresh Chewing Gum Spear Mint, Pack of 285 U",,285,,,,Packaged Foods,Confectionary,Gums & Mints,"Center Fresh Chewing Gum Spear Mint, Pack of 285 U",,,pf412.jpg,,Center Fresh,1
+PF113,Pim Pom Lollipop 60 U,,300,,,,Packaged Foods,Confectionary,Gums & Mints,Pim Pom Lollipop 60 U,,,pf413.jpg,,Pim Pom,1
+PF114,Polo Mint Pack Of 50 X Rs. 2,,130,,,,Packaged Foods,Confectionary,Gums & Mints,Polo Mint Pack Of 50 X Rs. 2,,,pf414.jpg,,Polo,1
+PF115,Polo Mint Box Pack Of 20 X Rs. 5,,110,,,,Packaged Foods,Confectionary,Gums & Mints,Polo Mint Box Pack Of 20 X Rs. 5,,,pf415.jpg,,Polo,1
+PF116,"Happydent Chewing gum Wave, Pack Of 150 U",,150,,,,Packaged Foods,Confectionary,Gums & Mints,"Happydent Chewing gum Wave, Pack Of 150 U",,,pf416.jpg,,Happydent,1
+PF117,"Wrigley Chewing Gum WinterFrost, Pack Of 24 X Rs. 5",,120,,,,Packaged Foods,Confectionary,Gums & Mints,"Wrigley Chewing Gum WinterFrost, Pack Of 24 X Rs. 5",,,pf417.jpg,,Wrigleys,1
+PF118,"Orbit Chewing Gum Lime, Pack Of 24 X Rs. 5",,120,,,,Packaged Foods,Confectionary,Gums & Mints,"Orbit Chewing Gum Lime, Pack Of 24 X Rs. 5",,,pf418.jpg,,Orbit,1
+PF119,"Orbit Chewing Gum Spearmint, Pack Of 24 x Rs. 5",,120,,,,Packaged Foods,Confectionary,Gums & Mints,"Orbit Chewing Gum Spearmint, Pack Of 24 x Rs. 5",,,pf419.jpg,,Orbit,1
+PF120,"Orbit Chewing Gum Fruit , Pack Of 24 X Rs. 5",,120,,,,Packaged Foods,Confectionary,Gums & Mints,"Orbit Chewing Gum Fruit , Pack Of 24 X Rs. 5",,,pf420.jpg,,Orbit,1
+PF121,"Center Fresh Chewing Gum Stick, Pack Of 24",,150,,,,Packaged Foods,Confectionary,Gums & Mints,"Center Fresh Chewing Gum Stick, Pack Of 24",,,pf421.jpg,,Center Fresh,1
+PF122,"Center Fruit Chewing Gum Tutti Fruity, Pack Of 150 U",,150,,,,Packaged Foods,Confectionary,Gums & Mints,"Center Fruit Chewing Gum Tutti Fruity, Pack Of 150 U",,,pf422.jpg,,,1
+PF123,"Boomer Chewing Gum Standard, Pack Of 150 U",,150,,,,Packaged Foods,Confectionary,Gums & Mints,"Boomer Chewing Gum Standard, Pack Of 150 U",,,pf423.jpg,,Boomer,1
+PF124,"Boomer Chewing Gum Jellytop Watermelon, Pack Of 150 U",,150,,,,Packaged Foods,Confectionary,Gums & Mints,"Boomer Chewing Gum Jellytop Watermelon, Pack Of 150 U",,,pf424.jpg,,Boomer,1
+PF125,"Boomer Chewing Gum Duet, Pack Of 150 U",,150,,,,Packaged Foods,Confectionary,Gums & Mints,"Boomer Chewing Gum Duet, Pack Of 150 U",,,pf425.jpg,,Boomer,1
+PF126,"Big Babool Chewing Gum Fruit, Pack Of 150 U",,150,,,,Packaged Foods,Confectionary,Gums & Mints,"Big Babool Chewing Gum Fruit, Pack Of 150 U",,,pf426.jpg,,Big Babool,1
+PF127,"Center Fresh Chewing Gum Spearmint, Pack Of 176 U",,176,,,,Packaged Foods,Confectionary,Gums & Mints,"Center Fresh Chewing Gum Spearmint, Pack Of 176 U",,,pf427.jpg,,Center,1
+PF128,"Mentos Candy Orange, Jar Of 150 U",,150,,,,Packaged Foods,Confectionary,Gums & Mints,"Mentos Candy Orange, Jar Of 150 U",,,pf428.jpg,,Mentos,1
+PF129,"Mentos Candy Strawberry, Jar Of 150 U",,150,,,,Packaged Foods,Confectionary,Gums & Mints,"Mentos Candy Strawberry, Jar Of 150 U",,,pf429.jpg,,Mentos,1
+PF130,"Center Fruit Chewing Gum Xplode, 576 g",,230,,,,Packaged Foods,Confectionary,Gums & Mints,"Center Fruit Chewing Gum Xplode, 576 g",,,pf430.jpg,,Center Fruit,1
+PF131,"Tic Tac Breath Mint Elaichi, Pack Of 6 X Rs. 10",,60,,,,Packaged Foods,Confectionary,Gums & Mints,"Tic Tac Breath Mint Elaichi, Pack Of 6 X Rs. 10",,,pf431.jpg,,Tic Tac,1
+PF132,"Tic Tac Breath Mint Assorted, Pack Of 12 X Rs. 10",,120,,,,Packaged Foods,Confectionary,Gums & Mints,"Tic Tac Breath Mint Assorted, Pack Of 12 X Rs. 10",,,pf432.jpg,,Tic Tac,1
+PF133,"Orbit Chewing Gum White, Pack Of 24 X Rs. 5",,120,,,,Packaged Foods,Confectionary,Gums & Mints,"Orbit Chewing Gum White, Pack Of 24 X Rs. 5",,,pf433.jpg,,Orbit,1
+PF134,"Boomer Chewing Gum Jellytop Orange, Pack Of 150 U",,150,,,,Packaged Foods,Confectionary,Gums & Mints,"Boomer Chewing Gum Jellytop Orange, Pack Of 150 U",,,pf434.jpg,,Boomer,1
+PF135,Orbit sugar free Chewing Gum mixed Fruit of 5 NOs,,5,,,,Packaged Foods,Confectionary,Gums & Mints,Orbit sugar free Chewing Gum mixed Fruit of 5 NOs,,,pf435.jpg,,Orbit,1
+PF136,Chingles Tutti Fruit chewing Gums 21.6 gms carton,,10,,,,Packaged Foods,Confectionary,Gums & Mints,Chingles Tutti Fruit chewing Gums 21.6 gms carton,,,pf436.jpg,,Chings,1
+PF137,Chingles nimbu flavour chewing gums 21.6 gms carton,,10,,,,Packaged Foods,Confectionary,Gums & Mints,chingles nimbu flavour chewing gums 21.6 gms carton,,,pf437.jpg,,Chings,1
+PF138,Happydent Complete Sugar Free 27.5 gms Bottle,,30,,,,Packaged Foods,Confectionary,Gums & Mints,Happydent Complete Sugar Free 27.5 gms Bottle,,,pf438.jpg,,Happydent,1
+PF139,Orbit sugar free Chewing Gum winterfrost of 5 Nos,,5,,,,Packaged Foods,Confectionary,Gums & Mints,Orbit sugar free Chewing Gum winterfrost of 5 Nos,,,pf439.png,,Oribit,1
+PF140,Orbit sugar free chewing gum Spearmint 25 Nos Box,,50,,,,Packaged Foods,Confectionary,Gums & Mints,Orbit sugar free chewing gum Spearmint 25 Nos Box,,,pf440.jpg,,Oribit,1
+PF141,Orbit Sugarfree Chewing Gum Lime 5 Nos Carton,,5,,,,Packaged Foods,Confectionary,Gums & Mints,Orbit Sugarfree Chewing Gum Lime 5 Nos Carton,,,pf441.jpg,,Oribit,1
+PF142,Orbit sugar free chewing gum spearmint 5 Nos,,5,,,,Packaged Foods,Confectionary,Gums & Mints,orbit sugar free chewing gum spearmint 5 Nos,,,pf442.jpg,,Oribit,1
+PF143,Chingles Saunf Flavour 21.6 gms pack,,10,,,,Packaged Foods,Confectionary,Gums & Mints,Chingles Saunf Flavour 21.6 gms pack,,,pf443.jpg,,Chingles,1
+PF144,Happydent Complete peppermint 6NOs ,,5,,,,Packaged Foods,Confectionary,Gums & Mints,Happydent Complete peppermint 6NOs ,,,pf444.jpg,,Happydent,1
+PF145,Center Fruit 30.4 gm pack,,10,,,,Packaged Foods,Confectionary,Gums & Mints,Center Fruit 30.4 gm pack,,,pf445.jpg,,Center,1
+PF146,Happydent Complete peppermint Flavour 27.5 gm Box,,30,,,,Packaged Foods,Confectionary,Gums & Mints,Happydent Complete peppermint Flavour 27.5 gm Box,,,pf446.jpg,,Happydent,1
+PF147,Orbit sugar free chewing gum spearmint 9 nos ,,10,,,,Packaged Foods,Confectionary,Gums & Mints,Orbit sugar free chewing gum spearmint 9 nos ,,,pf447.png,,Oribit,1
+PF148,Chingles Mint Flavour 21.6gms box,,10,,,,Packaged Foods,Confectionary,Gums & Mints,Chingles Mint Flavour 21.6gms box,,,pf448.jpg,,Chingles,1
+PF149,Happydent Wave peppermint Flavour Flip 19gm box,,10,,,,Packaged Foods,Confectionary,Gums & Mints,Happydent Wave peppermint Flavour Flip 19gm box,,,pf449.jpg,,Happydent,1
+PF150,Smint sugar free mint chewing gum,,35,,,,Packaged Foods,Confectionary,Gums & Mints,smint sugar free mint chewing gum,,,pf450.jpg,,Smint,1
+PF151,Sanfeast Special Tasty Pineapple Cream 100 gm Pouch,,10,,,,Packaged Foods,Biscuits & Snacks,Creams,Sanfeast Special Tasty Pineapple Cream 100 gm Pouch,,,pf1000.jpg,,Sunfeast,1
+PF152,Sunfeast Bounce Choco wist Cream Biscuit 150 gm Pouch,,20,,,,Packaged Foods,Biscuits & Snacks,Creams,Sunfeast Bounce Choco wist Cream Biscuit 150 gm Pouch,,,pf1001.jpg,,Sunfeast,1
+PF153,Sunfeast Dark Fantacy Choco Crème 100 gm Pouch,,25,,,,Packaged Foods,Biscuits & Snacks,Creams,Sunfeast Dark Fantacy Choco Crème 100 gm Pouch,,,pf1002.jpg,,Sunfeast,1
+PF154,Sunfeast Dark Fantasy Choco Meltz 120 gm Pouch,,60,,,,Packaged Foods,Biscuits & Snacks,Creams,Sunfeast Dark Fantasy Choco Meltz 120 gm Pouch,,,pf1003.jpg,,Sunfeast,1
+PF155,Sunfeast Bourbon Biss Biscuit 60 gm Pouch,,10,,,,Packaged Foods,Biscuits & Snacks,Creams,Sunfeast Bourbon Biss Biscuit 60 gm Pouch,,,pf1004.png,,Sunfeast,1
+PF156,Sanfeast Marie Light Orange 120 gm Pouch,,15,,,,Packaged Foods,Biscuits & Snacks,Creams,Sanfeast Marie Light Orange 120 gm Pouch,,,pf1005.jpg,,Sunfeast,1
+PF157,Sunfeast Bounce Pineapple Zing Cream Biscuits 100 gm Pack,,12,,,,Packaged Foods,Biscuits & Snacks,Creams,Sunfeast Bounce Pineapple Zing Cream Biscuits 100 gm Pack,,,pf1006.jpg,,Sunfeast,1
+PF158,Sunfeast Dream Cream Choco Vanilla 120 gm Pouch,,20,,,,Packaged Foods,Biscuits & Snacks,Creams,Sunfeast Dream Cream Choco Vanilla 120 gm Pouch,,,pf1007.jpg,,Sunfeast,1
+PF159,Sunfeast Dream Cream Choco Vanilla 60 gm Pouch,,10,,,,Packaged Foods,Biscuits & Snacks,Creams,Sunfeast Dream Cream Choco Vanilla 60 gm Pouch,,,pf1008.png,,Sunfeast,1
+PF160,Sunfeast Baurbone Biss Choco Cream Biscuits 70 gm Pack,,12,,,,Packaged Foods,Biscuits & Snacks,Creams,Sunfeast Baurbone Biss Choco Cream Biscuits 70 gm Pack,,,pf1009.png,,Sunfeast,1
+PF161,Sunfeast Dream Cream Strawberry Vanilla 120 gm Pouch,,20,,,,Packaged Foods,Biscuits & Snacks,Creams,Sunfeast Dream Cream Strawberry Vanilla 120 gm Pouch,,,pf1010.jpg,,Sunfeast,1
+PF162,Sunfeast Dream Cream Strawberry Vanilla 60 gm Pouch,,10,,,,Packaged Foods,Biscuits & Snacks,Creams,Sunfeast Dream Cream Strawberry Vanilla 60 gm Pouch,,,pf1011.jpg,,Sunfeast,1
+PF163,"Britannia Biscuit Tiger, 133 g",,10,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,"Britannia Biscuit Tiger, 133 g",,,pf1012.jpg,,Britannia ,1
+PF164,Sunfeast Glucose Biscuits Pack Of 24 X 40 g,,72,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Sunfeast Glucose Biscuits Pack Of 24 X 40 g,,,pf1013.jpg,,Sunfeast,1
+PF165,Sunfeast Glucose Biscuits Pack Of 30 X 24 g,,60,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Sunfeast Glucose Biscuits Pack Of 30 X 24 g,,,pf1014.jpg,,Sunfeast,1
+PF166,Parle-G Biscuits 800 g,,55,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Parle-G Biscuits 800 g,,,pf1015.jpg,,Parle,1
+PF167,Parle-G Biscuits Pack Of 24 X 72 g,,120,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Parle-G Biscuits Pack Of 24 X 72 g,,,pf1016.jpg,,Parle,1
+PF168,Parle-G Biscuits 300 g,,20,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Parle-G Biscuits 300 g,,,pf1017.jpg,,Parle,1
+PF169,Parle-G Biscuits Pack Of 30 X 28 g,,60,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Parle-G Biscuits Pack Of 30 X 28 g,,,pf1018.jpg,,Parle,1
+PF170,Parle-G Biscuits 144 g,,10,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Parle-G Biscuits 144 g,,,pf1019.jpg,,Parle,1
+PF171,Britannia Tiger Biscuits Pack Of 24 X 41.5 g,,72,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Britannia Tiger Biscuits Pack Of 24 X 41.5 g,,,pf1020.jpg,,Britannia ,1
+PF172,Glucon D Glucose Tangy Original Flavour 450 gm Carton,,126,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Glucon D Glucose Tangy Original Flavour 450 gm Carton,,,pf1021.jpg,,Glucon D,1
+PF173,Glucon D Glucose Tangy Original Flavour 200 gm Carton,,58,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Glucon D Glucose Tangy Original Flavour 200 gm Carton,,,pf1022.jpg,,Glucon D,1
+PF174,Sanfeast Glucose Biscuits 250 gm Pouch,,20,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Sanfeast Glucose Biscuits 250 gm Pouch,,,pf1023.jpg,,Sunfeast,1
+PF175,Dabur Glucose D Cooling Energy 1 Kg Jar,,157,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Dabur Glucose D Cooling Energy 1 Kg Jar,,,pf1024.png,,Dabur,1
+PF176,Glucon D Pure Glucose Original 500 gm Jar,,92,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Glucon D Pure Glucose Original 500 gm Jar,,,pf1025.jpg,,Glucon D,1
+PF177,Glucon D Pure Glucose Original 200 gm Carton,,43,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Glucon D Pure Glucose Original 200 gm Carton,,,pf1026.jpg,,Glucon D,1
+PF178,Cadbury Perk With Glucose Energy 17 gm Pouch,,5,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Cadbury Perk With Glucose Energy 17 gm Pouch,,,pf1027.jpg,,Cadbury,1
+PF179,Glucon D Pure Glucose Original 500 gm Jar,,92,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Glucon D Pure Glucose Original 500 gm Jar,,,pf1028.jpg,,Glucon,1
+PF180,Glucon D Pure Glucose Original 200 gm Carton,,43,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Glucon D Pure Glucose Original 200 gm Carton,,,pf1029.jpg,,Glucon,1
+PF181,Britaannia Tiger Glucose Biscuits 125 gm Pouch,,10,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Britaannia Tiger Glucose Biscuits 125 gm Pouch,,,pf1030.jpg,,Britannia ,1
+PF182,Glucon D Pure Glucose Nimbu Pani Flavour 500 gm Carton,,126,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Glucon D Pure Glucose Nimbu Pani Flavour 500 gm Carton,,,pf1031.jpg,,Glucon,1
+PF183,Glucon D Pure Glucose Nimbu Pani Flavour 200 gm Carton,,58,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Glucon D Pure Glucose Nimbu Pani Flavour 200 gm Carton,,,pf1032.jpg,,Glucon,1
+PF184,Parle G Original Gluco Biscuit 70 gm Pack,,5,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Parle G Original Gluco Biscuit 70 gm Pack,,,pf1033.jpg,,Parle,1
+PF185,Britannia Milk Bikis Biscuit 85 gm Pouch,,10,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Britannia Milk Bikis Biscuit 85 gm Pouch,,,pf1034.jpg,,Britannia ,1
+PF186,Parle G Biscuits 250 gm Pouch ,,20,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Parle G Biscuits 250 gm Pouch ,,,pf1035.jpg,,Parle,1
+PF187,Parle Parle G Gold 200 gm Pouch,,20,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Parle Parle G Gold 200 gm Pouch,,,pf1036.jpg,,Parle,1
+PF188,Britannia Milk Bikis Cream Biscuits 100 gm Pouch,,20,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Britannia Milk Bikis Cream Biscuits 100 gm Pouch,,,pf1037.jpg,,Britannia ,1
+PF189,Britannia Milk Bikis Biscuits 85 gm Pouch,,10,,,,Packaged Foods,Biscuits & Snacks,Glucose & Milk,Britannia Milk Bikis Biscuits 85 gm Pouch,,,pf1038.jpg,,Britannia ,1
+PF190,"Britannia Nutrichoice Biscuits Oatmeal, 75 g",,30,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,"Britannia Nutrichoice Biscuits Oatmeal, 75 g",,,pf1039.jpg,,Britannia ,1
+PF191,"Britannia Nutrichoice Biscuits Digestive, 75 g",,15,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,"Britannia Nutrichoice Biscuits Digestive, 75 g",,,pf1040.jpg,,Britannia ,1
+PF192,Sunfeast Marie Oats 100 g,,15,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Sunfeast Marie Oats 100 g,,,pf1041.jpg,,Sunfeast,1
+PF193,Sunfeast Marie Lite 250 g,,20,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Sunfeast Marie Lite 250 g,,,pf1042.jpg,,Sunfeast,1
+PF194,Britannia Vita Marie 150 g,,20,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Vita Marie 150 g,,,pf1043.jpg,,Britannia ,1
+PF195,Britannia Milk Bikis 200 g,,22,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Milk Bikis 200 g,,,pf1044.jpg,,Britannia ,1
+PF196,"Britannia Milk Bikis Air Tight Container, 150 g",,18,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,"Britannia Milk Bikis Air Tight Container, 150 g",,,pf1045.jpg,,Britannia ,1
+PF197,Britannia Milk Bikis 100 g,,10,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Milk Bikis 100 g,,,pf1046.jpg,,Britannia ,1
+PF198,Britannia Mariegold Pack Of 12 X 63 g,,60,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Mariegold Pack Of 12 X 63 g,,,pf1047.jpg,,Britannia ,1
+PF199,Britannia Mariegold 300 g,,27,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Mariegold 300 g,,,pf1048.jpg,,Britannia ,1
+PF200,Britannia Mariegold 200 g,,22,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Mariegold 200 g,,,pf1049.jpg,,Britannia ,1
+PF201,Britannia Mariegold 150 g,,15,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Mariegold 150 g,,,pf1050.jpg,,Britannia ,1
+PF202,Britannia Mariegold 100 g,,10,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Mariegold 100 g,,,pf1051.jpg,,Britannia ,1
+PF203,"Britannia Biscuits Brita, 150 g",,18,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,"Britannia Biscuits Brita, 150 g",,,pf1052.jpg,,Britannia ,1
+PF204,"Britannia Nutrichoice Biscuits Ragi, 75 g",,30,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,"Britannia Nutrichoice Biscuits Ragi, 75 g",,,pf1053.jpg,,Britannia ,1
+PF205,"Britannia Nutrichoice Biscuits Ragi, 150 g",,55,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,"Britannia Nutrichoice Biscuits Ragi, 150 g",,,pf1054.jpg,,Britannia ,1
+PF206,"Britannia Nutrichoice Biscuits Oatmeal, 150 g",,55,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,"Britannia Nutrichoice Biscuits Oatmeal, 150 g",,,pf1055.jpg,,Britannia ,1
+PF207,"Britannia Nutrichoice Biscuits Digestive, 250 g",,50,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,"Britannia Nutrichoice Biscuits Digestive, 250 g",,,pf1056.jpg,,Britannia ,1
+PF208,"Britannia Nutrichoice Biscuits Classic Lite, 100 g",,15,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,"Britannia Nutrichoice Biscuits Classic Lite, 100 g",,,pf1057.jpg,,Britannia ,1
+PF209,"Britannia Nutrichoice Biscuits Arrowroot, 150 g",,20,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,"Britannia Nutrichoice Biscuits Arrowroot, 150 g",,,pf1058.jpg,,Britannia ,1
+PF210,Britannia Biscuits Heavens Oats Almond Banana,,50,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Biscuits Heavens Oats Almond Banana,,,pf1059.jpg,,Britannia ,1
+PF211,Britannia Biscuits Heavens Oats Cranberry,,50,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Biscuits Heavens Oats Cranberry,,,pf1060.jpg,,Britannia ,1
+PF212,Mc vities Digestive Whole Wheat Biscuits 250 gm Carton,,48,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mc vities Digestive Whole Wheat Biscuits 250 gm Carton,,,pf1061.jpg,,Mc Vities,1
+PF213,Mc Vities Digestive Whole wheat Biscuits 100 gm Pouch,,19,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mc Vities Digestive Whole wheat Biscuits 100 gm Pouch,,,pf1062.jpg,,Mc Vities,1
+PF214,Mc Vities Digestive Whole wheat Biscuits 400 gm Carton,,65,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mc Vities Digestive Whole wheat Biscuits 400 gm Carton,,,pf1063.jpg,,Mc Vities,1
+PF215,Mc Vities Digestive Whole wheat Biscuits 75 gm Pouch,,12,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mc Vities Digestive Whole wheat Biscuits 75 gm Pouch,,,pf1064.jpg,,Mc Vities,1
+PF216,Unibic Sugarfree Oatmeal Cookies 75 gm Carton,,35,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Unibic Sugarfree Oatmeal Cookies 75 gm Carton,,,pf1065.jpg,,Unibic,1
+PF217,Unibic Anzac Oatmeal Cookies 75 gm Pouch,,19,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Unibic Anzac Oatmeal Cookies 75 gm Pouch,,,pf1066.jpg,,Unibic,1
+PF218,Unibic Anzac Oatmeal Cookies 150 gm Carton,,40,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Unibic Anzac Oatmeal Cookies 150 gm Carton,,,pf1067.jpg,,Unibic,1
+PF219,Unibic Sugarfree Butter Cookies 75 gm Carton,,33,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Unibic Sugarfree Butter Cookies 75 gm Carton,,,pf1068.jpg,,Unibic,1
+PF220,Unibic Oatmeal Digestive Cookies 100 gm Pouch,,19,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Unibic Oatmeal Digestive Cookies 100 gm Pouch,,,pf1069.png,,Unibic,1
+PF221,Unibic Oatmeal Digestive Cookies 200 gm Carton,,40,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Unibic Oatmeal Digestive Cookies 200 gm Carton,,,pf1070.jpg,,Unibic,1
+PF222,Britannia Nutri Choice Hi Fibre Digestive Biscuit 250 gm Pouch,,50,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Nutri Choice Hi Fibre Digestive Biscuit 250 gm Pouch,,,pf1071.jpg,,Britannia ,1
+PF223,Britannia Nutri Choice Hi Fibre Digestive Biscuit 100 gm Pouch,,20,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Nutri Choice Hi Fibre Digestive Biscuit 100 gm Pouch,,,pf1072.jpg,,Britannia ,1
+PF224,Parle Actifit Cream Cracker Sugarless 100 gm Pouch,,15,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Parle Actifit Cream Cracker Sugarless 100 gm Pouch,,,pf1073.jpg,,Parle,1
+PF225,Britannia Nutri Choice Oats Cookies 150 gm Carton,,55,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Nutri Choice Oats Cookies 150 gm Carton,,,pf1074.jpg,,Britannia ,1
+PF226,Britannia Nutri Choice Oats Cookies 75 gm Pouch,,30,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Nutri Choice Oats Cookies 75 gm Pouch,,,pf1075.jpg,,Britannia ,1
+PF227,Britannia Nutri Choice 5 Grain 200 gm Catron,,50,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Nutri Choice 5 Grain 200 gm Catron,,,pf1076.jpg,,Britannia ,1
+PF228,Britannia Nutri Choice 5 Grain 100 gm Pouch,,25,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Nutri Choice 5 Grain 100 gm Pouch,,,pf1077.jpg,,Britannia ,1
+PF229,Britannia Nutri Choice Ragi Cookies 150 gm Carton,,55,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Nutri Choice Ragi Cookies 150 gm Carton,,,pf1078.jpg,,Britannia ,1
+PF230,Britannia Nutri Choice Ragi Cookies 75 gm Carton,,30,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Nutri Choice Ragi Cookies 75 gm Carton,,,pf1079.jpg,,Britannia ,1
+PF231,Mcvities Digestive Biscuits No added Suger 150 gm carton,,50,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mcvities Digestive Biscuits No added Suger 150 gm carton,,,pf1080.jpg,,Mc Vities,1
+PF232,Mc Vities Hobnobs Oat Cookies 150 gm Carton,,40,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mc Vities Hobnobs Oat Cookies 150 gm Carton,,,pf1081.jpg,,Mc Vities,1
+PF233,Sunfeast Farmlite Oats and Raisins 150 gm Pouch,,50,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Sunfeast Farmlite Oats and Raisins 150 gm Pouch,,,pf1082.jpg,,Sunfeast,1
+PF234,Sunfeast Farmlite Oats and Raisins 75 gm Pouch,,25,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Sunfeast Farmlite Oats and Raisins 75 gm Pouch,,,pf1083.jpg,,Sunfeast,1
+PF235,Sunfeast Farmlite Oats and Almonds 150 gm Pouch,,50,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Sunfeast Farmlite Oats and Almonds 150 gm Pouch,,,pf1084.jpg,,Sunfeast,1
+PF236,Sunfeast Farmlite Oats and Almonds 75 gm Pouch,,25,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Sunfeast Farmlite Oats and Almonds 75 gm Pouch,,,pf1085.jpg,,Sunfeast,1
+PF237,Parle Digestive Marie 250 gm Pouch,,30,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Parle Digestive Marie 250 gm Pouch,,,pf1086.jpg,,Parle,1
+PF238,Mcvities Ginger nuts Biscuits 100gm pack,,25,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mcvities Ginger nuts Biscuits 100gm pack,,,pf1087.jpg,,Mc Vities,1
+PF239,Parle Digestive Apple & cinnamon Biscuits 250 gm Carton,,50,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Parle Digestive Apple & cinnamon Biscuits 250 gm Carton,,,pf1088.jpg,,Parle,1
+PF240,Mc Vities Digestive Light Cookies 400 gm Carton,,186,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mc Vities Digestive Light Cookies 400 gm Carton,,,pf1089.jpg,,Mc Vities,1
+PF241,Mc Vities Digestive Light Cookies 250 gm Carton,,123,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mc Vities Digestive Light Cookies 250 gm Carton,,,pf1090.jpg,,Mc Vities,1
+PF242,Mcvities Digestive biscuits Bipashas signature 500gm Corton,,100,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mcvities Digestive biscuits Bipashas signature 500gm Corton,,,pf1091.jpg,,Mc Vities,1
+PF243,Mcvities HobNobs Oat Biscuits 300 gm Carton,,141,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mcvities HobNobs Oat Biscuits 300 gm Carton,,,pf1092.jpg,,Mc Vities,1
+PF244,Parle Digestive Honey & Oats Biscuits 250 gm Carton,,50,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Parle Digestive Honey & Oats Biscuits 250 gm Carton,,,pf1093.png,,Parle,1
+PF245,Mc Vities Digestive Biscuits 400 gm Carton,,176,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mc Vities Digestive Biscuits 400 gm Carton,,,pf1094.jpg,,Mc Vities,1
+PF246,Sugarless Cookies Natural Ginger and Cinnamon Cookies 200 gm Carton,,155,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Sugarless Cookies Natural Ginger and Cinnamon Cookies 200 gm Carton,,,pf1095.jpg,,Sugarless,1
+PF247,Mc Vities Digestive Biscuits 400 gm Carton,,176,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Mc Vities Digestive Biscuits 400 gm Carton,,,pf1096.jpg,,Mc Vities,1
+PF248,Britannia Nutri Choice essentials Oat Cookies 75gms pouch,,30,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Nutri Choice essentials Oat Cookies 75gms pouch,,,pf1097.png,,Britannia ,1
+PF249,Sugarless Bliss Vanilla Butter Cookies 200 gm Carton,,155,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Sugarless Bliss Vanilla Butter Cookies 200 gm Carton,,,pf1098.jpg,,Sugarless,1
+PF250,Sugarless Bliss Natural Fig Biscotti Cookies 200 gm Carton,,155,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Sugarless Bliss Natural Fig Biscotti Cookies 200 gm Carton,,,pf1099.jpg,,Sugarless,1
+PF251,Britannia Nutrichoice Essentials Ragi Cookies 150 gm Pouch,,55,,,,Packaged Foods,Biscuits & Snacks,Health & Marie,Britannia Nutrichoice Essentials Ragi Cookies 150 gm Pouch,,,pf1100.jpg,,Britannia ,1

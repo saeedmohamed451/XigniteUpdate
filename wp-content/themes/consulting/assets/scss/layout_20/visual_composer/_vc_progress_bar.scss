@@ -1,0 +1,21 @@
+body .vc_progress_bar {
+  .vc_label {
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 0;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: 700;
+    margin-bottom: 11px;
+    .vc_label_units {
+      float: right;
+    }
+  }
+  .vc_single_bar {
+    height: 10px;
+    background-color: rgba(#ffffff, 0.25);
+  }
+
+  .vc_single_bar  {
+    margin-bottom: 32px;
+  }
+}

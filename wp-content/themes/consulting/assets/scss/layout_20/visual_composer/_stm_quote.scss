@@ -1,0 +1,59 @@
+.quote_box {
+  color: $stm_base_color;
+  .quote {
+    line-height: 36px;
+    letter-spacing: 0;
+    margin-bottom: 30px;
+    font-family: 'Catamaran', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+  }
+  .stm_contact_image {
+    float: left;
+    display: inline;
+    margin-right: 20px;
+    img {
+      @include border-radius(50%);
+    }
+  }
+  .author_info {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    .author_name {
+      letter-spacing: 0;
+      margin-bottom: 4px;
+      font-family: 'Catamaran', sans-serif;
+      font-size: 18px;
+    }
+    .author_status {
+      font-size: 15px;
+      font-style: italic;
+    }
+  }
+  &.secondary {
+    color: $stm_secondary_color;
+  }
+  &.third {
+    color: $stm_third_color;
+  }
+}
+
+@media only screen and (max-width: 419px) {
+  .quote_box {
+    .quote {
+      line-height: 26px;
+      text-align: center;
+      font-size: 20px;
+    }
+    .stm_contact_image {
+      float: none;
+      display: block;
+      text-align: center;
+      margin: 0 auto 20px;
+    }
+    .author_info {
+      text-align: center;
+    }
+  }
+}

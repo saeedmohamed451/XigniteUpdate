@@ -1,0 +1,133 @@
+<?php
+session_start();
+include_once("../../include/database.php");
+$obj= new database();
+$date = date('Y_m_d_H_i_s', time());
+$sender = $_REQUEST['sender'];
+$msg = $_REQUEST['msg'];
+
+$obj->addMsg_from_agent($sender, $msg, $date);
+?>
+<?php
+	require_once 'db-config.php';
+        function getAgentId(){
+            $con = connectDB();
+            $sql = "select max(id) as id from telco_agent";
+            $res = mysql_query($sql);
+            $result = "AGENT";
+            if( $row = mysql_fetch_object($res) ){
+                $currentId = $row->id;
+                $currentId = $currentId + 1;
+                if( $currentId < 10 )
+                    $result = $result."0000".$currentId;
+                else if( $currentId < 100 )
+                    $result = $result."000".$currentId;
+                else if( $currentId < 1000 )
+                    $result = $result."00".$currentId;
+                else if( $currentId < 10000 )
+                    $result = $result."0".$currentId;
+                else
+                    $result = $result.$currentId;
+            }else
+                $result = $result."0001";
+            return $result;
+        }
+	$con = connectDB();
+
+	$type = $_REQUEST['type'];
+        if($type == 'login'){
+            $username = $_REQUEST['un'];
+            $password = $_REQUEST['pw'];
+            $sql = "select * from telco_agent where name = '$username' and password='$password'";
+            
+            $res = mysql_query($sql);
+            
+            if( $row = mysql_fetch_object($res) ){
+                $result = array();
+                $result['status'] = 1;
+                $result['message'] = 'Login Success';
+            class D{
+                var $name = "";
+                var $passport = "";
+                var $sex = "";
+                var $race = "";
+                var $address = "";
+                var $phoneno = "";
+                var $email = "";
+                var $distid = "";
+                var $subdistid = "";
+                var $dealerid = "";
+                var $balance = "";
+                var $id = "";
+            }
+                $d = new D();
+                $d->id = $row->id;
+                $d->name = $row->name;
+                $d->passport = $row->passport;
+                $d->sex = $row->sex;
+                $d->race = $row->race;
+                $d->address = $row->address;
+                $d->phoneno = $row->phoneno;
+                $d->email = $row->email;
+                $d->distid = $row->distid;
+                $d->subdistid = $row->sub_distid;
+                $d->dealerid = $row->dealerid;
+                $d->balance = $row->balance;
+                $result['result'] = $d;
+                echo json_encode($result);
+            }else{
+                $result = array();
+                $result['status'] = 0;
+                $result['message'] = "Login Fail. Check your username and password.";
+                echo json_encode($result);
+            }
+	}else if($type == "register"){
+         class D{
+                var $name = "";
+                var $passport = "";
+                var $sex = "";
+                var $race = "";
+                var $address = "";
+                var $phoneno = "";
+                var $email = "";
+                var $distid = "";
+                var $subdistid = "";
+                var $dealerid = "";
+                var $balance = "";
+                var $agent_id = "";
+            }
+            $d = new D();
+            $d->agent_id = getAgentId();
+            $d->name = $_REQUEST['name'];
+            $d->address = $_REQUEST['address'];
+            $d->phoneno = $_REQUEST['phoneno'];
+            $d->distid = $_REQUEST['distid'];
+            $d->subdistid = $_REQUEST['sub_distid'];
+            $d->dealerid = $_REQUEST['dealerid'];
+            $d->balance = $_REQUEST['balance'];
+            $d->passport = $_REQUEST['passport'];
+            $d->sex = $_REQUEST['sex'];
+            $d->race = $_REQUEST['race'];
+            $d->email = $_REQUEST['email'];
+            
+            $sql = "select * from telco_dealer where dealer_id = '$d->dealerid' and distid = '$d->distid' and sub_distid = '$d->subdistid'";
+            $res = mysql_query($sql);
+            $result = array();
+            if( $row = mysql_fetch_object($res) ){
+                $sql = "insert into telco_agent(name, address, phoneno, passport, sex, race, email, balance, distid, sub_distid, dealerid, agent_id) values('$d->name', "
+                    . "'$d->address', '$d->phoneno', '$d->passport', '$d->sex', '$d->race', '$d->email', '$d->balance', '$d->distid', '$d->subdistid', '$d->dealerid', '$d->agent_id')";
+                
+                mysql_query($sql);
+                
+                $result['status'] = 1;
+                $result['message'] = "Registeration success";
+            }
+            else
+            {
+                $result['status'] = 0;
+                $result['message'] = "There is no Dealer, Distributor, SubDistributor";
+            }
+            echo json_encode($result);
+        }
+	
+?>

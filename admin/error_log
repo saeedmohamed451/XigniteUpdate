@@ -1,0 +1,12 @@
+[15-Aug-2015 07:35:38 UTC] PHP Warning:  mysql_connect(): Access denied for user 'groco1t9'@'localhost' (using password: YES) in /home/groco1t9/public_html/include/database.php on line 8
+[15-Aug-2015 07:35:38 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/groco1t9/public_html/include/database.php on line 9
+[15-Aug-2015 07:36:20 UTC] PHP Warning:  mysql_connect(): Access denied for user 'groco1t9'@'localhost' (using password: YES) in /home/groco1t9/public_html/include/database.php on line 8
+[15-Aug-2015 07:36:20 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/groco1t9/public_html/include/database.php on line 9
+[15-Aug-2015 07:36:22 UTC] PHP Warning:  mysql_connect(): Access denied for user 'groco1t9'@'localhost' (using password: YES) in /home/groco1t9/public_html/include/database.php on line 8
+[15-Aug-2015 07:36:22 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/groco1t9/public_html/include/database.php on line 9
+[15-Aug-2015 07:36:51 UTC] PHP Warning:  mysql_connect(): Access denied for user 'groco1t9'@'localhost' (using password: YES) in /home/groco1t9/public_html/include/database.php on line 8
+[15-Aug-2015 07:36:51 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/groco1t9/public_html/include/database.php on line 9
+[09-Sep-2015 11:00:25 UTC] PHP Warning:  mysql_connect(): Access denied for user 'groco1t9'@'localhost' (using password: YES) in /home/groco1t9/public_html/include/database.php on line 8
+[09-Sep-2015 11:00:25 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/groco1t9/public_html/include/database.php on line 9
+[06-Oct-2015 12:48:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/groco39f/public_html/admin/orderstatus.php:28) in /home/groco39f/public_html/admin/orderstatus.php on line 31
+[06-Oct-2015 12:51:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/groco39f/public_html/admin/orderstatus.php:32) in /home/groco39f/public_html/admin/orderstatus.php on line 35

@@ -1,0 +1,49 @@
+body{
+  .stm_chart{
+    position: relative;
+    canvas{
+      max-width: 100%;
+      height: auto;
+    }
+    .chart-legend{
+      position: relative;
+      margin: 10px 0 0;
+      list-style: none;
+      padding: 0;
+      @include cleaner();
+      li{
+        padding: 0;
+        margin: 0 24px 12px 0;
+        font-size: 13px;
+        color: #777777;
+        float: left;
+        &:before{
+          display: none;
+        }
+        span{
+          display: inline-block;
+          vertical-align: top;
+          width: 18px;
+          height: 18px;
+          margin: 0 5px 0 0;
+          @include border-radius(3px);
+        }
+      }
+    }
+    &.legend_position_right{
+      canvas{
+        display: inline-block;
+        vertical-align: middle;
+      }
+      .chart-legend{
+        display: inline-block;
+        vertical-align: middle;
+        padding: 0 0 0 30px;
+        li{
+          float: none;
+          margin: 0 0 10px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+.page_title {
+  position: relative;
+  padding: 54px 0 27px;
+  background-color: $stm_third_color;
+  margin: 0 0 73px;
+  background-position: 50% 0;
+  color: #222222;
+  background-size: cover;
+  h1{
+    color: inherit;
+    &:after{
+      background: #fff;
+    }
+  }
+  &.transparent{
+    background-color: transparent;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 32px;
+    h1{
+      margin-bottom: 20px;
+      &:after{
+        background-color: $stm_third_color;
+      }
+    }
+  }
+  &.disable_title{
+    margin-bottom: 0;
+    padding-bottom: 17px;
+  }
+}
+
+h1.page_title_2{
+  line-height: 36px;
+  padding: 0;
+  margin-bottom: 40px;
+}

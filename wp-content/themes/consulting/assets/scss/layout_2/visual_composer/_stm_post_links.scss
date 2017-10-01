@@ -1,0 +1,195 @@
+.post_links_box {
+  display: table;
+  width: 100%;
+  a {
+    display: inline-block;
+    vertical-align: middle;
+    color: #999999;
+    .post_links_info {
+      display: table;
+      width: 100%;
+      .post_link_thumbnail,
+      .post_link_title {
+        display: table-cell;
+        vertical-align: middle;
+        position: relative;
+      }
+      .post_link_thumbnail {
+        width: 125px;
+        height: 125px;
+        .post_link_thumbnail_box {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          opacity: 0;
+          @include transition();
+          text-align: center;
+          line-height: 128px;
+          background-color: rgba($stm_base_color, 0.75);
+          font-size: 20px;
+          color: #ffffff;
+        }
+        img {
+          display: block;
+          max-width: 100%;
+          height: auto;
+        }
+      }
+      &:hover {
+        .post_link_thumbnail_box {
+          opacity: 1;
+        }
+      }
+    }
+    &:hover {
+      text-decoration: none;
+      color: $stm_secondary_color;
+    }
+  }
+  .previous_post_link {
+    width: 40%;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: left;
+    .post_link_title {
+      padding: 0 20px;
+    }
+  }
+  .next_post_link {
+    width: 40%;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: right;
+    .post_link_title {
+      padding: 0 20px;
+    }
+  }
+  .archive_button {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 20%;
+    &.right {
+      text-align: right;
+    }
+  }
+  &.style_1 {
+    .previous_post_link {
+      .post_link_title {
+        padding-right: 0;
+      }
+    }
+    .next_post_link {
+      .post_link_title {
+        padding-left: 0;
+      }
+    }
+  }
+  &.style_2 {
+    .previous_post_link {
+      .fa {
+        font-size: 16px !important;
+      }
+    }
+    .next_post_link {
+      .fa {
+        font-size: 16px !important;
+      }
+    }
+  }
+  &.style_3 {
+    a {
+      .post_links_info {
+        background-color: #ffffff;
+        font-family: Montserrat, sans-serif;
+        font-weight: 700;
+        color: $stm_base_color;
+        -webkit-box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        -moz-box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+        box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.3);
+      }
+      .post_link_thumbnail_box {
+        display: none !important;
+      }
+    }
+    .post_link_text {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 125px;
+      padding: 15px 0;
+      text-align: center;
+      text-transform: uppercase;
+      background-color: #ffffff;
+      font-family: Montserrat, sans-serif;
+      font-weight: 700;
+      color: #a7a7a7;
+      cursor: pointer !important;
+    }
+    .archive_button {
+      width: 100%;
+      &.right {
+        text-align: center;
+      }
+    }
+    .previous_post_link {
+      position: fixed;
+      top: 50%;
+      left: -355px;
+      width: 350px;
+      margin-top: -62px;
+      @include transition();
+      z-index: 9999;
+      .post_link_text {
+        transform: rotate(-90deg);
+        transform-origin: right top 0;
+        left: auto;
+        right: 0;
+      }
+      &:hover {
+        left: 0;
+      }
+    }
+    .next_post_link {
+      position: fixed;
+      top: 50%;
+      right: -355px;
+      width: 350px;
+      margin-top: -62px;
+      @include transition();
+      z-index: 9999;
+      .post_link_text {
+        transform: rotate(90deg);
+        transform-origin: left top 0;
+      }
+      &:hover {
+        right: 0;
+      }
+    }
+    .portfolio_btn {
+      font-size: 28px;
+    }
+  }
+  &.full_width {
+    .previous_post_link {
+      float: left;
+    }
+    .next_post_link {
+      float: right;
+    }
+  }
+}
+
+@media only screen and (min-width: 1025px) {
+  .header_style_7 {
+    .post_links_box {
+      &.style_3 {
+        .previous_post_link {
+          margin-left: 300px;
+        }
+      }
+    }
+  }
+}
